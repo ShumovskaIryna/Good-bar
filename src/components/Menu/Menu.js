@@ -13,8 +13,13 @@ export default function Menu(props) {
     <header className="header">
       <span className="logo">
         <img
-          className="brand-logo"
           src="logo.png"
+          alt="logo"
+        />
+      </span>
+       <span className="label">
+        <img
+          src="LABEL.png"
           alt="logo"
         />
       </span>

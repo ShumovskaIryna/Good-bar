@@ -19,18 +19,18 @@ const getAllGoods = async () => ({
            ],
             "description": "Смачні, гарячі, хрумкі та тягучі сирні палички фрі",
             "category": "snack",
-            "prices": "60 грн"
-          // },
-          //  {
-          //   "id": "Рибні палички",
-          //   "name": "Рибні палички",
-          //   "inStock": false,
-          //   "gallery": [
-          //     "Fish.png",
-          //  ],
-          //   "description": "Смачні, гарячі, хрумкі рибні палички фрі",
-          //   "category": "snack",
-          //   "prices": "35 грн"
+            "prices": "85 грн"
+          },
+           {
+            "id": "Сирне плато",
+            "name": "Сирне плато",
+            "inStock": false,
+            "gallery": [
+              "SetC.png",
+           ],
+            "description": "Різовид сирів: брі, дор-блю, чедер, пармезан",
+            "category": "snack",
+            "prices": "35 грн"
           }, {
             "id": "Цибулеві кільця фрі",
             "name": "Цибулеві кільця фрі",
@@ -46,11 +46,11 @@ const getAllGoods = async () => ({
             "name": "Свинячі вушка",
             "inStock": false,
             "gallery": [
-              ".png",
+              "Vuha.png",
            ],
             "description": "Смачні, в міру підкопчені свинячі вушка",
             "category": "snack",
-            "prices": "50 грн"
+            "prices": "60 грн"
           }, {
             "id": "Грибочки фрі",
             "name": "Грибочки фрі",
@@ -63,11 +63,54 @@ const getAllGoods = async () => ({
             "prices": "40 грн"
           },
            {
+            "id": "Соковитий чебурек meat",
+            "name": "Соковитий чебурек meat",
+            "inStock": true,
+            "gallery": [
+            "Cheburek.png" 
+            ],
+            "description": "Гарячий,соковитий чебурек з м’ясом",
+            "category": "pizza",
+            "prices": "40 грн"
+          },
+          {
+            "id": "Соковитий чебурек cheese",
+            "name": "Соковитий чебурек cheese",
+            "inStock": true,
+            "gallery": [
+            "Cheburek.png" 
+            ],
+            "description": "Гарячий, соковитий чебурек з сиром та зеленню",
+            "category": "pizza",
+            "prices": "35 грн"
+          },
+          {
+            "id": "Мега-Шаурма",
+            "name": "Мега-Шаурма",
+            "inStock": true,
+            "gallery": [
+            ".png" 
+            ],
+            "description": "Гаряча шаурма з курячим м’ясом, овочами та сиром",
+            "category": "pizza",
+            "prices": "70 грн"
+          },{
+            "id": "Хот дог",
+            "name": "Хот дог",
+            "inStock": true,
+            "gallery": [
+            ".png" 
+            ],
+            "description": "Гарячий хот-дог з сосискою та соусами",
+            "category": "pizza",
+            "prices": "70 грн"
+          },
+           {
             "id": "Сухарики з часником",
             "name": "Сухарики з часником",
             "inStock": false,
             "gallery": [
-              ".png",
+              "Flint.png",
            ],
             "description": "Чудова закуска до пива",
             "category": "snack",
@@ -77,9 +120,9 @@ const getAllGoods = async () => ({
             "name": "Канапки ~до горілочки~",
             "inStock": false,
             "gallery": [
-              ".png",
+              "Kanapki.png",
            ],
-            "description": "Канапки ~до горілочки~",
+            "description": "Чорний хліб, шматочок оселедця і гірчичка",
             "category": "snack",
             "prices": "50 грн"
           },
@@ -135,7 +178,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Гаряча піцца з ананасами та курочкою, час приготування 30хв",
             "category": "pizza",
-            "prices": "70 грн"
+            "prices": "165 грн"
           },
           {
             "id": "Pizza BBQ",
@@ -146,7 +189,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Гаряча піцца з ковбасками та соусом барбекю, час приготування 30хв",
             "category": "pizza",
-            "prices": "70 грн"
+            "prices": "160 грн"
           },
           {
             "id": "Pizza More",
@@ -157,50 +200,29 @@ const getAllGoods = async () => ({
             ],
             "description": "Гаряча піцца з морепродуктами, час приготування 30хв",
             "category": "pizza",
-            "prices": "70 грн"
+            "prices": "180 грн"
           },
           {
-            "id": "Соковитий чебурек meat",
-            "name": "Соковитий чебурек meat",
+            "id": "Pizza Фірмова",
+            "name": "Pizza Фірмова",
             "inStock": true,
             "gallery": [
-            "Cheburek.png" 
+            "PizzaB.png" 
             ],
-            "description": "Гарячий,соковитий чебурек з м’ясом",
+            "description": "Гаряча піцца з ковбасками, час приготування 30хв",
             "category": "pizza",
-            "prices": "70 грн"
+            "prices": "155 грн"
           },
           {
-            "id": "Соковитий чебурек cheese",
-            "name": "Соковитий чебурек cheese",
+            "id": "Pizza 4 Cheese",
+            "name": "Pizza 4 Cheese",
             "inStock": true,
             "gallery": [
-            "Cheburek.png" 
+            "PizzaB.png" 
             ],
-            "description": "Гарячий, соковитий чебурек з сиром та зеленню",
+            "description": "Гаряча піцца з сирами, час приготування 30хв",
             "category": "pizza",
-            "prices": "70 грн"
-          },
-          {
-            "id": "Мега-Шаурма",
-            "name": "Мега-Шаурма",
-            "inStock": true,
-            "gallery": [
-            "PizzaB.jpg" 
-            ],
-            "description": "Гаряча шаурма з курячим м’ясом, овочами та сиром",
-            "category": "pizza",
-            "prices": "70 грн"
-          },{
-            "id": "Хот дог",
-            "name": "Хот дог",
-            "inStock": true,
-            "gallery": [
-            "PizzaB.jpg" 
-            ],
-            "description": "Гарячий хот-дог з сосискою та соусами",
-            "category": "pizza",
-            "prices": "70 грн"
+            "prices": "160 грн"
           }
         ]
       },
@@ -283,23 +305,23 @@ const getAllGoods = async () => ({
         "name": "М’ясні страви",
               "products": [
            {
-            "id": "Салат від шефа",
-            "name": "Салат від шефа",
+            "id": "Стейк свинний",
+            "name": "Стейк свинний",
             "inStock": true,
             "gallery": [
-           ".png"],
-            "description": "Салат з сирої морковки та свинячих вушок заправлений соусом",
-            "category": "salad",
-            "prices": "60 грн / 250 грам"
+           "SteakP.png"],
+            "description": "Стейк свинний, середньої прожарки",
+            "category": "meat",
+            "prices": "45 грн / 100 грам"
           },    {
-            "id": "Салат з качкою та карамелізованими яблуками",
-            "name": "Салат з качкою та карамелізованими яблуками",
+            "id": "Стейк курячий",
+            "name": "Стейк курячий",
             "inStock": true,
             "gallery": [
-           ""],
-            "description": "Салат з качкою та карамелізованими яблуками",
-            "category": "salad",
-            "prices": "100 грн / 300 грам"
+           "SteakC.png"],
+            "description": "Стейк курячий, середньої прожарки",
+            "category": "meat",
+            "prices": "35 грн / 100 грам"
           }
         ]
       },
@@ -351,16 +373,54 @@ const getAllGoods = async () => ({
             "description": "",
             "category": "dessert",
            "prices": "35 грн"
-          },{
-            "id": "Полуниця з рафаелло",
-            "name": "Полуниця з рафаелло",
+          },
+          {
+            "id": "Панакота",
+            "name": "Панакота",
             "inStock": true,
             "gallery": [
-              "Strawberry.png"
+              "Panakota.png"
             ],
-            "description": "",
+            "description": "Смачна, солодка панакота",
             "category": "dessert",
            "prices": "70 грн"
+          }
+        ]
+      },
+      {
+        "name": "Інші послуги",
+        "products": [
+          {
+            "id": "Більярд",
+            "name": "Більярд",
+            "inStock": true,
+            "gallery": [
+              "Biliard.png"
+            ],
+            "description": "",
+            "category": "event",
+           "prices": " грн"
+          },
+          {
+            "id": "Кальян",
+            "name": "Кальян",
+            "inStock": true,
+            "gallery": [
+              ".png"
+            ],
+            "description": "",
+            "category": "event",
+           "prices": " грн"
+          },{
+            "id": "Ігрова приставка Microsoft Xbox",
+            "name": "Ігрова приставка Microsoft Xbox",
+            "inStock": true,
+            "gallery": [
+              "XBox.png"
+            ],
+            "description": "",
+            "category": "event",
+           "prices": " грн"
           }
         ]
       }
