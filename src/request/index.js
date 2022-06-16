@@ -5,52 +5,97 @@ const getAllGoods = async () => ({
       // {
       //   "name": "all",
       //   "products": [
-      //     {
-      //       "id": "huarache-x-stussy-le",
-      //       "name": "Nike Air Huarache Le",
-      //       "inStock": true,
-      //       "gallery": [
-      //         "https://cdn.shopify.com/s/files/1/0087/6193/3920/products/DD1381200_DEOA_2_720x.jpg?v=1612816087",
-      //         "https://cdn.shopify.com/s/files/1/0087/6193/3920/products/DD1381200_DEOA_1_720x.jpg?v=1612816087",
-      //         "https://cdn.shopify.com/s/files/1/0087/6193/3920/products/DD1381200_DEOA_3_720x.jpg?v=1612816087",
-      //         "https://cdn.shopify.com/s/files/1/0087/6193/3920/products/DD1381200_DEOA_5_720x.jpg?v=1612816087",
-      //         "https://cdn.shopify.com/s/files/1/0087/6193/3920/products/DD1381200_DEOA_4_720x.jpg?v=1612816087"
-      //       ],
-      //       "description": "<p>Great sneakers for everyday use!</p>",
-      //       "category": "clothes",
-      //       "attributes": [
-      //         {
-      //           "id": "Size",
-      //           "name": "Size",
-      //           "type": "text",
-      //           "items": [
-      //             {
-      //               "displayValue": "40",
-      //               "value": "40",
-      //               "id": "40"
-      //             },
-      //             {
-      //               "displayValue": "41",
-      //               "value": "41",
-      //               "id": "41"
-      //             },
-      //             {
-      //               "displayValue": "42",
-      //               "value": "42",
-      //               "id": "42"
-      //             },
-      //             {
-      //               "displayValue": "43",
-      //               "value": "43",
-      //               "id": "43"
-      //             }
-      //           ]
-      //         }
-      //       ],
-      //       "prices": "170грн"
-      //     }
       //   ]
       // },
+       {
+        "name": "Закуски",
+        "products": [
+          {
+            "id": "Сирні палички",
+            "name": "Сирні палички",
+            "inStock": false,
+            "gallery": [
+              "Cheese.png",
+           ],
+            "description": "Смачні, гарячі, хрумкі та тягучі сирні палички фрі",
+            "category": "snack",
+            "prices": "60 грн"
+          // },
+          //  {
+          //   "id": "Рибні палички",
+          //   "name": "Рибні палички",
+          //   "inStock": false,
+          //   "gallery": [
+          //     "Fish.png",
+          //  ],
+          //   "description": "Смачні, гарячі, хрумкі рибні палички фрі",
+          //   "category": "snack",
+          //   "prices": "35 грн"
+          }, {
+            "id": "Цибулеві кільця фрі",
+            "name": "Цибулеві кільця фрі",
+            "inStock": false,
+            "gallery": [
+              "Kalmar.png",
+           ],
+            "description": "Смачні, гарячі, хрумкі цибулеві кільця фрі",
+            "category": "snack",
+            "prices": "55 грн"
+          }, {
+            "id": "Свинячі вушка",
+            "name": "Свинячі вушка",
+            "inStock": false,
+            "gallery": [
+              ".png",
+           ],
+            "description": "Смачні, в міру підкопчені свинячі вушка",
+            "category": "snack",
+            "prices": "50 грн"
+          }, {
+            "id": "Грибочки фрі",
+            "name": "Грибочки фрі",
+            "inStock": false,
+            "gallery": [
+              "Mush.png",
+           ],
+            "description": "Смачні грибочки фрі",
+            "category": "snack",
+            "prices": "40 грн"
+          },
+           {
+            "id": "Сухарики з часником",
+            "name": "Сухарики з часником",
+            "inStock": false,
+            "gallery": [
+              ".png",
+           ],
+            "description": "Чудова закуска до пива",
+            "category": "snack",
+            "prices": "40 грн/150 грам"
+          },{
+            "id": "Канапки ~до горілочки~",
+            "name": "Канапки ~до горілочки~",
+            "inStock": false,
+            "gallery": [
+              ".png",
+           ],
+            "description": "Канапки ~до горілочки~",
+            "category": "snack",
+            "prices": "50 грн"
+          },
+           {
+            "id": "Овочі гриль",
+            "name": "Овочі гриль",
+            "inStock": false,
+            "gallery": [
+              ".png",
+           ],
+            "description": "Перелік овочів",
+            "category": "snack",
+            "prices": "70 грн"
+          }
+        ]
+      },
       {
         "name": "Сети",
         "products": [
@@ -77,115 +122,7 @@ const getAllGoods = async () => ({
           }
         ]
       },
-      {
-        "name": "Закуски",
-        "products": [
-          {
-            "id": "Сирні палички",
-            "name": "Сирні палички",
-            "inStock": false,
-            "gallery": [
-              "Cheese.png",
-           ],
-            "description": "Смачні, гарячі, хрумкі та тягучі сирні палички фрі",
-            "category": "snack",
-            "prices": "60 грн"
-          // },
-          //  {
-          //   "id": "Рибні палички",
-          //   "name": "Рибні палички",
-          //   "inStock": false,
-          //   "gallery": [
-          //     "Fish.png",
-          //  ],
-          //   "description": "Смачні, гарячі, хрумкі рибні палички фрі",
-          //   "category": "snack",
-          //   "prices": "35 грн"
-          }, {
-            "id": "Цибуляні кільця фрі",
-            "name": "Цибуляні кільця фрі",
-            "inStock": false,
-            "gallery": [
-              "Kalmar.png",
-           ],
-            "description": "Смачні, гарячі, хрумкі Цибуляні кільця фрі",
-            "category": "snack",
-            "prices": "55 грн"
-          }, {
-            "id": "Свинячі вушка",
-            "name": "Свинячі вушка",
-            "inStock": false,
-            "gallery": [
-              ".png",
-           ],
-            "description": "Смачні, в міру підкопчені свинячі вушка",
-            "category": "snack",
-            "prices": "50 грн"
-          }, {
-            "id": "Грибочки фрі",
-            "name": "Грибочки фрі",
-            "inStock": false,
-            "gallery": [
-              "Mush.png",
-           ],
-            "description": "Смачні грибочки фрі",
-            "category": "snack",
-            "prices": "35 грн"
-          },
-           {
-            "id": "Сухарики з часником",
-            "name": "Сухарики з часником",
-            "inStock": false,
-            "gallery": [
-              ".png",
-           ],
-            "description": "Чудова закуска до пива",
-            "category": "snack",
-            "prices": "35 грн/150 грам"
-          },{
-            "id": "Канапки ~до горілочки~",
-            "name": "Канапки ~до горілочки~",
-            "inStock": false,
-            "gallery": [
-              ".png",
-           ],
-            "description": "Канапки ~до горілочки~",
-            "category": "snack",
-            "prices": "50 грн"
-          },{
-            "id": "Помідори фірмові",
-            "name": "Помідори фірмові",
-            "inStock": false,
-            "gallery": [
-              ".png",
-           ],
-            "description": "Апетитні, соковиті помідори з спеціями",
-            "category": "snack",
-            "prices": "30 грн"
-          },{
-            "id": "Грибочки мариновані",
-            "name": "Грибочки мариновані",
-            "inStock": false,
-            "gallery": [
-              ".png",
-           ],
-            "description": "Просто мариновані грибочки",
-            "category": "snack",
-            "prices": "45 грн"
-          },
-           {
-            "id": "Овочі гриль",
-            "name": "Овочі гриль",
-            "inStock": false,
-            "gallery": [
-              ".png",
-           ],
-            "description": "Перелік овочів",
-            "category": "snack",
-            "prices": "70 грн"
-          }
-        ]
-      },
+     
          {
         "name": "Піцца",
         "products": [
@@ -329,7 +266,7 @@ const getAllGoods = async () => ({
            ".png"],
             "description": "Салат з сирої морковки та свинячих вушок заправлений соусом",
             "category": "salad",
-            "prices": "70 грн / 200 грам"
+            "prices": "60 грн / 250 грам"
           },    {
             "id": "Салат з качкою та карамелізованими яблуками",
             "name": "Салат з качкою та карамелізованими яблуками",
@@ -344,7 +281,26 @@ const getAllGoods = async () => ({
       },
             {
         "name": "М’ясні страви",
-        "products": [
+              "products": [
+           {
+            "id": "Салат від шефа",
+            "name": "Салат від шефа",
+            "inStock": true,
+            "gallery": [
+           ".png"],
+            "description": "Салат з сирої морковки та свинячих вушок заправлений соусом",
+            "category": "salad",
+            "prices": "60 грн / 250 грам"
+          },    {
+            "id": "Салат з качкою та карамелізованими яблуками",
+            "name": "Салат з качкою та карамелізованими яблуками",
+            "inStock": true,
+            "gallery": [
+           ""],
+            "description": "Салат з качкою та карамелізованими яблуками",
+            "category": "salad",
+            "prices": "100 грн / 300 грам"
+          }
         ]
       },
       {
@@ -355,15 +311,26 @@ const getAllGoods = async () => ({
         "name": "Десерти",
         "products": [
           {
-            "id": "Морозиво в ріжку",
+            "id": "Морозиво в асортименті ",
             "name": "Морозиво в ріжку",
             "inStock": true,
             "gallery": [
               "IceCream.png"
             ],
-            "description": "Морозиво в ріжку MONACO",
+            "description": "Морозиво в асортименті (ріжок або порційно)",
             "category": "dessert",
            "prices": "25 грн"
+          },
+          {
+            "id": "Морозиво чорничний чізкейк",
+            "name": "Морозиво чорничний чізкейк",
+            "inStock": true,
+            "gallery": [
+              "IceCream.png"
+            ],
+            "description": "Морозиво в ріжку чорничний чізкейк Монако",
+            "category": "dessert",
+           "prices": "30 грн"
           },{
             "id": "Круасан",
             "name": "Круасан",

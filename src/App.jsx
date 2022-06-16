@@ -7,7 +7,7 @@ class App extends React.Component {
     super(props);
     this.state = {
       currentProducts: {},
-      category: 'Сети'
+      category: 'Закуски'
     };
     
     this.chooseCategory = this.chooseCategory.bind(this);
