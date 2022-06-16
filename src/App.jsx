@@ -1,13 +1,5 @@
 import React from 'react';
-<<<<<<< HEAD
 import Menu from './components/Menu/Menu';
-=======
-import TopComponent from './components/TopComponent/TopComponent';
-import Items from './components/Items/Items';
-import Categories from './components/TopComponent/Categories';
-import ShowProduct from './components/Items/FullProduct/FullProduct';
-
->>>>>>> parent of 4fee62d... move categories to topcomponent
 import { getAllGoods } from './request';
 
 class App extends React.Component {
@@ -30,14 +22,7 @@ class App extends React.Component {
       data
     }));
   }
-<<<<<<< HEAD
   
-=======
-  onShowProduct(item) {
-    this.setState({ fullItem: item });
-    this.setState({ showProduct: !this.state.showProduct });
-  }
->>>>>>> parent of 4fee62d... move categories to topcomponent
   chooseCategory(category) {
     this.setState({
       category,
@@ -50,29 +35,12 @@ class App extends React.Component {
       Object.keys(currentProducts).length
         ? (
           <div className="wrapper">
-<<<<<<< HEAD
             <Menu
               allCategories={this.state.data}
               chooseCategory={this.chooseCategory}
               // TODO: rename to currentItems
               currentProducts={currentProducts}
             />
-=======
-            <TopComponent
-              orders={orders}
-              onDelete={this.deleteOrder}
-            />
-            <Categories
-              allCategories = {this.state.data}
-              chooseCategory = {this.chooseCategory}
-            />
-            <Items
-              onShowProduct={this.onShowProduct}
-              items={currentItems}
-              onAdd={this.addToOrder}
-            />
-            {this.state.showProduct && <ShowProduct onAdd={this.addToOrder} onShowProduct={this.onShowProduct} item={this.state.fullItem}/>}
->>>>>>> parent of 4fee62d... move categories to topcomponent
           </div>
         )
         : <div>"not yet"</div>
