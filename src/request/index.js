@@ -63,7 +63,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Курячі крильця, нагетси, картопля фрі, цибулеві кільця, соус",
             "category": "set",
-            "prices": "170грн"
+            "prices": "170 грн"
           },
           {
             "id": "Сет до пива",
@@ -73,7 +73,7 @@ const getAllGoods = async () => ({
               "SetB.png"],
             "description": "Ковбаски гриль, сухарики з часником, картопля фрі/по селянськи, свинячі вушка, соус",
             "category": "set",
-            "prices": "160грн"
+            "prices": "160 грн"
           }
         ]
       },
@@ -89,7 +89,7 @@ const getAllGoods = async () => ({
            ],
             "description": "Смачні, гарячі, хрумкі та тягучі сирні палички фрі",
             "category": "snack",
-            "prices": "60грн"
+            "prices": "60 грн"
           },
            {
             "id": "Рибні палички",
@@ -100,7 +100,7 @@ const getAllGoods = async () => ({
            ],
             "description": "Смачні, гарячі, хрумкі рибні палички фрі",
             "category": "snack",
-            "prices": "35грн"
+            "prices": "35 грн"
           }, {
             "id": "Кальмар фрі",
             "name": "Кальмар фрі",
@@ -110,7 +110,7 @@ const getAllGoods = async () => ({
            ],
             "description": "Смачні, гарячі, хрумкі кальмари фрі",
             "category": "snack",
-            "prices": "55грн"
+            "prices": "55 грн"
           }, {
             "id": "Свинячі вушка",
             "name": "Свинячі вушка",
@@ -120,7 +120,7 @@ const getAllGoods = async () => ({
            ],
             "description": "Смачні, в міру підкопчені свинячі вушка",
             "category": "snack",
-            "prices": "50грн"
+            "prices": "50 грн"
           }, {
             "id": "Грибочки фрі",
             "name": "Грибочки фрі",
@@ -130,7 +130,7 @@ const getAllGoods = async () => ({
            ],
             "description": "Смачні грибочки фрі",
             "category": "snack",
-            "prices": "35грн"
+            "prices": "35 грн"
           },
            {
             "id": "Сухарики з часником",
@@ -141,7 +141,7 @@ const getAllGoods = async () => ({
            ],
             "description": "Чудова закуска до пива",
             "category": "snack",
-            "prices": "35грн/150грам"
+            "prices": "35 грн/150 грам"
           },{
             "id": "Канапки ~до горілочки~",
             "name": "Канапки ~до горілочки~",
@@ -151,7 +151,7 @@ const getAllGoods = async () => ({
            ],
             "description": "Канапки ~до горілочки~",
             "category": "snack",
-            "prices": "50грн"
+            "prices": "50 грн"
           },{
             "id": "Помідори фірмові",
             "name": "Помідори фірмові",
@@ -161,7 +161,7 @@ const getAllGoods = async () => ({
            ],
             "description": "Апетитні, соковиті помідори з спеціями",
             "category": "snack",
-            "prices": "30грн"
+            "prices": "30 грн"
           },{
             "id": "Грибочки мариновані",
             "name": "Грибочки мариновані",
@@ -171,7 +171,7 @@ const getAllGoods = async () => ({
            ],
             "description": "Просто мариновані грибочки",
             "category": "snack",
-            "prices": "45грн"
+            "prices": "45 грн"
           },
            {
             "id": "Овочі гриль",
@@ -182,7 +182,7 @@ const getAllGoods = async () => ({
            ],
             "description": "Перелік овочів",
             "category": "snack",
-            "prices": "70грн"
+            "prices": "70 грн"
           }
         ]
       },
@@ -363,7 +363,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Морозиво в ріжку MONACO",
             "category": "dessert",
-           "prices": "25грн"
+           "prices": "25 грн"
           },{
             "id": "Круасан",
             "name": "Круасан",
@@ -373,7 +373,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "dessert",
-           "prices": "50грн"
+           "prices": "50 грн"
           },{
             "id": "Млинці з начинкою",
             "name": "Млинці з начинкою",
@@ -383,7 +383,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "dessert",
-           "prices": "35грн"
+           "prices": "35 грн"
           },{
             "id": "Полуниця з рафаелло",
             "name": "Полуниця з рафаелло",
@@ -393,7 +393,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "dessert",
-           "prices": "70грн"
+           "prices": "70 грн"
           }
         ]
       }

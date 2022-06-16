@@ -1,7 +1,7 @@
 div .product-card {
   position: relative;
   width: 90%;
-  height: 300px;
+  height: 500px;
   overflow: hidden;
   display: inline-block;
   flex-direction: row;
@@ -33,9 +33,10 @@ div .product-card {
   background-color: rgba(0, 0, 0, 0.4);
 }
 .gallery {
-  margin: 10px 10px 10px 110px;
+  margin: 10px 10px 10px 40px;
   max-height: 95%;
   width: auto;
+  float: left;
   object-fit: contain;
   cursor: pointer;
   justify-content: flex-end;
@@ -52,16 +53,16 @@ div .product-card {
   flex-grow: 0;
 }
 .desc {
-  font-size: 60%;
+  font-size: 70%;
 }
  .title {
- font-size: 90%;
+ font-size: 100%;
 }
 .price {
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 700;
-  font-size: 18px;
+  font-size: 110%;
   margin: 0;
   display: flex;
   color: white;
