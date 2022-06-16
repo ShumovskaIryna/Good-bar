@@ -14,7 +14,7 @@ div .product-card {
   
   font-family: 'Raleway';
   font-style: normal;
-  font-size: 36px;
+  font-size: 42px;
   display: flex;
   align-items: flex-start;
   color: white;
@@ -31,9 +31,10 @@ div .product-card {
   height: 90%;
   width: 100%;
   background-color: rgba(0, 0, 0, 0.4);
+  float:left;
 }
 .gallery {
-  margin: 10px 10px 10px 40px;
+  margin: 10px 10px 10px 30px;
   max-height: 95%;
   width: auto;
   float: left;

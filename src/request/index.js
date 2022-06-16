@@ -90,25 +90,25 @@ const getAllGoods = async () => ({
             "description": "Смачні, гарячі, хрумкі та тягучі сирні палички фрі",
             "category": "snack",
             "prices": "60 грн"
-          },
-           {
-            "id": "Рибні палички",
-            "name": "Рибні палички",
-            "inStock": false,
-            "gallery": [
-              "Fish.png",
-           ],
-            "description": "Смачні, гарячі, хрумкі рибні палички фрі",
-            "category": "snack",
-            "prices": "35 грн"
+          // },
+          //  {
+          //   "id": "Рибні палички",
+          //   "name": "Рибні палички",
+          //   "inStock": false,
+          //   "gallery": [
+          //     "Fish.png",
+          //  ],
+          //   "description": "Смачні, гарячі, хрумкі рибні палички фрі",
+          //   "category": "snack",
+          //   "prices": "35 грн"
           }, {
-            "id": "Кальмар фрі",
-            "name": "Кальмар фрі",
+            "id": "Цибуляні кільця фрі",
+            "name": "Цибуляні кільця фрі",
             "inStock": false,
             "gallery": [
               "Kalmar.png",
            ],
-            "description": "Смачні, гарячі, хрумкі кальмари фрі",
+            "description": "Смачні, гарячі, хрумкі Цибуляні кільця фрі",
             "category": "snack",
             "prices": "55 грн"
           }, {
@@ -201,8 +201,8 @@ const getAllGoods = async () => ({
             "prices": "70 грн"
           },
           {
-            "id": "Pizza BQQ",
-            "name": "Pizza BQQ",
+            "id": "Pizza BBQ",
+            "name": "Pizza BBQ",
             "inStock": true,
             "gallery": [
             "PizzaB.png" 
@@ -318,7 +318,7 @@ const getAllGoods = async () => ({
             "inStock": true,
             "gallery": [
            "CesarSr.png"],
-            "description": "Салат з помідором, листям салату, сиром пармезан, креветками, перепелиним яйцем та соусом цезар",
+            "description": "Салат з помідором, листям салату, сиром пармезан, креветками та соусом цезар",
             "category": "salad",
             "prices": "100 грн / 270 грам"
           },   {
