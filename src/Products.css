@@ -1,0 +1,68 @@
+div .product-card {
+  position: relative;
+  width: 90%;
+  height: 300px;
+  overflow: hidden;
+  display: inline-block;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 10px;
+  margin: 5px;
+  transition: box-shadow 500ms ease;
+  cursor: pointer;
+  
+  font-family: 'Raleway';
+  font-style: normal;
+  font-size: 36px;
+  display: flex;
+  align-items: flex-start;
+  color: white;
+}
+.product-card:hover {
+  box-shadow: 4px 4px 10px 3px grey;
+}
+.good {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 2%;
+  height: 90%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.gallery {
+  margin: 10px 10px 10px 110px;
+  max-height: 95%;
+  width: auto;
+  object-fit: contain;
+  cursor: pointer;
+  justify-content: flex-end;
+}
+.descrtiption {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  width: 50%;
+
+  flex: none;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.desc {
+  font-size: 60%;
+}
+ .title {
+ font-size: 90%;
+}
+.price {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  margin: 0;
+  display: flex;
+  color: white;
+} 

@@ -1,0 +1,73 @@
+body {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  background: url(back.jpg) center;
+  background-size: cover;  
+  transition: all ease 300ms;
+}
+.logo {
+  position: relative;
+  width: 15%;
+  height: 15%;
+  left: 50%;
+  top: calc(50% - 41px / 2 + 4.5px);
+}
+.brand-logo {
+  position: relative;
+  width: 15%;
+  top: 0%;
+  bottom: 0%;
+}
+.categories {
+  align-items: center;
+  padding: 10px;
+  display: block;
+  position: relative;
+  width: 100%;
+  height: auto;
+  margin-top: 5%;
+  margin-left: 10%;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+/* _Header / Elements / Desktop / Buttons */
+ 
+.element {
+  display: block;
+  flex-direction: column;
+  padding: 0px;
+
+  width: 100%;
+  height: 100px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 100px;
+  color: white;
+  transition: all ease 500ms;
+  
+}
+.element {
+  border-style: none;
+  background-color: rgba(0, 0, 0, 0.4);
+  transition: all ease 500ms ;
+}
+.element:active {
+  border-style: none;
+  border-bottom: 3px solid rgb(243, 77, 77);
+  text-decoration: rgb(243, 77, 77);
+}
+.element:hover {
+  border-style: none;
+  border-bottom: 3px solid rgb(243, 77, 77);
+  opacity: 0.9;
+}
+label {
+  color: white;
+  transition: all ease 500ms;
+}
+label:active {
+  color: rgb(243, 77, 77);
+}
