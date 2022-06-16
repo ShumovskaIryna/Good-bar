@@ -85,7 +85,7 @@ const getAllGoods = async () => ({
             "name": "Сирні палички",
             "inStock": false,
             "gallery": [
-              "пр.jpg",
+              "Cheese.png",
            ],
             "description": "Смачні, гарячі, хрумкі та тягучі сирні палички фрі",
             "category": "snack",
@@ -96,7 +96,7 @@ const getAllGoods = async () => ({
             "name": "Рибні палички",
             "inStock": false,
             "gallery": [
-              "пр.jpg",
+              "Fish.png",
            ],
             "description": "Смачні, гарячі, хрумкі рибні палички фрі",
             "category": "snack",
@@ -106,7 +106,7 @@ const getAllGoods = async () => ({
             "name": "Кальмар фрі",
             "inStock": false,
             "gallery": [
-              "пр.jpg",
+              "Kalmar.png",
            ],
             "description": "Смачні, гарячі, хрумкі кальмари фрі",
             "category": "snack",
@@ -116,7 +116,7 @@ const getAllGoods = async () => ({
             "name": "Свинячі вушка",
             "inStock": false,
             "gallery": [
-              "пр.jpg",
+              ".png",
            ],
             "description": "Смачні, в міру підкопчені свинячі вушка",
             "category": "snack",
@@ -126,7 +126,7 @@ const getAllGoods = async () => ({
             "name": "Грибочки фрі",
             "inStock": false,
             "gallery": [
-              "пр.jpg",
+              "Mush.png",
            ],
             "description": "Смачні грибочки фрі",
             "category": "snack",
@@ -137,7 +137,7 @@ const getAllGoods = async () => ({
             "name": "Сухарики з часником",
             "inStock": false,
             "gallery": [
-              "пр.jpg",
+              ".png",
            ],
             "description": "Чудова закуска до пива",
             "category": "snack",
@@ -147,7 +147,7 @@ const getAllGoods = async () => ({
             "name": "Канапки ~до горілочки~",
             "inStock": false,
             "gallery": [
-              "пр.jpg",
+              ".png",
            ],
             "description": "Канапки ~до горілочки~",
             "category": "snack",
@@ -157,7 +157,7 @@ const getAllGoods = async () => ({
             "name": "Помідори фірмові",
             "inStock": false,
             "gallery": [
-              "пр.jpg",
+              ".png",
            ],
             "description": "Апетитні, соковиті помідори з спеціями",
             "category": "snack",
@@ -167,7 +167,7 @@ const getAllGoods = async () => ({
             "name": "Грибочки мариновані",
             "inStock": false,
             "gallery": [
-              "пр.jpg",
+              ".png",
            ],
             "description": "Просто мариновані грибочки",
             "category": "snack",
@@ -178,7 +178,7 @@ const getAllGoods = async () => ({
             "name": "Овочі гриль",
             "inStock": false,
             "gallery": [
-              "пр.jpg",
+              ".png",
            ],
             "description": "Перелік овочів",
             "category": "snack",
