@@ -8,17 +8,18 @@ body {
 }
 .logo {
   position: fixed;
-  width: 25%;
-  height: 25%;
+  /* width: 25%;
+  height: 25%; */
   left: 65%;
   top: 8%;
   z-index: -1000;
 }
 .label {
   position: relative;
-  width: 25%;
-  height: 25%;
-  color: aqua;
+  width: auto;
+  height: 50px;
+
+  margin-left: 5%;
 }
 /* .brand-logo {
   position: relative;
@@ -28,12 +29,12 @@ body {
 } */
 .categories {
   align-items: center;
-  padding: 10px;
+  padding: 0px;
   display: block;
   position: relative;
   width: 100%;
   height: auto;
-  margin-top: 5%;
+  margin-top: 0%;
   margin-left: 10%;
   text-transform: uppercase;
   cursor: pointer;
@@ -45,7 +46,7 @@ body {
   flex-direction: column;
   padding: 20px;
   margin-bottom: 20px;
-  width: 100%;
+  width: 90%;
   height: 90px;
 
   font-family: "Raleway";
