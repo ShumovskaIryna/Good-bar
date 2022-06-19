@@ -28,9 +28,9 @@ const getAllGoods = async () => ({
             "gallery": [
               "SetC.png",
            ],
-            "description": "Різовид сирів: брі, дор-блю, чедер, пармезан",
+            "description": "Різовид чотирьох сирів",
             "category": "snack",
-            "prices": "130 грн / 350 грам"
+            "prices": "170 грн / 350 грам"
           }, {
             "id": "Цибулеві кільця фрі",
             "name": "Цибулеві кільця фрі",
@@ -49,9 +49,9 @@ const getAllGoods = async () => ({
             "gallery": [
               "Krula.png",
            ],
-            "description": "Крильця, як в KFC",
+            "description": "Крильця, хрумкі та соковиті всередині",
             "category": "snack",
-            "prices": "60 грн"
+            "prices": "70 грн"
           },
            {
             "id": "Нагетси",
@@ -59,6 +59,17 @@ const getAllGoods = async () => ({
             "inStock": false,
             "gallery": [
               "Nagets.png",
+           ],
+            "description": "",
+            "category": "snack",
+            "prices": "60 грн"
+          },
+           {
+            "id": "Крила апетитні",
+            "name": "Крила апетитні",
+            "inStock": false,
+            "gallery": [
+              "KrulaA.png",
            ],
             "description": "",
             "category": "snack",
@@ -97,6 +108,17 @@ const getAllGoods = async () => ({
             "category": "snack",
             "prices": "40 грн"
           },
+          {
+            "id": "Мойва фрі",
+            "name": "Мойва фрі",
+            "inStock": false,
+            "gallery": [
+              "Moiva.png",
+           ],
+            "description": "",
+            "category": "snack",
+            "prices": "55 грн"
+          },
            {
             "id": "Деруни з грибочками",
             "name": "Деруни з грибочками",
@@ -104,20 +126,9 @@ const getAllGoods = async () => ({
             "gallery": [
               "Derun.png",
            ],
-            "description": "",
+            "description": "Картопляні деруни з золотистою скоринкою",
             "category": "snack",
             "prices": "45 грн"
-          },
-           {
-            "id": "Соковитий чебурек Beef/Pork/Cheese",
-            "name": "Соковитий чебурек Beef/Pork/Cheese",
-            "inStock": true,
-            "gallery": [
-            "Cheburek.png" 
-            ],
-            "description": "Гарячий,соковитий чебурек з яловичиною та кінзою/з свининою/сиром та зеленню",
-            "category": "snack",
-            "prices": "40/40/35  грн"
           },
           {
             "id": "Українська закуска",
@@ -126,7 +137,18 @@ const getAllGoods = async () => ({
             "gallery": [
             "UA.png" 
             ],
-            "description": "",
+            "description": "Оселедець з цибулею та кортоплею",
+            "category": "snack",
+            "prices": "50 грн"
+          },
+          {
+            "id": "Канапки ~до горілочки~",
+            "name": "Канапки ~до горілочки~",
+            "inStock": false,
+            "gallery": [
+              "Kanapki.png",
+           ],
+            "description": "Хрумкі грінки, оселедець та французька гірчиця",
             "category": "snack",
             "prices": "50 грн"
           },
@@ -135,20 +157,20 @@ const getAllGoods = async () => ({
             "name": "Козацька закуска",
             "inStock": true,
             "gallery": [
-            "UA.png" 
+            "Kozak.png" 
             ],
-            "description": "",
+            "description": "Хрумкі грінки помазані ніжною пастою з сала",
             "category": "snack",
             "prices": "55 грн"
           },
           {
-            "id": "Брускети з паштетом та карамелізованою цибулею",
-            "name": "Брускети з паштетом та карамелізованою цибулею",
+            "id": "Брускети з паштетом",
+            "name": "Брускети з паштетом",
             "inStock": true,
             "gallery": [
             "Pasha.png" 
             ],
-            "description": "",
+            "description": "Брускети та кульки з ніжним курячим паштетом та кисло-солодким соусом",
             "category": "snack",
             "prices": "55 грн"
           },
@@ -159,21 +181,33 @@ const getAllGoods = async () => ({
             "gallery": [
             "Mega.png" 
             ],
-            "description": "Гаряча шаурма з курячим м’ясом, овочами та сиром",
+            "description": "Соковита, ароматна шаурма з курячим філе, овочами та соусом",
             "category": "snack",
             "prices": "60 грн"
           },
           {
-            "id": "Лаваш з сосискою / Лаваш з моцареллою та зеленню",
-            "name": "Лаваш з сосискою / Лаваш з моцареллою та зеленню",
+            "id": "Лаваш з сосискою",
+            "name": "Лаваш з сосискою",
             "inStock": true,
             "gallery": [
             "LavashS.png" 
             ],
             "description": "",
             "category": "snack",
-            "prices": "55 / 65 грн"
-          },{
+            "prices": "55 грн"
+          },
+          {
+            "id": "Лаваш з моцареллою та зеленню",
+            "name": "Лаваш з моцареллою та зеленню",
+            "inStock": true,
+            "gallery": [
+            "LavashM.png" 
+            ],
+            "description": "",
+            "category": "snack",
+            "prices": "65 грн"
+          },
+          {
             "id": "Хот дог",
             "name": "Хот дог",
             "inStock": true,
@@ -207,6 +241,17 @@ const getAllGoods = async () => ({
             "prices": "55 / 60 грн"
           },
            {
+            "id": "Чіпси Lavash",
+            "name": "Чіпси Lavash",
+            "inStock": false,
+            "gallery": [
+              "LavashCh.png",
+           ],
+            "description": "Чіпси з лаваша до пива",
+            "category": "snack",
+            "prices": "35 грн"
+          },
+           {
             "id": "Сухарики з часником",
             "name": "Сухарики з часником",
             "inStock": false,
@@ -216,36 +261,37 @@ const getAllGoods = async () => ({
             "description": "Чудова закуска до пива",
             "category": "snack",
             "prices": "40 грн/150 грам"
-          },{
-            "id": "Канапки ~до горілочки~",
-            "name": "Канапки ~до горілочки~",
-            "inStock": false,
-            "gallery": [
-              "Kanapki.png",
-           ],
-            "description": "Чорний хліб, шматочок оселедця і гірчичка",
-            "category": "snack",
-            "prices": "50 грн"
           },
            {
             "id": "Овочі гриль",
             "name": "Овочі гриль",
             "inStock": false,
             "gallery": [
-              ".png",
+              "VGril.png",
            ],
-            "description": "Перелік овочів",
+            "description": "Перелік овочів: болгарський перець, кабачок, баклажан, грибочки",
             "category": "snack",
             "prices": "70 грн"
+          },
+           {
+            "id": "Скумбрія гриль",
+            "name": "Скумбрія гриль",
+            "inStock": false,
+            "gallery": [
+              "Skumbria.png",
+           ],
+            "description": "",
+            "category": "snack",
+            "prices": "65 грн"
           },
            {
             "id": "Нарізка асорті",
             "name": "Нарізка асорті",
             "inStock": false,
             "gallery": [
-              ".png",
+              "Asorti.png",
            ],
-            "description": "Нарізка асорті з ковбаски та сиру",
+            "description": "Нарізка асорті напівкопчена ковбаса та сир",
             "category": "snack",
             "prices": "140 грн"
           },
@@ -254,11 +300,22 @@ const getAllGoods = async () => ({
             "name": "М’ясна тарілка",
             "inStock": false,
             "gallery": [
-              ".png",
+              "Meat.png",
            ],
-            "description": "",
+            "description": "Чотири види м’ясних делікатесів",
             "category": "snack",
             "prices": "170 грн / 300 грам"
+          },
+           {
+            "id": "Жуль’єн",
+            "name": "Жуль’єн",
+            "inStock": false,
+            "gallery": [
+              "Zulen.png",
+           ],
+            "description": "Жарена курочка, жарені грибочки та цибулька в вершковому соусі під сиром",
+            "category": "snack",
+            "prices": "95 грн"
           },
            {
             "id": "Вареники з картопею/капустою/лівером",
@@ -271,6 +328,49 @@ const getAllGoods = async () => ({
             "category": "snack",
             "prices": "40/40/50  грн"
           },
+           {
+            "id": "Пельмені",
+            "name": "Домашні пельмені",
+            "inStock": true,
+            "gallery": [
+            "Pelmeni.png" 
+            ],
+            "description": "",
+            "category": "snack",
+            "prices": "50 грн"
+          },
+           {
+            "id": "Соковитий чебурек Beef/Pork/Cheese",
+            "name": "Соковитий чебурек Beef/Pork/Cheese",
+            "inStock": true,
+            "gallery": [
+            "Cheburek.png" 
+            ],
+            "description": "Гарячий,соковитий чебурек з яловичиною та кінзою/з свининою/сиром та зеленню",
+            "category": "snack",
+            "prices": "40/40/35  грн"
+          },{
+            "id": "Бендерики",
+            "name": "Бендерики",
+            "inStock": true,
+            "gallery": [
+            "Bender.png" 
+            ],
+            "description": "",
+            "category": "snack",
+            "prices": "45 грн"
+           },
+           {
+            "id": "Млинці з начинкою курка та гриби",
+            "name": "Млинці з начинкою курка та гриби",
+            "inStock": true,
+            "gallery": [
+            "BlinMC.png" 
+            ],
+            "description": "",
+            "category": "snack",
+            "prices": "50 грн"
+          }
         ]
       },
       {
@@ -283,7 +383,7 @@ const getAllGoods = async () => ({
             "gallery": [
               "SetF.png"
             ],
-            "description": "Курячі крильця, нагетси, картопля фрі, цибулеві кільця, соус",
+            "description": "Курячі крильця, нагетси, картопля фрі, цибулеві кільця",
             "category": "set",
             "prices": "170 грн"
           },
@@ -293,7 +393,7 @@ const getAllGoods = async () => ({
             "inStock": true,
             "gallery": [
               "SetB.png"],
-            "description": "Ковбаски гриль, сухарики з часником, картопля фрі/по селянськи, свинячі вушка, соус",
+            "description": "Ковбаски гриль, сухарики з часником, картопля по-селянськи, свинячі вушка",
             "category": "set",
             "prices": "160 грн"
           }
@@ -310,7 +410,7 @@ const getAllGoods = async () => ({
             "gallery": [
             "PizzaH.png" 
             ],
-            "description": "Гаряча піцца з ананасами та курочкою, час приготування 30хв",
+            "description": "Гаряча піцца з ананасами, курочкою, кукурудзою та шинкою, час приготування 30хв",
             "category": "pizza",
             "prices": "165 грн"
           },
@@ -321,7 +421,7 @@ const getAllGoods = async () => ({
             "gallery": [
             "PizzaB.png" 
             ],
-            "description": "Гаряча піцца з ковбасками та соусом барбекю, час приготування 30хв",
+            "description": "Гаряча піцца з мисливськими ковбасками, грибами та маринованою цибулею та соусом барбекю, час приготування 30хв",
             "category": "pizza",
             "prices": "160 грн"
           },
@@ -341,9 +441,9 @@ const getAllGoods = async () => ({
             "name": "Pizza Фірмова",
             "inStock": true,
             "gallery": [
-            "PizzaB.png" 
+            "PizzaF.png" 
             ],
-            "description": "Гаряча піцца з ковбасками, час приготування 30хв",
+            "description": "Гаряча піцца з двома видами ковбаси, грибами та момідорами, час приготування 30хв",
             "category": "pizza",
             "prices": "155 грн"
           },
@@ -354,7 +454,7 @@ const getAllGoods = async () => ({
             "gallery": [
             "Pizza4C.png" 
             ],
-            "description": "Гаряча піцца з сирами, час приготування 30хв",
+            "description": "Гаряча піцца з 4 видами сиру, горішками та грушею, час приготування 30хв",
             "category": "pizza",
             "prices": "160 грн"
           }
@@ -368,7 +468,7 @@ const getAllGoods = async () => ({
             "name": "Chicago-Burger",
             "inStock": true,
             "gallery": ["Burger.png"],
-            "description": "Котлета з курятини",
+            "description": "Бургер з котлетою з соковитої курочки",
             "category": "burger",
            "prices": "80 грн"
           },
@@ -377,8 +477,8 @@ const getAllGoods = async () => ({
             "name": "Burger-Texas",
             "inStock": true,
             "gallery": [
-           "Burger.png"],
-            "description": "Котлета з свинини та яловичини",
+           "BurgerT.png"],
+            "description": "Бургер з котлетою з ароматної свинини та яловичини",
             "category": "burger",
             "prices": "85 грн"
           }
@@ -393,7 +493,7 @@ const getAllGoods = async () => ({
             "inStock": true,
             "gallery": [
            "Grees.png"],
-            "description": "Салат з помідором, огірком, сиром фета, оливками, базеліком та оливковою олією",
+            "description": "Салат з помідорами, огірками, сиром фета, маслинами, травами та оливковою олією",
             "category": "salad",
             "prices": "90 грн / 300 грам"
           },   {
@@ -402,7 +502,7 @@ const getAllGoods = async () => ({
             "inStock": true,
             "gallery": [
            "Cesar.png"],
-            "description": "Салат з помідором, листям салату, сиром пармезан, куркою, перепелиним яйцем та соусом цезар",
+            "description": "Салат з листям салату Айзберг, помідорами, сиром пармезан, куркою, яйцями та соусом Цезар",
             "category": "salad",
             "prices": "120 грн / 280 грам"
           },   {
@@ -411,7 +511,7 @@ const getAllGoods = async () => ({
             "inStock": true,
             "gallery": [
            "CesarSr.png"],
-            "description": "Салат з помідором, листям салату, сиром пармезан, креветками та соусом цезар",
+            "description": "Салат з листям салату Айзберг, помідорами, сиром пармезан, криветками, яйцями та соєво-гірчичним соусом",
             "category": "salad",
             "prices": "150 грн / 280 грам"
           },   {
@@ -420,7 +520,7 @@ const getAllGoods = async () => ({
             "inStock": true,
             "gallery": [
            "SaladSh.png"],
-            "description": "Салат з сирої морковки та свинячих вушок заправлений соусом",
+            "description": "Салат з морковкою по-корейськи, свинячими вушками, зеленим горошком та соусом",
             "category": "salad",
             "prices": "60 грн / 250 грам"
           },
@@ -430,7 +530,7 @@ const getAllGoods = async () => ({
             "inStock": true,
             "gallery": [
            "SaladV.png"],
-            "description": "Салат з помідором, огірком зеленню та оливковою олією",
+            "description": "Салат з помідором, огірком зеленню та капустою",
             "category": "salad",
             "prices": "50 грн / 200 грам"
           }
@@ -450,12 +550,12 @@ const getAllGoods = async () => ({
         "name": "М’ясні страви",
          "products": [
            {
-            "id": "Стейк свинний",
-            "name": "Стейк свинний",
+            "id": "Стейк з свинної корейки",
+            "name": "Стейк з свинної корейки",
             "inStock": true,
             "gallery": [
            "SteakP.png"],
-            "description": "Стейк свинний, середньої прожарки",
+            "description": "Ароматний, соковитий стейк з свинної корейки середньої прожарки",
             "category": "meat",
             "prices": "45 грн / 100 грам"
           },    {
@@ -464,7 +564,7 @@ const getAllGoods = async () => ({
             "inStock": true,
             "gallery": [
            "SteakC.png"],
-            "description": "Стейк курячий, середньої прожарки",
+            "description": "Апетний, соковитий стейк курячий, середньої прожарки",
             "category": "meat",
             "prices": "35 грн / 100 грам"
           }
@@ -596,7 +696,7 @@ const getAllGoods = async () => ({
             "gallery": [
               "Kosmo.png"
             ],
-            "description": "",
+            "description": "Горілка, лікер Triple Sec, лимонний фреш, журавлиний сік",
             "category": "drinks",
            "prices": "50 грн / 110 мл"
           },
@@ -605,9 +705,9 @@ const getAllGoods = async () => ({
             "name": "Снукер",
             "inStock": true,
             "gallery": [
-              "Snyker.png"
+              "Snooker.png"
             ],
-            "description": "",
+            "description": "Горілка, лікер Melon, сироп Caramel, журавлиновий морс",
             "category": "drinks",
            "prices": "50 грн / 180 мл"
           },
@@ -618,7 +718,7 @@ const getAllGoods = async () => ({
             "gallery": [
               "Sex.png"
             ],
-            "description": "",
+            "description": "Горілка, лікер Peach, апельсиновий сік, журавлиновий сік",
             "category": "drinks",
            "prices": "60 грн / 200 мл"
           },
@@ -629,7 +729,7 @@ const getAllGoods = async () => ({
             "gallery": [
               "Pina.png"
             ],
-            "description": "",
+            "description": "Ром світлий, сироп Pina Colada, ананасовий сік",
             "category": "drinks",
            "prices": "60 грн / 150 мл"
           },
@@ -640,7 +740,7 @@ const getAllGoods = async () => ({
             "gallery": [
               "Pink.png"
             ],
-            "description": "",
+            "description": "Горілка, лікер Triple Sec, морс, лимонний фреш, сік лаймy, содова",
             "category": "drinks",
            "prices": "60 грн / 210 мл"
           },
@@ -649,9 +749,9 @@ const getAllGoods = async () => ({
             "name": "Камікадзе",
             "inStock": true,
             "gallery": [
-              "Kamicadze.png"
+              "Kamikadze.png"
             ],
-            "description": "",
+            "description": "Горілка, лікер Triple Sec, сік лайму",
             "category": "drinks",
            "prices": "45 грн / 90 мл"
           },
@@ -662,7 +762,7 @@ const getAllGoods = async () => ({
             "gallery": [
               "Malibu.png"
             ],
-            "description": "",
+            "description": "Текіла, лікер Triple Sec, лікер Blue curacao, цукровий сироп, лимонний сік",
             "category": "drinks",
            "prices": "50 грн / 110 мл"
           },
@@ -673,7 +773,7 @@ const getAllGoods = async () => ({
             "gallery": [
               "AmericanG.png"
             ],
-            "description": "",
+            "description": "Текіла, лікер Triple Sec, виноградний сік, содова",
             "category": "drinks",
            "prices": "60 грн / 225 мл"
           },
@@ -684,7 +784,7 @@ const getAllGoods = async () => ({
             "gallery": [
               "Aligator.png"
             ],
-            "description": "",
+            "description": "Горілка, лікер Triple Sec, сироп диня, апельсиновий сік, лимонний сік, содова",
             "category": "drinks",
            "prices": "50 грн / 180 мл"
           },
@@ -695,7 +795,7 @@ const getAllGoods = async () => ({
             "gallery": [
               "Jungl.png"
             ],
-            "description": "",
+            "description": "Джин, лікер Pisang, лимонний фреш, апельсиновий сік",
             "category": "drinks",
            "prices": "60 грн / 190 мл"
           },
@@ -706,7 +806,7 @@ const getAllGoods = async () => ({
             "gallery": [
               "Mary.png"
             ],
-            "description": "",
+            "description": "Ром світлий, лікер Coconut, лікер Curacao, лікер Green Aplle, сік лайма або лимона, ананасовий сік",
             "category": "drinks",
            "prices": "65 грн / 160 мл"
           },
@@ -717,7 +817,7 @@ const getAllGoods = async () => ({
             "gallery": [
               "Aperol.png"
             ],
-            "description": "",
+            "description": "Віскі, апероль, лимонний фреш, содова",
             "category": "drinks",
            "prices": "70 грн / 110 мл"
           },
@@ -728,18 +828,18 @@ const getAllGoods = async () => ({
             "gallery": [
               "AperolJ.png"
             ],
-            "description": "",
+            "description": "Апероль, апельсиновий сік",
             "category": "drinks",
            "prices": "50 грн / 100 мл"
           },
           {
-            "id": "Челсі сайджар",
-            "name": "Челсі сайджар",
+            "id": "Челсі сайдкар",
+            "name": "Челсі сайкар",
             "inStock": true,
             "gallery": [
               "Chelsi.png"
             ],
-            "description": "",
+            "description": "Джин, лікер Triple Sec, лимонний сік",
             "category": "drinks",
            "prices": "40 грн / 60 мл"
           },
@@ -750,74 +850,31 @@ const getAllGoods = async () => ({
             "gallery": [
               "BlueMonday.png"
             ],
-            "description": "",
+            "description": "Горілка, лікер Triple Sec, лікер Blue curacao",
             "category": "drinks",
            "prices": "45 грн / 40 мл"
           },
-          {
-            "id": "Брендбар",
-            "name": "Брендбар",
+             {
+            "id": "Сайдкар",
+            "name": "Сайдкар",
             "inStock": true,
             "gallery": [
-              "Brend.png"
+              "Sidecar.png"
             ],
-            "description": "",
+            "description": "Бренді, лікер Curacao, лимонний сік",
             "category": "drinks",
-           "prices": "40 грн /50 мл"
+           "prices": "45 грн / 90 мл"
           },
-          {
-            "id": "B-53",
-            "name": "B-53",
-            "inStock": true,
-            "gallery": [
-              "B53.png"
-            ],
-            "description": "",
-            "category": "drinks",
-           "prices": "40 грн / 50 мл"
-          },
-          {
-            "id": "Хіросіма",
-            "name": "Хіросіма",
-            "inStock": true,
-            "gallery": [
-              "Hirosima.png"
-            ],
-            "description": "",
-            "category": "drinks",
-           "prices": "40 грн / 50 мл"
-          },{
-            "id": "Зелений мексиканець",
-            "name": "Зелений мексиканець",
-            "inStock": true,
-            "gallery": [
-              "Green.png"
-            ],
-            "description": "",
-            "category": "drinks",
-           "prices": "40 грн / 50 мл"
-          },
-          {
+             {
             "id": "Самбука Ларнака",
             "name": "Самбука Ларнака",
             "inStock": true,
             "gallery": [
               "Sambuka.png"
             ],
-            "description": "",
+            "description": "Самбука, лікер Triple Sec, апельсиновий сік",
             "category": "drinks",
            "prices": "50 грн / 150 мл"
-          },
-          {
-            "id": "Сайдкар",
-            "name": "Сайдкар",
-            "inStock": true,
-            "gallery": [
-              "Saidcar.png"
-            ],
-            "description": "",
-            "category": "drinks",
-           "prices": "45 грн / 90 мл"
           },
           {
             "id": "Бажання Анни",
@@ -826,18 +883,18 @@ const getAllGoods = async () => ({
             "gallery": [
               "Anna.png"
             ],
-            "description": "",
+            "description": "Ром темний, лікер Triple Sec, ананасовий сік",
             "category": "drinks",
            "prices": "60 грн / 220 мл"
           },
           {
             "id": "Гавайський",
-            "name": "Гавайський ",
+            "name": "Гавайський",
             "inStock": true,
             "gallery": [
               "Havai.png"
             ],
-            "description": "",
+            "description": "Джин, лікер Triple Sec, ананасовий сік",
             "category": "drinks",
            "prices": "55 грн / 90 мл"
           },
@@ -848,7 +905,7 @@ const getAllGoods = async () => ({
             "gallery": [
               "Kahuna.png"
             ],
-            "description": "",
+            "description": "Джин, лікер Triple Sec, солодкий вермут, ананасовий сік",
             "category": "drinks",
            "prices": "45 грн / 135 мл"
           } ,
@@ -859,9 +916,52 @@ const getAllGoods = async () => ({
             "gallery": [
               "White.png"
             ],
-            "description": "",
+            "description": "Джин, лікер Triple Sec, лимонний сік",
             "category": "drinks",
            "prices": "35 грн / 100 мл"
+          },
+          // {
+          //   "id": "Брендбар",
+          //   "name": "Брендбар",
+          //   "inStock": true,
+          //   "gallery": [
+          //     "Brend.png"
+          //   ],
+          //   "description": "",
+          //   "category": "drinks",
+          //  "prices": "40 грн /50 мл"
+          // },
+          {
+            "id": "B-53",
+            "name": "B-53",
+            "inStock": true,
+            "gallery": [
+              "B53.png"
+            ],
+            "description": "Шот - Абсент, крем лікер Via Lattea, лікер Creme de cafe",
+            "category": "drinks",
+           "prices": "40 грн / 50 мл"
+          },
+          {
+            "id": "Хіросіма",
+            "name": "Хіросіма",
+            "inStock": true,
+            "gallery": [
+              "Hirosima.png"
+            ],
+            "description": "Абсент Vincent, Крем-лікер Via Lattea, Самбука Ibiza, сироп Grenadine",
+            "category": "drinks",
+           "prices": "40 грн / 50 мл"
+          },{
+            "id": "Зелений мексиканець",
+            "name": "Зелений мексиканець",
+            "inStock": true,
+            "gallery": [
+              "Green.png"
+            ],
+            "description": "Текіла, лимонний фреш, лікер Pisang",
+            "category": "drinks",
+           "prices": "40 грн / 50 мл"
           }
         ]
       },
