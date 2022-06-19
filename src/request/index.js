@@ -690,6 +690,39 @@ const getAllGoods = async () => ({
            "prices": "10 грн / 250 мл"
           },
           {
+            "id": "Лимонад в асортименті",
+            "name": "Лимонад в асортименті",
+            "inStock": true,
+            "gallery": [
+              "Lemonade.png"
+            ],
+            "description": "",
+            "category": "drinks",
+           "prices": "30 грн / 450 мл"
+          },
+           {
+            "id": "Квас традиційний",
+            "name": "Квас традиційний",
+            "inStock": true,
+            "gallery": [
+              "Kvas.png"
+            ],
+            "description": "",
+            "category": "drinks",
+           "prices": "34 грн / 1 л"
+          },
+           {
+            "id": "Пиво Obolon /Lvivske1715 / Lvivske / Kronenbourg",
+            "name": "Пиво Obolon світле/ Lvivske1715 / Lvivske світле/ Kronenbourg blanc1664",
+            "inStock": true,
+            "gallery": [
+              "Beer.png"
+            ],
+            "description": "",
+            "category": "drinks",
+           "prices": "50/60/60/70 грн / 1 л"
+          },
+          {
             "id": "Космополітен",
             "name": "Космополітен",
             "inStock": true,
@@ -743,6 +776,39 @@ const getAllGoods = async () => ({
             "description": "Горілка, лікер Triple Sec, морс, лимонний фреш, сік лаймy, содова",
             "category": "drinks",
            "prices": "60 грн / 210 мл"
+          },
+          {
+            "id": "Каліфорнійський гвинт",
+            "name": "Каліфорнійський гвинт",
+            "inStock": true,
+            "gallery": [
+              "Hvunt.png"
+            ],
+            "description": "Горілка, грейпфрутовий сік, апельсиновий сік",
+            "category": "drinks",
+           "prices": "50 грн / 120 мл"
+          },
+          {
+            "id": "Блакитна лагуна",
+            "name": "Блакитна лагуна",
+            "inStock": true,
+            "gallery": [
+              "BlueL.png"
+            ],
+            "description": "Лікер Curacao, Лимонний фреш, содова",
+            "category": "drinks",
+           "prices": "60 грн / 200 мл"
+          },
+          {
+            "id": "Лонг айленд",
+            "name": "Лонг айленд",
+            "inStock": true,
+            "gallery": [
+              "Long.png"
+            ],
+            "description": "Ром, джин, текіла, горілка, апельсиновий сік, лимонний фреш, кола",
+            "category": "drinks",
+           "prices": "60 грн / 190 мл"
           },
           {
             "id": "Камікадзе",
@@ -931,6 +997,17 @@ const getAllGoods = async () => ({
           //   "category": "drinks",
           //  "prices": "40 грн /50 мл"
           // },
+            // {
+          //   "id": "Шоти в асортименті",
+          //   "name": "Шоти в асортименті",
+          //   "inStock": true,
+          //   "gallery": [
+          //     "Shot.png"
+          //   ],
+          //   "description": "",
+          //   "category": "drinks",
+          //  "prices": "30 грн /50 мл"
+          // },
           {
             "id": "B-53",
             "name": "B-53",
@@ -977,18 +1054,18 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "event",
-           "prices": " грн"
+           "prices": "70 грн / год"
           },
           {
-            "id": "Кальян",
-            "name": "Кальян",
+            "id": "Кальян ТАБАК JIBIAR / Табак Smoky Bull",
+            "name": "Кальян ТАБАК JIBIAR / Табак Smoky Bull",
             "inStock": true,
             "gallery": [
               "Kel.png"
             ],
             "description": "",
             "category": "event",
-           "prices": " грн"
+           "prices": "250 / 190 грн"
           },{
             "id": "Ігрова приставка Microsoft Xbox",
             "name": "Ігрова приставка Microsoft Xbox",
@@ -998,7 +1075,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "event",
-           "prices": " грн"
+           "prices": "50 грн / год"
           }
         ]
       }
