@@ -984,7 +984,7 @@ const getAllGoods = async () => ({
             "name": "Кальян",
             "inStock": true,
             "gallery": [
-              ".png"
+              "Kel.png"
             ],
             "description": "",
             "category": "event",
