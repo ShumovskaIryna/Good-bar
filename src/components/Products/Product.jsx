@@ -25,7 +25,7 @@ class Product extends Component {
             className="new-prod"
             alt="product"
             />
-           : "-"}
+           : ""}
         </div>
       </div>
     );
