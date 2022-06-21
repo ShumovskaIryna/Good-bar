@@ -140,7 +140,7 @@ const getAllGoods = async () => ({
            ],
             "description": "",
             "category": "snack",
-            "prices": "45 грн"
+            "prices": "35 грн"
           },
           {
             "id": "Українська закуска",
@@ -710,7 +710,7 @@ const getAllGoods = async () => ({
               "IceLatte.png",
               "new.png"
             ],
-            "description": "Тонік, сік лимонний, сироп лайма, сік апельсиновий",
+            "description": "Лате та лід",
             "category": "drinks",
            "prices": "48 грн / 340 грам"
           },
@@ -722,7 +722,7 @@ const getAllGoods = async () => ({
               "Tonic.png",
               "new.png"
             ],
-            "description": "Лате та лід",
+            "description": "Тонік, сік лимонний, сироп лайма, сік апельсиновий",
             "category": "drinks",
            "prices": "48 грн / 340 грам"
           },
