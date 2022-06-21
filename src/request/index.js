@@ -130,6 +130,18 @@ const getAllGoods = async () => ({
             "category": "snack",
             "prices": "45 грн"
           },
+            {
+            "id": "Картопляна Пюрешка мишеня",
+            "name": "Картопляна Пюрешка мишеня",
+            "inStock": false,
+            "gallery": [
+              "Pure.png",
+              "new.png"
+           ],
+            "description": "",
+            "category": "snack",
+            "prices": "45 грн"
+          },
           {
             "id": "Українська закуска",
             "name": "Українська закуска",
@@ -511,7 +523,7 @@ const getAllGoods = async () => ({
             "inStock": true,
             "gallery": [
            "CesarSr.png"],
-            "description": "Салат з листям салату Айзберг, помідорами, сиром пармезан, криветками, яйцями та соєво-гірчичним соусом",
+            "description": "З листям салату Айзберг, помідорами, сиром пармезан, криветками, яйцями та соєво-гірчичним соусом",
             "category": "salad",
             "prices": "150 грн / 280 грам"
           },   {
@@ -625,7 +637,8 @@ const getAllGoods = async () => ({
             "name": "Пана-кота",
             "inStock": true,
             "gallery": [
-              "Panakota.png"
+              "Panakota.png",
+              "new.png"
             ],
             "description": "Смачний пудинг, солодка панакота",
             "category": "dessert",
@@ -688,6 +701,30 @@ const getAllGoods = async () => ({
             "description": "",
             "category": "drinks",
            "prices": "10 грн / 250 мл"
+          },
+          {
+            "id": "Айс Латте",
+            "name": "Айс Латте",
+            "inStock": true,
+            "gallery": [
+              "IceLatte.png",
+              "new.png"
+            ],
+            "description": "Тонік, сік лимонний, сироп лайма, сік апельсиновий",
+            "category": "drinks",
+           "prices": "48 грн / 340 грам"
+          },
+          {
+            "id": "Еспрессо Тонік",
+            "name": "Еспрессо Тонік",
+            "inStock": true,
+            "gallery": [
+              "Tonic.png",
+              "new.png"
+            ],
+            "description": "Лате та лід",
+            "category": "drinks",
+           "prices": "48 грн / 340 грам"
           },
           {
             "id": "Лимонад в асортименті",

@@ -17,6 +17,15 @@ class Product extends Component {
             className="gallery"
             alt="product"
           />
+
+          {this.props.product.gallery.length > 1
+            ?
+           <img
+            src={this.props.product.gallery[1]}
+            className="new-prod"
+            alt="product"
+            />
+           : "-"}
         </div>
       </div>
     );

@@ -74,3 +74,9 @@ div .product-card {
   display: flex;
   color: white;
 } 
+.new-prod{
+  position: absolute;
+  margin: 240px 10px 10px 680px;
+  max-height: 35%;
+  z-index: 1000;
+}
