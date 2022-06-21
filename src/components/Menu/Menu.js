@@ -27,12 +27,12 @@ export default function Menu(props) {
           alt="buk"
           />
           <img
-            src="Dum1.png"
+            src="dum1.png"
             className="dum1"
           alt="Dum1"
           />
           <img
-            src="Dum2.png"
+            src="dum2.png"
             className="dum2"
            alt="Dum2"
         />
