@@ -66,11 +66,8 @@ body {
   }
 }
 
-
 .logo {
   position: fixed;
-  /* width: 25%;
-  height: 25%; */
   left: 65%;
   top: 8%;
   z-index: -1000;
@@ -82,12 +79,6 @@ body {
 
   margin-left: 5%;
 }
-/* .brand-logo {
-  position: relative;
-  width: 30%;
-  top: 0%;
-  bottom: 0%;
-} */
 .categories {
   align-items: center;
   padding: 0px;
@@ -100,8 +91,6 @@ body {
   text-transform: uppercase;
   cursor: pointer;
 }
-/* _Header / Elements / Desktop / Buttons */
- 
 .element {
   display: block;
   flex-direction: column;
