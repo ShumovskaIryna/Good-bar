@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 
 export default function Category(props) {
     const [gategoryName] = useState(props.gategoryName)
-//      const {chooseCategory, currentProducts} = props;
+    //  const {chooseCategory, currentProducts} = props;
     return (
         <div className="element"
             onClick={() => props.chooseCategory(gategoryName)}
