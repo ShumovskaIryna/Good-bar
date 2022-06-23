@@ -9,7 +9,6 @@ class App extends React.Component {
       currentProducts: {},
       category: 'Закуски'
     };
-    
     this.chooseCategory = this.chooseCategory.bind(this);
   }
   async componentDidMount() {
@@ -22,7 +21,6 @@ class App extends React.Component {
       data
     }));
   }
-  
   chooseCategory(category) {
     this.setState({
       category,
@@ -38,7 +36,6 @@ class App extends React.Component {
             <Menu
               allCategories={this.state.data}
               chooseCategory={this.chooseCategory}
-              // TODO: rename to currentItems
               currentProducts={currentProducts}
             />
           </div>

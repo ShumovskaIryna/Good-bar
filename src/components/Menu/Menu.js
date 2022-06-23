@@ -9,8 +9,7 @@ document.body.onload = function () {
     }
   }, 3000);
 }
-// TODO: rename due to business requirement. It should not be TopComponent.
-// might be Menu or Dishes or smth like this.
+
 export default function Menu(props) {
   const {
     chooseCategory,

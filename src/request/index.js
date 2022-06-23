@@ -2,11 +2,6 @@ const getAllGoods = async () => ({
 
   "data": {
     "categories": [
-      // {
-      //   "name": "all",
-      //   "products": [
-      //   ]
-      // },
        {
         "name": "Закуски",
         "products": [
@@ -1134,30 +1129,7 @@ const getAllGoods = async () => ({
 });
 
 const getAllCurrency = async () => ({
-  // "data": {
-  //   "currencies": [
-  //     {
-  //       "label": "USD",
-  //       "symbol": "$"
-  //     },
-  //     {
-  //       "label": "GBP",
-  //       "symbol": "£"
-  //     },
-  //     {
-  //       "label": "AUD",
-  //       "symbol": "A$"
-  //     },
-  //     {
-  //       "label": "JPY",
-  //       "symbol": "¥"
-  //     },
-  //     {
-  //       "label": "RUB",
-  //       "symbol": "₽"
-  //     }
-  //   ]
-  // }
+
 })
 
 const getAllCategories = async () => ({

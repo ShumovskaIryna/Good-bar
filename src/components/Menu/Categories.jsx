@@ -2,9 +2,7 @@ import React from 'react';
 import Category from './Category';
 import Products from '../Products/Products';
 
-
 function Categories(props) {
-  // TODO: here we should do API call to get all list of possible groups of food ( goods )
   const {
     chooseCategory,
     currentProducts
