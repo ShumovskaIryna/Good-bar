@@ -1,23 +1,24 @@
 import React from 'react'; 
-import Products from '../Products/Products';
 import Category from './Category';
+import Products from '../Products/Products';
+
 
 function Categories(props) {
   // TODO: here we should do API call to get all list of possible groups of food ( goods )
   const {
     chooseCategory,
-    currentProducts,
-    allProducts,
+    currentProducts
   } = props;
   return (
           <div className="categories">
             { props.allCategories.categories.map(({ name }, index) => (
-              <Category
+              <div className="categorii">
+                <Category
                 key={index}
                 chooseCategory={chooseCategory}
                 gategoryName={name}
                 products={currentProducts}
-              />
+              /></div>
             ))}
               <Products
                products={currentProducts}

@@ -38,16 +38,18 @@ export default function Menu(props) {
         />
         </div>
       </div>
-      <span className="logo">
+      <span >
         <img
           src="logo.png"
           alt="logo"
+          className="logo"
         />
       </span>
-       <span className="label">
+       <span >
         <img
           src="LABEL.png"
           alt="logo"
+          className="label"
         />
       </span>
       <Categories

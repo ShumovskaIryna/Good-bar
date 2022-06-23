@@ -640,7 +640,7 @@ const getAllGoods = async () => ({
               "Panakota.png",
               "new.png"
             ],
-            "description": "Смачний пудинг, солодка панакота",
+            "description": "Смачний пудинг, солодка пана-кота",
             "category": "dessert",
            "prices": "35 грн"
           }
@@ -712,7 +712,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Лате та лід",
             "category": "drinks",
-           "prices": "48 грн / 340 грам"
+           "prices": "30 грн / 340 грам"
           },
           {
             "id": "Еспрессо Тонік",
@@ -724,7 +724,19 @@ const getAllGoods = async () => ({
             ],
             "description": "Тонік, сік лимонний, сироп лайма, сік апельсиновий",
             "category": "drinks",
-           "prices": "48 грн / 340 грам"
+           "prices": "40 грн / 340 грам"
+          },
+           {
+            "id": "Мілк Шейк в асортименті",
+            "name": "Мілк Шейк в асортименті",
+            "inStock": true,
+            "gallery": [
+              "Milk.png",
+              "new.png"
+            ],
+            "description": "Молочний коктейль",
+            "category": "drinks",
+           "prices": "43 грн / 340 грам"
           },
           {
             "id": "Лимонад в асортименті",
