@@ -161,7 +161,7 @@ div .product-card {
 } 
 .new-prod{
   position: absolute;
-  margin: 110px 10px 10px 300px;
+  margin: 110px 10px 10px 280px;
   max-height: 35%;
   z-index: 800;
 }
