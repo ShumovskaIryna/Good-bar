@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Products from '../Products/Products';
+// import Products from '../Products/Products';
 
 export default function Category(props) {
     const [gategoryName] = useState(props.gategoryName)
