@@ -3,7 +3,7 @@ body {
   position: absolute;
   width: 100vw;
   height: 100vh;
-  background: url(back.jpg) center;
+  background: url(back.webp) center;
   background-size: cover;  
   transition: all ease 300ms;
 }
@@ -143,7 +143,7 @@ body {
   position: absolute;
   width: 100vw;
   height: 100vh;
-  background: url(back.jpg) center;
+  background: url(back.webp) center;
   background-size: cover;  
   transition: all ease 300ms;
 }
