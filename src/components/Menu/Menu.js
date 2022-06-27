@@ -21,17 +21,17 @@ export default function Menu(props) {
       <div className="preloader" id="page-preloader">
         <div className="loader" id="loader">
           <img
-            src="buk.png"
+            src="buk.webp"
             className="buk"
           alt="buk"
           />
           <img
-            src="dum1.png"
+            src="dum1.webp"
             className="dum1"
           alt="Dum1"
           />
           <img
-            src="dum2.png"
+            src="dum2.webp"
             className="dum2"
            alt="Dum2"
         />
@@ -39,14 +39,14 @@ export default function Menu(props) {
       </div>
       <span >
         <img
-          src="logo.png"
+          src="logo.webp"
           alt="logo"
           className="logo"
         />
       </span>
        <span >
         <img
-          src="LABEL.png"
+          src="LABEL.webp"
           alt="logo"
           className="label"
         />

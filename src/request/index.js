@@ -10,7 +10,7 @@ const getAllGoods = async () => ({
             "name": "Сирні палички",
             "inStock": false,
             "gallery": [
-              "Cheese1.png",
+              "Cheese1.webp",
            ],
             "description": "Смачні, гарячі, хрумкі та тягучі сирні палички фрі",
             "category": "snack",
@@ -21,7 +21,7 @@ const getAllGoods = async () => ({
             "name": "Сирне плато",
             "inStock": false,
             "gallery": [
-              "SetC.png",
+              "SetC.webp",
            ],
             "description": "Різовид чотирьох сирів",
             "category": "snack",
@@ -31,7 +31,7 @@ const getAllGoods = async () => ({
             "name": "Цибулеві кільця фрі",
             "inStock": false,
             "gallery": [
-              "Kalmar.png",
+              "Kalmar.webp",
            ],
             "description": "Смачні, гарячі, хрумкі цибулеві кільця фрі",
             "category": "snack",
@@ -42,7 +42,7 @@ const getAllGoods = async () => ({
             "name": "Крильця KFC",
             "inStock": false,
             "gallery": [
-              "Krula.png",
+              "Krula.webp",
            ],
             "description": "Крильця, хрумкі та соковиті всередині",
             "category": "snack",
@@ -53,7 +53,7 @@ const getAllGoods = async () => ({
             "name": "Нагетси",
             "inStock": false,
             "gallery": [
-              "Nagets.png",
+              "Nagets.webp",
            ],
             "description": "",
             "category": "snack",
@@ -64,7 +64,7 @@ const getAllGoods = async () => ({
             "name": "Крила апетитні",
             "inStock": false,
             "gallery": [
-              "KrulaA.png",
+              "KrulaA.webp",
            ],
             "description": "",
             "category": "snack",
@@ -75,7 +75,7 @@ const getAllGoods = async () => ({
             "name": "Свинячі вушка",
             "inStock": false,
             "gallery": [
-              "Vuha.png",
+              "Vuha.webp",
            ],
             "description": "Смачні, в міру підкопчені свинячі вушка",
             "category": "snack",
@@ -86,7 +86,7 @@ const getAllGoods = async () => ({
             "name": "Ковбаски гриль",
             "inStock": false,
             "gallery": [
-              "Sausage.png",
+              "Sausage.webp",
            ],
             "description": "",
             "category": "snack",
@@ -97,7 +97,7 @@ const getAllGoods = async () => ({
             "name": "Грибочки фрі",
             "inStock": false,
             "gallery": [
-              "Mush.png",
+              "Mush.webp",
            ],
             "description": "Смачні грибочки фрі",
             "category": "snack",
@@ -108,7 +108,7 @@ const getAllGoods = async () => ({
             "name": "Мойва фрі",
             "inStock": false,
             "gallery": [
-              "Moiva.png",
+              "Moiva.webp",
            ],
             "description": "",
             "category": "snack",
@@ -119,7 +119,7 @@ const getAllGoods = async () => ({
             "name": "Деруни з грибочками",
             "inStock": false,
             "gallery": [
-              "Derun.png",
+              "Derun.webp",
            ],
             "description": "Картопляні деруни з золотистою скоринкою",
             "category": "snack",
@@ -130,8 +130,8 @@ const getAllGoods = async () => ({
             "name": "Картопляна Пюрешка мишеня",
             "inStock": false,
             "gallery": [
-              "Pure.png",
-              "new.png"
+              "Pure.webp",
+              "new.webp"
            ],
             "description": "",
             "category": "snack",
@@ -142,7 +142,7 @@ const getAllGoods = async () => ({
             "name": "Українська закуска",
             "inStock": true,
             "gallery": [
-            "UA.png" 
+            "UA.webp" 
             ],
             "description": "Оселедець з цибулею та кортоплею",
             "category": "snack",
@@ -153,7 +153,7 @@ const getAllGoods = async () => ({
             "name": "Канапки ~до горілочки~",
             "inStock": false,
             "gallery": [
-              "Kanapki.png",
+              "Kanapki.webp",
            ],
             "description": "Хрумкі грінки, оселедець та французька гірчиця",
             "category": "snack",
@@ -164,7 +164,7 @@ const getAllGoods = async () => ({
             "name": "Козацька закуска",
             "inStock": true,
             "gallery": [
-            "Kozak.png" 
+            "Kozak.webp" 
             ],
             "description": "Хрумкі грінки помазані ніжною пастою з сала",
             "category": "snack",
@@ -175,7 +175,7 @@ const getAllGoods = async () => ({
             "name": "Брускети з паштетом",
             "inStock": true,
             "gallery": [
-            "Pasha.png" 
+            "Pasha.webp" 
             ],
             "description": "Брускети та кульки з ніжним курячим паштетом та кисло-солодким соусом",
             "category": "snack",
@@ -186,7 +186,7 @@ const getAllGoods = async () => ({
             "name": "Мега-Шаурма",
             "inStock": true,
             "gallery": [
-            "Mega.png" 
+            "Mega.webp" 
             ],
             "description": "Соковита, ароматна шаурма з курячим філе, овочами та соусом",
             "category": "snack",
@@ -197,7 +197,7 @@ const getAllGoods = async () => ({
             "name": "Лаваш з сосискою",
             "inStock": true,
             "gallery": [
-            "LavashS.png" 
+            "LavashS.webp" 
             ],
             "description": "",
             "category": "snack",
@@ -208,7 +208,7 @@ const getAllGoods = async () => ({
             "name": "Лаваш з моцареллою та зеленню",
             "inStock": true,
             "gallery": [
-            "LavashM.png" 
+            "LavashM.webp" 
             ],
             "description": "",
             "category": "snack",
@@ -219,7 +219,7 @@ const getAllGoods = async () => ({
             "name": "Хот дог",
             "inStock": true,
             "gallery": [
-            "Hotdog.png" 
+            "Hotdog.webp" 
             ],
             "description": "Гарячий хот-дог з сосискою та соусами",
             "category": "snack",
@@ -230,7 +230,7 @@ const getAllGoods = async () => ({
             "name": "Картопля фрі",
             "inStock": true,
             "gallery": [
-            "Fri.png" 
+            "Fri.webp" 
             ],
             "description": "Картопля фрі з соусом",
             "category": "snack",
@@ -241,7 +241,7 @@ const getAllGoods = async () => ({
             "name": "Картопля по селянськи / з беконом",
             "inStock": true,
             "gallery": [
-            "FriV.png" 
+            "FriV.webp" 
             ],
             "description": "Картопля по селянськи з соусом / з беконом",
             "category": "snack",
@@ -252,7 +252,7 @@ const getAllGoods = async () => ({
             "name": "Чіпси Lavash",
             "inStock": false,
             "gallery": [
-              "LavashCh.png",
+              "LavashCh.webp",
            ],
             "description": "Чіпси з лаваша до пива",
             "category": "snack",
@@ -263,7 +263,7 @@ const getAllGoods = async () => ({
             "name": "Сухарики з часником",
             "inStock": false,
             "gallery": [
-              "Flint.png",
+              "Flint.webp",
            ],
             "description": "Чудова закуска до пива",
             "category": "snack",
@@ -274,7 +274,7 @@ const getAllGoods = async () => ({
             "name": "Овочі гриль",
             "inStock": false,
             "gallery": [
-              "VGril.png",
+              "VGril.webp",
            ],
             "description": "Перелік овочів: болгарський перець, кабачок, баклажан, грибочки",
             "category": "snack",
@@ -285,7 +285,7 @@ const getAllGoods = async () => ({
             "name": "Скумбрія гриль",
             "inStock": false,
             "gallery": [
-              "Skumbria.png",
+              "Skumbria.webp",
            ],
             "description": "",
             "category": "snack",
@@ -296,7 +296,7 @@ const getAllGoods = async () => ({
             "name": "Нарізка асорті",
             "inStock": false,
             "gallery": [
-              "Asorti.png",
+              "Asorti.webp",
            ],
             "description": "Нарізка асорті напівкопчена ковбаса та сир",
             "category": "snack",
@@ -307,7 +307,7 @@ const getAllGoods = async () => ({
             "name": "М’ясна тарілка",
             "inStock": false,
             "gallery": [
-              "Meat.png",
+              "Meat.webp",
            ],
             "description": "Чотири види м’ясних делікатесів",
             "category": "snack",
@@ -318,7 +318,7 @@ const getAllGoods = async () => ({
             "name": "Жуль’єн",
             "inStock": false,
             "gallery": [
-              "Zulen.png",
+              "Zulen.webp",
            ],
             "description": "Жарена курочка, жарені грибочки та цибулька в вершковому соусі під сиром",
             "category": "snack",
@@ -329,7 +329,7 @@ const getAllGoods = async () => ({
             "name": "Вареники з картопею/капустою/лівером",
             "inStock": true,
             "gallery": [
-            "Varenuku.png" 
+            "Varenuku.webp" 
             ],
             "description": "",
             "category": "snack",
@@ -340,7 +340,7 @@ const getAllGoods = async () => ({
             "name": "Домашні пельмені",
             "inStock": true,
             "gallery": [
-            "Pelmeni.png" 
+            "Pelmeni.webp" 
             ],
             "description": "",
             "category": "snack",
@@ -351,7 +351,7 @@ const getAllGoods = async () => ({
             "name": "Соковитий чебурек Beef/Pork/Cheese",
             "inStock": true,
             "gallery": [
-            "Cheburek.png" 
+            "Cheburek.webp" 
             ],
             "description": "Гарячий,соковитий чебурек з яловичиною та кінзою/з свининою/сиром та зеленню",
             "category": "snack",
@@ -361,7 +361,7 @@ const getAllGoods = async () => ({
             "name": "Бендерики",
             "inStock": true,
             "gallery": [
-            "Bender.png" 
+            "Bender.webp" 
             ],
             "description": "",
             "category": "snack",
@@ -372,7 +372,7 @@ const getAllGoods = async () => ({
             "name": "Млинці з начинкою курка та гриби",
             "inStock": true,
             "gallery": [
-            "BlinMC.png" 
+            "BlinMC.webp" 
             ],
             "description": "",
             "category": "snack",
@@ -388,7 +388,7 @@ const getAllGoods = async () => ({
             "name": "Сет для друзів",
             "inStock": true,
             "gallery": [
-              "SetF.png"
+              "SetF.webp"
             ],
             "description": "Курячі крильця, нагетси, картопля фрі, цибулеві кільця",
             "category": "set",
@@ -399,7 +399,7 @@ const getAllGoods = async () => ({
             "name": "Сет до пива",
             "inStock": true,
             "gallery": [
-              "SetB.png"],
+              "SetB.webp"],
             "description": "Ковбаски гриль, сухарики з часником, картопля по-селянськи, свинячі вушка",
             "category": "set",
             "prices": "160 грн"
@@ -415,7 +415,7 @@ const getAllGoods = async () => ({
             "name": "Pizza Havai",
             "inStock": true,
             "gallery": [
-            "PizzaH.png" 
+            "PizzaH.webp" 
             ],
             "description": "Гаряча піцца з ананасами, курочкою, кукурудзою та шинкою, час приготування 30хв",
             "category": "pizza",
@@ -426,7 +426,7 @@ const getAllGoods = async () => ({
             "name": "Pizza BBQ",
             "inStock": true,
             "gallery": [
-            "PizzaB.png" 
+            "PizzaB.webp" 
             ],
             "description": "Гаряча піцца з мисливськими ковбасками, грибами та маринованою цибулею та соусом барбекю, час приготування 30хв",
             "category": "pizza",
@@ -437,7 +437,7 @@ const getAllGoods = async () => ({
             "name": "Pizza More",
             "inStock": true,
             "gallery": [
-            "PizzaM.png" 
+            "PizzaM.webp" 
             ],
             "description": "Гаряча піцца з морепродуктами, час приготування 30хв",
             "category": "pizza",
@@ -448,7 +448,7 @@ const getAllGoods = async () => ({
             "name": "Pizza Фірмова",
             "inStock": true,
             "gallery": [
-            "PizzaF.png" 
+            "PizzaF.webp" 
             ],
             "description": "Гаряча піцца з двома видами ковбаси, грибами та момідорами, час приготування 30хв",
             "category": "pizza",
@@ -459,7 +459,7 @@ const getAllGoods = async () => ({
             "name": "Pizza 4 Cheese",
             "inStock": true,
             "gallery": [
-            "Pizza4C.png" 
+            "Pizza4C.webp" 
             ],
             "description": "Гаряча піцца з 4 видами сиру, горішками та грушею, час приготування 30хв",
             "category": "pizza",
@@ -474,7 +474,7 @@ const getAllGoods = async () => ({
             "id": "Chicago-Burger",
             "name": "Chicago-Burger",
             "inStock": true,
-            "gallery": ["Burger.png"],
+            "gallery": ["Burger.webp"],
             "description": "Бургер з котлетою з соковитої курочки",
             "category": "burger",
            "prices": "80 грн"
@@ -484,7 +484,7 @@ const getAllGoods = async () => ({
             "name": "Burger-Texas",
             "inStock": true,
             "gallery": [
-           "BurgerT.png"],
+           "BurgerT.webp"],
             "description": "Бургер з котлетою з ароматної свинини та яловичини",
             "category": "burger",
             "prices": "85 грн"
@@ -499,7 +499,7 @@ const getAllGoods = async () => ({
             "name": "Грецький салат",
             "inStock": true,
             "gallery": [
-           "Grees.png"],
+           "Grees.webp"],
             "description": "Салат з помідорами, огірками, сиром фета, маслинами, травами та оливковою олією",
             "category": "salad",
             "prices": "90 грн / 300 грам"
@@ -508,7 +508,7 @@ const getAllGoods = async () => ({
             "name": "Салат цезар з куркою",
             "inStock": true,
             "gallery": [
-           "Cesar.png"],
+           "Cesar.webp"],
             "description": "Салат з листям салату Айзберг, помідорами, сиром пармезан, куркою, яйцями та соусом Цезар",
             "category": "salad",
             "prices": "120 грн / 280 грам"
@@ -517,7 +517,7 @@ const getAllGoods = async () => ({
             "name": "Салат цезар з креветками",
             "inStock": true,
             "gallery": [
-           "CesarSr.png"],
+           "CesarSr.webp"],
             "description": "З листям салату Айзберг, помідорами, сиром пармезан, криветками, яйцями та соєво-гірчичним соусом",
             "category": "salad",
             "prices": "150 грн / 280 грам"
@@ -526,7 +526,7 @@ const getAllGoods = async () => ({
             "name": "Салат від шефа",
             "inStock": true,
             "gallery": [
-           "SaladSh.png"],
+           "SaladSh.webp"],
             "description": "Салат з морковкою по-корейськи, свинячими вушками, зеленим горошком та соусом",
             "category": "salad",
             "prices": "60 грн / 250 грам"
@@ -536,7 +536,7 @@ const getAllGoods = async () => ({
             "name": "Овочевий салат",
             "inStock": true,
             "gallery": [
-           "SaladV.png"],
+           "SaladV.webp"],
             "description": "Салат з помідором, огірком зеленню та капустою",
             "category": "salad",
             "prices": "50 грн / 200 грам"
@@ -561,7 +561,7 @@ const getAllGoods = async () => ({
             "name": "Стейк з свинної корейки",
             "inStock": true,
             "gallery": [
-           "SteakP.png"],
+           "SteakP.webp"],
             "description": "Ароматний, соковитий стейк з свинної корейки середньої прожарки",
             "category": "meat",
             "prices": "45 грн / 100 грам"
@@ -570,7 +570,7 @@ const getAllGoods = async () => ({
             "name": "Стейк курячий",
             "inStock": true,
             "gallery": [
-           "SteakC.png"],
+           "SteakC.webp"],
             "description": "Апетний, соковитий стейк курячий, середньої прожарки",
             "category": "meat",
             "prices": "35 грн / 100 грам"
@@ -590,7 +590,7 @@ const getAllGoods = async () => ({
             "name": "Морозиво в асортименті",
             "inStock": true,
             "gallery": [
-              "IceCream.png"
+              "IceCream.webp"
             ],
             "description": "Морозиво в асортименті (ріжок або порційно)",
             "category": "dessert",
@@ -601,7 +601,7 @@ const getAllGoods = async () => ({
             "name": "Морозиво полуничний чізкейк",
             "inStock": true,
             "gallery": [
-              "IceCreamS.png"
+              "IceCreamS.webp"
             ],
             "description": "Морозиво в ріжку полуничний чізкейк Мonaco",
             "category": "dessert",
@@ -611,7 +611,7 @@ const getAllGoods = async () => ({
             "name": "Сирники",
             "inStock": true,
             "gallery": [
-              "Surnuk.png"
+              "Surnuk.webp"
             ],
             "description": "Найкращі сирники, як в бабусі",
             "category": "dessert",
@@ -621,7 +621,7 @@ const getAllGoods = async () => ({
             "name": "Млинці з начинкою творог/ізюм",
             "inStock": true,
             "gallery": [
-              "Blin.png"
+              "Blin.webp"
             ],
             "description": "Млинці з начинкою творог та ізюм",
             "category": "dessert",
@@ -632,8 +632,8 @@ const getAllGoods = async () => ({
             "name": "Пана-кота",
             "inStock": true,
             "gallery": [
-              "Panakota.png",
-              "new.png"
+              "Panakota.webp",
+              "new.webp"
             ],
             "description": "Смачний пудинг, солодка пана-кота",
             "category": "dessert",
@@ -649,7 +649,7 @@ const getAllGoods = async () => ({
             "name": "Латте",
             "inStock": true,
             "gallery": [
-              "Latte.png"
+              "Latte.webp"
             ],
             "description": "",
             "category": "drinks",
@@ -660,7 +660,7 @@ const getAllGoods = async () => ({
             "name": "Американо / Американо з молоком",
             "inStock": true,
             "gallery": [
-              "Americano.png"
+              "Americano.webp"
             ],
             "description": "",
             "category": "drinks",
@@ -671,7 +671,7 @@ const getAllGoods = async () => ({
             "name": "Капучіно",
             "inStock": true,
             "gallery": [
-              "Capuchino.png"
+              "Capuchino.webp"
             ],
             "description": "",
             "category": "drinks",
@@ -681,7 +681,7 @@ const getAllGoods = async () => ({
             "name": "Еспрессо",
             "inStock": true,
             "gallery": [
-              "Espresso.png"
+              "Espresso.webp"
             ],
             "description": "",
             "category": "drinks",
@@ -691,7 +691,7 @@ const getAllGoods = async () => ({
             "name": "Чай Greenfield в асортименті",
             "inStock": true,
             "gallery": [
-              "Tea.png"
+              "Tea.webp"
             ],
             "description": "",
             "category": "drinks",
@@ -702,8 +702,8 @@ const getAllGoods = async () => ({
             "name": "Айс Латте",
             "inStock": true,
             "gallery": [
-              "IceLatte.png",
-              "new.png"
+              "IceLatte.webp",
+              "new.webp"
             ],
             "description": "Лате та лід",
             "category": "drinks",
@@ -714,8 +714,8 @@ const getAllGoods = async () => ({
             "name": "Еспрессо Тонік",
             "inStock": true,
             "gallery": [
-              "Tonic.png",
-              "new.png"
+              "Tonic.webp",
+              "new.webp"
             ],
             "description": "Тонік, сік лимонний, сироп лайма, сік апельсиновий",
             "category": "drinks",
@@ -726,8 +726,8 @@ const getAllGoods = async () => ({
             "name": "Мілк Шейк в асортименті",
             "inStock": true,
             "gallery": [
-              "Milk.png",
-              "new.png"
+              "Milk.webp",
+              "new.webp"
             ],
             "description": "Молочний коктейль",
             "category": "drinks",
@@ -738,7 +738,7 @@ const getAllGoods = async () => ({
             "name": "Лимонад в асортименті",
             "inStock": true,
             "gallery": [
-              "Lemonade.png"
+              "Lemonade.webp"
             ],
             "description": "",
             "category": "drinks",
@@ -749,7 +749,7 @@ const getAllGoods = async () => ({
             "name": "Квас традиційний",
             "inStock": true,
             "gallery": [
-              "Kvas.png"
+              "Kvas.webp"
             ],
             "description": "",
             "category": "drinks",
@@ -760,7 +760,7 @@ const getAllGoods = async () => ({
             "name": "Пиво Obolon світле/ Lvivske1715 / Lvivske світле/ Kronenbourg blanc1664",
             "inStock": true,
             "gallery": [
-              "Beer.png"
+              "Beer.webp"
             ],
             "description": "",
             "category": "drinks",
@@ -771,7 +771,7 @@ const getAllGoods = async () => ({
             "name": "Космополітен",
             "inStock": true,
             "gallery": [
-              "Kosmo.png"
+              "Kosmo.webp"
             ],
             "description": "Горілка, лікер Triple Sec, лимонний фреш, журавлиний сік",
             "category": "drinks",
@@ -782,7 +782,7 @@ const getAllGoods = async () => ({
             "name": "Снукер",
             "inStock": true,
             "gallery": [
-              "Snooker.png"
+              "Snooker.webp"
             ],
             "description": "Горілка, лікер Melon, сироп Caramel, журавлиновий морс",
             "category": "drinks",
@@ -793,7 +793,7 @@ const getAllGoods = async () => ({
             "name": "Секс на пляжі",
             "inStock": true,
             "gallery": [
-              "Sex.png"
+              "Sex.webp"
             ],
             "description": "Горілка, лікер Peach, апельсиновий сік, журавлиновий сік",
             "category": "drinks",
@@ -804,7 +804,7 @@ const getAllGoods = async () => ({
             "name": "Піна колада",
             "inStock": true,
             "gallery": [
-              "Pina.png"
+              "Pina.webp"
             ],
             "description": "Ром світлий, сироп Pina Colada, ананасовий сік",
             "category": "drinks",
@@ -815,7 +815,7 @@ const getAllGoods = async () => ({
             "name": "Рожевий лимонад",
             "inStock": true,
             "gallery": [
-              "Pink.png"
+              "Pink.webp"
             ],
             "description": "Горілка, лікер Triple Sec, морс, лимонний фреш, сік лаймy, содова",
             "category": "drinks",
@@ -826,7 +826,7 @@ const getAllGoods = async () => ({
             "name": "Каліфорнійський гвинт",
             "inStock": true,
             "gallery": [
-              "Hvunt.png"
+              "Hvunt.webp"
             ],
             "description": "Горілка, грейпфрутовий сік, апельсиновий сік",
             "category": "drinks",
@@ -837,7 +837,7 @@ const getAllGoods = async () => ({
             "name": "Блакитна лагуна",
             "inStock": true,
             "gallery": [
-              "BlueL.png"
+              "BlueL.webp"
             ],
             "description": "Лікер Curacao, Лимонний фреш, содова",
             "category": "drinks",
@@ -848,7 +848,7 @@ const getAllGoods = async () => ({
             "name": "Лонг айленд",
             "inStock": true,
             "gallery": [
-              "Long.png"
+              "Long.webp"
             ],
             "description": "Ром, джин, текіла, горілка, апельсиновий сік, лимонний фреш, кола",
             "category": "drinks",
@@ -859,7 +859,7 @@ const getAllGoods = async () => ({
             "name": "Камікадзе",
             "inStock": true,
             "gallery": [
-              "Kamikadze.png"
+              "Kamikadze.webp"
             ],
             "description": "Горілка, лікер Triple Sec, сік лайму",
             "category": "drinks",
@@ -870,7 +870,7 @@ const getAllGoods = async () => ({
             "name": "Хвиля Малібу",
             "inStock": true,
             "gallery": [
-              "Malibu.png"
+              "Malibu.webp"
             ],
             "description": "Текіла, лікер Triple Sec, лікер Blue curacao, цукровий сироп, лимонний сік",
             "category": "drinks",
@@ -881,7 +881,7 @@ const getAllGoods = async () => ({
             "name": "Американський виноград",
             "inStock": true,
             "gallery": [
-              "AmericanG.png"
+              "AmericanG.webp"
             ],
             "description": "Текіла, лікер Triple Sec, виноградний сік, содова",
             "category": "drinks",
@@ -892,7 +892,7 @@ const getAllGoods = async () => ({
             "name": "Алігатор",
             "inStock": true,
             "gallery": [
-              "Aligator.png"
+              "Aligator.webp"
             ],
             "description": "Горілка, лікер Triple Sec, сироп диня, апельсиновий сік, лимонний сік, содова",
             "category": "drinks",
@@ -903,7 +903,7 @@ const getAllGoods = async () => ({
             "name": "Джангл Джус",
             "inStock": true,
             "gallery": [
-              "Jungl.png"
+              "Jungl.webp"
             ],
             "description": "Джин, лікер Pisang, лимонний фреш, апельсиновий сік",
             "category": "drinks",
@@ -914,7 +914,7 @@ const getAllGoods = async () => ({
             "name": "Рідка Марихуана",
             "inStock": true,
             "gallery": [
-              "Mary.png"
+              "Mary.webp"
             ],
             "description": "Ром світлий, лікер Coconut, лікер Curacao, лікер Green Aplle, сік лайма або лимона, ананасовий сік",
             "category": "drinks",
@@ -925,7 +925,7 @@ const getAllGoods = async () => ({
             "name": "Апероль з віскі",
             "inStock": true,
             "gallery": [
-              "Aperol.png"
+              "Aperol.webp"
             ],
             "description": "Віскі, апероль, лимонний фреш, содова",
             "category": "drinks",
@@ -936,7 +936,7 @@ const getAllGoods = async () => ({
             "name": "Апероль з апельсиновим соком",
             "inStock": true,
             "gallery": [
-              "AperolJ.png"
+              "AperolJ.webp"
             ],
             "description": "Апероль, апельсиновий сік",
             "category": "drinks",
@@ -947,7 +947,7 @@ const getAllGoods = async () => ({
             "name": "Челсі сайкар",
             "inStock": true,
             "gallery": [
-              "Chelsi.png"
+              "Chelsi.webp"
             ],
             "description": "Джин, лікер Triple Sec, лимонний сік",
             "category": "drinks",
@@ -958,7 +958,7 @@ const getAllGoods = async () => ({
             "name": "Синій понеділок",
             "inStock": true,
             "gallery": [
-              "BlueMonday.png"
+              "BlueMonday.webp"
             ],
             "description": "Горілка, лікер Triple Sec, лікер Blue curacao",
             "category": "drinks",
@@ -969,7 +969,7 @@ const getAllGoods = async () => ({
             "name": "Сайдкар",
             "inStock": true,
             "gallery": [
-              "Sidecar.png"
+              "Sidecar.webp"
             ],
             "description": "Бренді, лікер Curacao, лимонний сік",
             "category": "drinks",
@@ -980,7 +980,7 @@ const getAllGoods = async () => ({
             "name": "Самбука Ларнака",
             "inStock": true,
             "gallery": [
-              "Sambuka.png"
+              "Sambuka.webp"
             ],
             "description": "Самбука, лікер Triple Sec, апельсиновий сік",
             "category": "drinks",
@@ -991,7 +991,7 @@ const getAllGoods = async () => ({
             "name": "Бажання Анни",
             "inStock": true,
             "gallery": [
-              "Anna.png"
+              "Anna.webp"
             ],
             "description": "Ром темний, лікер Triple Sec, ананасовий сік",
             "category": "drinks",
@@ -1002,7 +1002,7 @@ const getAllGoods = async () => ({
             "name": "Гавайський",
             "inStock": true,
             "gallery": [
-              "Havai.png"
+              "Havai.webp"
             ],
             "description": "Джин, лікер Triple Sec, ананасовий сік",
             "category": "drinks",
@@ -1013,7 +1013,7 @@ const getAllGoods = async () => ({
             "name": "Велика кахуна",
             "inStock": true,
             "gallery": [
-              "Kahuna.png"
+              "Kahuna.webp"
             ],
             "description": "Джин, лікер Triple Sec, солодкий вермут, ананасовий сік",
             "category": "drinks",
@@ -1024,7 +1024,7 @@ const getAllGoods = async () => ({
             "name": "Біла леді",
             "inStock": true,
             "gallery": [
-              "White.png"
+              "White.webp"
             ],
             "description": "Джин, лікер Triple Sec, лимонний сік",
             "category": "drinks",
@@ -1035,7 +1035,7 @@ const getAllGoods = async () => ({
           //   "name": "Брендбар",
           //   "inStock": true,
           //   "gallery": [
-          //     "Brend.png"
+          //     "Brend.webp"
           //   ],
           //   "description": "",
           //   "category": "drinks",
@@ -1046,7 +1046,7 @@ const getAllGoods = async () => ({
           //   "name": "Шоти в асортименті",
           //   "inStock": true,
           //   "gallery": [
-          //     "Shot.png"
+          //     "Shot.webp"
           //   ],
           //   "description": "",
           //   "category": "drinks",
@@ -1057,7 +1057,7 @@ const getAllGoods = async () => ({
             "name": "B-53",
             "inStock": true,
             "gallery": [
-              "B53.png"
+              "B53.webp"
             ],
             "description": "Шот - Абсент, крем лікер Via Lattea, лікер Creme de cafe",
             "category": "drinks",
@@ -1068,7 +1068,7 @@ const getAllGoods = async () => ({
             "name": "Хіросіма",
             "inStock": true,
             "gallery": [
-              "Hirosima.png"
+              "Hirosima.webp"
             ],
             "description": "Абсент Vincent, Крем-лікер Via Lattea, Самбука Ibiza, сироп Grenadine",
             "category": "drinks",
@@ -1078,7 +1078,7 @@ const getAllGoods = async () => ({
             "name": "Зелений мексиканець",
             "inStock": true,
             "gallery": [
-              "Green.png"
+              "Green.webp"
             ],
             "description": "Текіла, лимонний фреш, лікер Pisang",
             "category": "drinks",
@@ -1094,7 +1094,7 @@ const getAllGoods = async () => ({
             "name": "Більярд",
             "inStock": true,
             "gallery": [
-              "Biliard.png"
+              "Biliard.webp"
             ],
             "description": "",
             "category": "event",
@@ -1105,7 +1105,7 @@ const getAllGoods = async () => ({
             "name": "Кальян ТАБАК JIBIAR / Табак Smoky Bull",
             "inStock": true,
             "gallery": [
-              "Kel.png"
+              "Kel.webp"
             ],
             "description": "",
             "category": "event",
@@ -1115,7 +1115,7 @@ const getAllGoods = async () => ({
             "name": "Ігрова приставка Microsoft Xbox",
             "inStock": true,
             "gallery": [
-              "XBox.png"
+              "XBox.webp"
             ],
             "description": "",
             "category": "event",
