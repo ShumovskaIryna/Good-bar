@@ -8,7 +8,7 @@ const getAllGoods = async () => ({
           {
             "id": "Сирні палички",
             "name": "Сирні палички",
-            "inStock": false,
+            "isNew": false,
             "gallery": [
               "Cheese1.webp",
            ],
@@ -19,7 +19,7 @@ const getAllGoods = async () => ({
            {
             "id": "Сирне плато",
             "name": "Сирне плато",
-            "inStock": false,
+            "isNew": false,
             "gallery": [
               "SetC.webp",
            ],
@@ -29,7 +29,7 @@ const getAllGoods = async () => ({
           }, {
             "id": "Цибулеві кільця фрі",
             "name": "Цибулеві кільця фрі",
-            "inStock": false,
+            "isNew": false,
             "gallery": [
               "Kalmar.webp",
            ],
@@ -40,7 +40,7 @@ const getAllGoods = async () => ({
            {
             "id": "Крильця KFC",
             "name": "Крильця KFC",
-            "inStock": false,
+            "isNew": false,
             "gallery": [
               "Krula.webp",
            ],
@@ -51,7 +51,7 @@ const getAllGoods = async () => ({
            {
             "id": "Нагетси",
             "name": "Нагетси",
-            "inStock": false,
+            "isNew": false,
             "gallery": [
               "Nagets.webp",
            ],
@@ -62,7 +62,7 @@ const getAllGoods = async () => ({
            {
             "id": "Крила апетитні",
             "name": "Крила апетитні",
-            "inStock": false,
+            "isNew": false,
             "gallery": [
               "KrulaA.webp",
            ],
@@ -73,7 +73,7 @@ const getAllGoods = async () => ({
           {
             "id": "Свинячі вушка",
             "name": "Свинячі вушка",
-            "inStock": false,
+            "isNew": false,
             "gallery": [
               "Vuha.webp",
            ],
@@ -84,7 +84,7 @@ const getAllGoods = async () => ({
           {
             "id": "Ковбаски гриль",
             "name": "Ковбаски гриль",
-            "inStock": false,
+            "isNew": false,
             "gallery": [
               "Sausage.webp",
            ],
@@ -95,7 +95,7 @@ const getAllGoods = async () => ({
           {
             "id": "Грибочки фрі",
             "name": "Грибочки фрі",
-            "inStock": false,
+            "isNew": false,
             "gallery": [
               "Mush.webp",
            ],
@@ -106,7 +106,7 @@ const getAllGoods = async () => ({
           {
             "id": "Мойва фрі",
             "name": "Мойва фрі",
-            "inStock": false,
+            "isNew": false,
             "gallery": [
               "Moiva.webp",
            ],
@@ -117,7 +117,7 @@ const getAllGoods = async () => ({
            {
             "id": "Деруни з грибочками",
             "name": "Деруни з грибочками",
-            "inStock": false,
+            "isNew": false,
             "gallery": [
               "Derun.webp",
            ],
@@ -128,10 +128,9 @@ const getAllGoods = async () => ({
             {
             "id": "Картопляна Пюрешка мишеня",
             "name": "Картопляна Пюрешка мишеня",
-            "inStock": false,
+            "isNew": true,
             "gallery": [
-              "Pure.webp",
-              "new.webp"
+              "Pure.webp"
            ],
             "description": "",
             "category": "snack",
@@ -140,7 +139,7 @@ const getAllGoods = async () => ({
           {
             "id": "Українська закуска",
             "name": "Українська закуска",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
             "UA.webp" 
             ],
@@ -151,7 +150,7 @@ const getAllGoods = async () => ({
           {
             "id": "Канапки ~до горілочки~",
             "name": "Канапки ~до горілочки~",
-            "inStock": false,
+            "isNew": false,
             "gallery": [
               "Kanapki.webp",
            ],
@@ -162,7 +161,7 @@ const getAllGoods = async () => ({
           {
             "id": "Козацька закуска",
             "name": "Козацька закуска",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
             "Kozak.webp" 
             ],
@@ -173,7 +172,7 @@ const getAllGoods = async () => ({
           {
             "id": "Брускети з паштетом",
             "name": "Брускети з паштетом",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
             "Pasha.webp" 
             ],
@@ -184,7 +183,7 @@ const getAllGoods = async () => ({
           {
             "id": "Мега-Шаурма",
             "name": "Мега-Шаурма",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
             "Mega.webp" 
             ],
@@ -195,7 +194,7 @@ const getAllGoods = async () => ({
           {
             "id": "Лаваш з сосискою",
             "name": "Лаваш з сосискою",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
             "LavashS.webp" 
             ],
@@ -206,7 +205,7 @@ const getAllGoods = async () => ({
           {
             "id": "Лаваш з моцареллою та зеленню",
             "name": "Лаваш з моцареллою та зеленню",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
             "LavashM.webp" 
             ],
@@ -217,7 +216,7 @@ const getAllGoods = async () => ({
           {
             "id": "Хот дог",
             "name": "Хот дог",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
             "Hotdog.webp" 
             ],
@@ -228,7 +227,7 @@ const getAllGoods = async () => ({
           {
             "id": "Картопля фрі",
             "name": "Картопля фрі",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
             "Fri.webp" 
             ],
@@ -239,7 +238,7 @@ const getAllGoods = async () => ({
           {
             "id": "Картопля по селянськи / з беконом",
             "name": "Картопля по селянськи / з беконом",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
             "FriV.webp" 
             ],
@@ -250,7 +249,7 @@ const getAllGoods = async () => ({
            {
             "id": "Чіпси Lavash",
             "name": "Чіпси Lavash",
-            "inStock": false,
+            "isNew": false,
             "gallery": [
               "LavashCh.webp",
            ],
@@ -261,7 +260,7 @@ const getAllGoods = async () => ({
            {
             "id": "Сухарики з часником",
             "name": "Сухарики з часником",
-            "inStock": false,
+            "isNew": false,
             "gallery": [
               "Flint.webp",
            ],
@@ -272,7 +271,7 @@ const getAllGoods = async () => ({
            {
             "id": "Овочі гриль",
             "name": "Овочі гриль",
-            "inStock": false,
+            "isNew": false,
             "gallery": [
               "VGril.webp",
            ],
@@ -283,7 +282,7 @@ const getAllGoods = async () => ({
            {
             "id": "Скумбрія гриль",
             "name": "Скумбрія гриль",
-            "inStock": false,
+            "isNew": false,
             "gallery": [
               "Skumbria.webp",
            ],
@@ -294,7 +293,7 @@ const getAllGoods = async () => ({
            {
             "id": "Нарізка асорті",
             "name": "Нарізка асорті",
-            "inStock": false,
+            "isNew": false,
             "gallery": [
               "Asorti.webp",
            ],
@@ -305,7 +304,7 @@ const getAllGoods = async () => ({
            {
             "id": "М’ясна тарілка",
             "name": "М’ясна тарілка",
-            "inStock": false,
+            "isNew": false,
             "gallery": [
               "Meat.webp",
            ],
@@ -316,7 +315,7 @@ const getAllGoods = async () => ({
            {
             "id": "Жуль’єн",
             "name": "Жуль’єн",
-            "inStock": false,
+            "isNew": false,
             "gallery": [
               "Zulen.webp",
            ],
@@ -327,7 +326,7 @@ const getAllGoods = async () => ({
            {
             "id": "Вареники з картопею/капустою/лівером",
             "name": "Вареники з картопею/капустою/лівером",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
             "Varenuku.webp" 
             ],
@@ -338,7 +337,7 @@ const getAllGoods = async () => ({
            {
             "id": "Пельмені",
             "name": "Домашні пельмені",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
             "Pelmeni.webp" 
             ],
@@ -349,7 +348,7 @@ const getAllGoods = async () => ({
            {
             "id": "Соковитий чебурек Beef/Pork/Cheese",
             "name": "Соковитий чебурек Beef/Pork/Cheese",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
             "Cheburek.webp" 
             ],
@@ -359,7 +358,7 @@ const getAllGoods = async () => ({
           },{
             "id": "Бендерики",
             "name": "Бендерики",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
             "Bender.webp" 
             ],
@@ -370,7 +369,7 @@ const getAllGoods = async () => ({
            {
             "id": "Млинці з начинкою курка та гриби",
             "name": "Млинці з начинкою курка та гриби",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
             "BlinMC.webp" 
             ],
@@ -386,7 +385,7 @@ const getAllGoods = async () => ({
           {
             "id": "Сет для друзів",
             "name": "Сет для друзів",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "SetF.webp"
             ],
@@ -397,7 +396,7 @@ const getAllGoods = async () => ({
           {
             "id": "Сет до пива",
             "name": "Сет до пива",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "SetB.webp"],
             "description": "Ковбаски гриль, сухарики з часником, картопля по-селянськи, свинячі вушка",
@@ -413,7 +412,7 @@ const getAllGoods = async () => ({
           {
             "id": "Pizza Havai",
             "name": "Pizza Havai",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
             "PizzaH.webp" 
             ],
@@ -424,7 +423,7 @@ const getAllGoods = async () => ({
           {
             "id": "Pizza BBQ",
             "name": "Pizza BBQ",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
             "PizzaB.webp" 
             ],
@@ -435,7 +434,7 @@ const getAllGoods = async () => ({
           {
             "id": "Pizza More",
             "name": "Pizza More",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
             "PizzaM.webp" 
             ],
@@ -446,7 +445,7 @@ const getAllGoods = async () => ({
           {
             "id": "Pizza Фірмова",
             "name": "Pizza Фірмова",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
             "PizzaF.webp" 
             ],
@@ -457,7 +456,7 @@ const getAllGoods = async () => ({
           {
             "id": "Pizza 4 Cheese",
             "name": "Pizza 4 Cheese",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
             "Pizza4C.webp" 
             ],
@@ -473,7 +472,7 @@ const getAllGoods = async () => ({
           {
             "id": "Chicago-Burger",
             "name": "Chicago-Burger",
-            "inStock": true,
+            "isNew": false,
             "gallery": ["Burger.webp"],
             "description": "Бургер з котлетою з соковитої курочки",
             "category": "burger",
@@ -482,7 +481,7 @@ const getAllGoods = async () => ({
           {
             "id": "Burger-Texas",
             "name": "Burger-Texas",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
            "BurgerT.webp"],
             "description": "Бургер з котлетою з ароматної свинини та яловичини",
@@ -497,7 +496,7 @@ const getAllGoods = async () => ({
           {
             "id": "Грецький салат",
             "name": "Грецький салат",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
            "Grees.webp"],
             "description": "Салат з помідорами, огірками, сиром фета, маслинами, травами та оливковою олією",
@@ -506,7 +505,7 @@ const getAllGoods = async () => ({
           },   {
             "id": "Салат цезар",
             "name": "Салат цезар з куркою",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
            "Cesar.webp"],
             "description": "Салат з листям салату Айзберг, помідорами, сиром пармезан, куркою, яйцями та соусом Цезар",
@@ -515,7 +514,7 @@ const getAllGoods = async () => ({
           },   {
             "id": "Салат цезар з креветками",
             "name": "Салат цезар з креветками",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
            "CesarSr.webp"],
             "description": "З листям салату Айзберг, помідорами, сиром пармезан, криветками, яйцями та соєво-гірчичним соусом",
@@ -524,7 +523,7 @@ const getAllGoods = async () => ({
           },   {
             "id": "Салат від шефа",
             "name": "Салат від шефа",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
            "SaladSh.webp"],
             "description": "Салат з морковкою по-корейськи, свинячими вушками, зеленим горошком та соусом",
@@ -534,7 +533,7 @@ const getAllGoods = async () => ({
            {
             "id": "Овочевий салат",
             "name": "Овочевий салат",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
            "SaladV.webp"],
             "description": "Салат з помідором, огірком зеленню та капустою",
@@ -544,7 +543,7 @@ const getAllGoods = async () => ({
           // {
           //   "id": "Салат з качкою та карамелізованими яблуками",
           //   "name": "Салат з качкою та карамелізованими яблуками",
-          //   "inStock": true,
+          //   "isNew": false,
           //   "gallery": [
           //  ""],
           //   "description": "Салат з качкою та карамелізованими яблуками",
@@ -559,7 +558,7 @@ const getAllGoods = async () => ({
            {
             "id": "Стейк з свинної корейки",
             "name": "Стейк з свинної корейки",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
            "SteakP.webp"],
             "description": "Ароматний, соковитий стейк з свинної корейки середньої прожарки",
@@ -568,7 +567,7 @@ const getAllGoods = async () => ({
           },    {
             "id": "Стейк курячий",
             "name": "Стейк курячий",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
            "SteakC.webp"],
             "description": "Апетний, соковитий стейк курячий, середньої прожарки",
@@ -588,7 +587,7 @@ const getAllGoods = async () => ({
           {
             "id": "Морозиво в асортименті",
             "name": "Морозиво в асортименті",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "IceCream.webp"
             ],
@@ -599,7 +598,7 @@ const getAllGoods = async () => ({
           {
             "id": "Морозиво полуничний чізкейк",
             "name": "Морозиво полуничний чізкейк",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "IceCreamS.webp"
             ],
@@ -609,7 +608,7 @@ const getAllGoods = async () => ({
           },{
             "id": "Сирники",
             "name": "Сирники",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Surnuk.webp"
             ],
@@ -619,7 +618,7 @@ const getAllGoods = async () => ({
           },{
             "id": "Млинці з начинкою творог/ізюм",
             "name": "Млинці з начинкою творог/ізюм",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Blin.webp"
             ],
@@ -630,10 +629,9 @@ const getAllGoods = async () => ({
           {
             "id": "Пана-кота",
             "name": "Пана-кота",
-            "inStock": true,
+            "isNew": true,
             "gallery": [
-              "Panakota.webp",
-              "new.webp"
+              "Panakota.webp"
             ],
             "description": "Смачний пудинг, солодка пана-кота",
             "category": "dessert",
@@ -647,7 +645,7 @@ const getAllGoods = async () => ({
           {
             "id": "Латте",
             "name": "Латте",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Latte.webp"
             ],
@@ -658,7 +656,7 @@ const getAllGoods = async () => ({
           {
             "id": "Американо",
             "name": "Американо / Американо з молоком",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Americano.webp"
             ],
@@ -669,7 +667,7 @@ const getAllGoods = async () => ({
           {
             "id": "Капучіно",
             "name": "Капучіно",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Capuchino.webp"
             ],
@@ -679,7 +677,7 @@ const getAllGoods = async () => ({
           },{
             "id": "Еспрессо",
             "name": "Еспрессо",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Espresso.webp"
             ],
@@ -689,7 +687,7 @@ const getAllGoods = async () => ({
           },{
             "id": "Чай Greenfield в асортименті",
             "name": "Чай Greenfield в асортименті",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Tea.webp"
             ],
@@ -700,10 +698,9 @@ const getAllGoods = async () => ({
           {
             "id": "Айс Латте",
             "name": "Айс Латте",
-            "inStock": true,
+            "isNew": true,
             "gallery": [
-              "IceLatte.webp",
-              "new.webp"
+              "IceLatte.webp"
             ],
             "description": "Лате та лід",
             "category": "drinks",
@@ -712,10 +709,9 @@ const getAllGoods = async () => ({
           {
             "id": "Еспрессо Тонік",
             "name": "Еспрессо Тонік",
-            "inStock": true,
+            "isNew": true,
             "gallery": [
-              "Tonic.webp",
-              "new.webp"
+              "Tonic.webp"
             ],
             "description": "Тонік, сік лимонний, сироп лайма, сік апельсиновий",
             "category": "drinks",
@@ -724,10 +720,9 @@ const getAllGoods = async () => ({
            {
             "id": "Мілк Шейк в асортименті",
             "name": "Мілк Шейк в асортименті",
-            "inStock": true,
+            "isNew": true,
             "gallery": [
-              "Milk.webp",
-              "new.webp"
+              "Milk.webp"
             ],
             "description": "Молочний коктейль",
             "category": "drinks",
@@ -736,7 +731,7 @@ const getAllGoods = async () => ({
           {
             "id": "Лимонад в асортименті",
             "name": "Лимонад в асортименті",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Lemonade.webp"
             ],
@@ -747,7 +742,7 @@ const getAllGoods = async () => ({
            {
             "id": "Квас традиційний",
             "name": "Квас традиційний",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Kvas.webp"
             ],
@@ -758,7 +753,7 @@ const getAllGoods = async () => ({
            {
             "id": "Пиво Obolon /Lvivske1715 / Lvivske / Kronenbourg",
             "name": "Пиво Obolon світле/ Lvivske1715 / Lvivske світле/ Kronenbourg blanc1664",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Beer.webp"
             ],
@@ -769,7 +764,7 @@ const getAllGoods = async () => ({
           {
             "id": "Космополітен",
             "name": "Космополітен",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Kosmo.webp"
             ],
@@ -780,7 +775,7 @@ const getAllGoods = async () => ({
           {
             "id": "Снукер",
             "name": "Снукер",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Snooker.webp"
             ],
@@ -791,7 +786,7 @@ const getAllGoods = async () => ({
           {
             "id": "Секс на пляжі",
             "name": "Секс на пляжі",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Sex.webp"
             ],
@@ -802,7 +797,7 @@ const getAllGoods = async () => ({
           {
             "id": "Піна колада",
             "name": "Піна колада",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Pina.webp"
             ],
@@ -813,7 +808,7 @@ const getAllGoods = async () => ({
           {
             "id": "Рожевий лимонад",
             "name": "Рожевий лимонад",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Pink.webp"
             ],
@@ -824,7 +819,7 @@ const getAllGoods = async () => ({
           {
             "id": "Каліфорнійський гвинт",
             "name": "Каліфорнійський гвинт",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Hvunt.webp"
             ],
@@ -835,7 +830,7 @@ const getAllGoods = async () => ({
           {
             "id": "Блакитна лагуна",
             "name": "Блакитна лагуна",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "BlueL.webp"
             ],
@@ -846,7 +841,7 @@ const getAllGoods = async () => ({
           {
             "id": "Лонг айленд",
             "name": "Лонг айленд",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Long.webp"
             ],
@@ -857,7 +852,7 @@ const getAllGoods = async () => ({
           {
             "id": "Камікадзе",
             "name": "Камікадзе",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Kamikadze.webp"
             ],
@@ -868,7 +863,7 @@ const getAllGoods = async () => ({
           {
             "id": "Хвиля Малібу",
             "name": "Хвиля Малібу",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Malibu.webp"
             ],
@@ -879,7 +874,7 @@ const getAllGoods = async () => ({
           {
             "id": "Американський виноград",
             "name": "Американський виноград",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "AmericanG.webp"
             ],
@@ -890,7 +885,7 @@ const getAllGoods = async () => ({
           {
             "id": "Алігатор",
             "name": "Алігатор",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Aligator.webp"
             ],
@@ -901,7 +896,7 @@ const getAllGoods = async () => ({
           {
             "id": "Джангл Джус",
             "name": "Джангл Джус",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Jungl.webp"
             ],
@@ -912,7 +907,7 @@ const getAllGoods = async () => ({
           {
             "id": "Рідка Марихуана",
             "name": "Рідка Марихуана",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Mary.webp"
             ],
@@ -923,7 +918,7 @@ const getAllGoods = async () => ({
           {
             "id": "Апероль з віскі",
             "name": "Апероль з віскі",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Aperol.webp"
             ],
@@ -934,7 +929,7 @@ const getAllGoods = async () => ({
           {
             "id": "Апероль з апельсиновим соком",
             "name": "Апероль з апельсиновим соком",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "AperolJ.webp"
             ],
@@ -945,7 +940,7 @@ const getAllGoods = async () => ({
           {
             "id": "Челсі сайдкар",
             "name": "Челсі сайкар",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Chelsi.webp"
             ],
@@ -956,7 +951,7 @@ const getAllGoods = async () => ({
           {
             "id": "Синій понеділок",
             "name": "Синій понеділок",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "BlueMonday.webp"
             ],
@@ -967,7 +962,7 @@ const getAllGoods = async () => ({
              {
             "id": "Сайдкар",
             "name": "Сайдкар",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Sidecar.webp"
             ],
@@ -978,7 +973,7 @@ const getAllGoods = async () => ({
              {
             "id": "Самбука Ларнака",
             "name": "Самбука Ларнака",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Sambuka.webp"
             ],
@@ -989,7 +984,7 @@ const getAllGoods = async () => ({
           {
             "id": "Бажання Анни",
             "name": "Бажання Анни",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Anna.webp"
             ],
@@ -1000,7 +995,7 @@ const getAllGoods = async () => ({
           {
             "id": "Гавайський",
             "name": "Гавайський",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Havai.webp"
             ],
@@ -1011,7 +1006,7 @@ const getAllGoods = async () => ({
           {
             "id": "Велика кахуна",
             "name": "Велика кахуна",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Kahuna.webp"
             ],
@@ -1022,7 +1017,7 @@ const getAllGoods = async () => ({
           {
             "id": "Біла леді",
             "name": "Біла леді",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "White.webp"
             ],
@@ -1033,7 +1028,7 @@ const getAllGoods = async () => ({
           // {
           //   "id": "Брендбар",
           //   "name": "Брендбар",
-          //   "inStock": true,
+          //   "isNew": false,
           //   "gallery": [
           //     "Brend.webp"
           //   ],
@@ -1044,7 +1039,7 @@ const getAllGoods = async () => ({
             // {
           //   "id": "Шоти в асортименті",
           //   "name": "Шоти в асортименті",
-          //   "inStock": true,
+          //   "isNew": false,
           //   "gallery": [
           //     "Shot.webp"
           //   ],
@@ -1055,7 +1050,7 @@ const getAllGoods = async () => ({
           {
             "id": "B-53",
             "name": "B-53",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "B53.webp"
             ],
@@ -1066,7 +1061,7 @@ const getAllGoods = async () => ({
           {
             "id": "Хіросіма",
             "name": "Хіросіма",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Hirosima.webp"
             ],
@@ -1076,7 +1071,7 @@ const getAllGoods = async () => ({
           },{
             "id": "Зелений мексиканець",
             "name": "Зелений мексиканець",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Green.webp"
             ],
@@ -1092,7 +1087,7 @@ const getAllGoods = async () => ({
           {
             "id": "Більярд",
             "name": "Більярд",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Biliard.webp"
             ],
@@ -1103,7 +1098,7 @@ const getAllGoods = async () => ({
           {
             "id": "Кальян ТАБАК JIBIAR / Табак Smoky Bull",
             "name": "Кальян ТАБАК JIBIAR / Табак Smoky Bull",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "Kel.webp"
             ],
@@ -1113,7 +1108,7 @@ const getAllGoods = async () => ({
           },{
             "id": "Ігрова приставка Microsoft Xbox",
             "name": "Ігрова приставка Microsoft Xbox",
-            "inStock": true,
+            "isNew": false,
             "gallery": [
               "XBox.webp"
             ],

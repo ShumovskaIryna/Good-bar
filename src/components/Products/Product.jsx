@@ -17,11 +17,10 @@ class Product extends Component {
             className="gallery"
             alt="product"
           />
-
-          {this.props.product.gallery.length > 1
+          {this.props.product.isNew
             ?
            <img
-            src={this.props.product.gallery[1]}
+            src={"new.webp"}
             className="new-prod"
             alt="product"
             />
