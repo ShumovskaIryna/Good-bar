@@ -1,23 +1,22 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-class Product extends Component {
-  render() {
-    return (
+function Product(props) {
+  return (
       <div className="product-card">
         <div className="good">
             <div className="descrtiption">
-            <p className="title">{this.props.product.name}</p>
-            <p className="desc">{this.props.product.description}</p>
+            <p className="title">{props.product.name}</p>
+            <p className="desc">{props.product.description}</p>
             <b className="price">
-              {this.props.product.prices}
+              {props.product.prices}
             </b>
           </div>
           <img
-            src={this.props.product.gallery[0]}
+            src={props.product.gallery[0]}
             className="gallery"
             alt="product"
           />
-          {this.props.product.isNew
+          {props.product.isNew
             ?
            <img
             src={"new.webp"}
@@ -29,5 +28,4 @@ class Product extends Component {
       </div>
     );
   }
-}
 export default Product;

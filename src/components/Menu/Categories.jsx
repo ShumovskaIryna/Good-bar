@@ -16,7 +16,8 @@ function Categories(props) {
                 chooseCategory={chooseCategory}
                 gategoryName={name}
                 products={currentProducts}
-              /></div>
+                />
+              </div>
             ))}
               <Products
                products={currentProducts}

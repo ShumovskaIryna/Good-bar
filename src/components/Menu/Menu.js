@@ -14,7 +14,6 @@ export default function Menu(props) {
   const {
     chooseCategory,
     currentProducts } = props;
-  // let [cartOpen, setCartOpen] = useState(false);
   let [category, setCategory] = useState("Сети")
   return (
     <header className="header">

@@ -10,7 +10,7 @@ const getAllGoods = async () => ({
             "name": "Сирні палички",
             "isNew": false,
             "gallery": [
-              "Cheese1.webp",
+              "https://lh3.googleusercontent.com/pw/AM-JKLWuv-tFpEZfKpwf6jObTkS-jc06vZ8NvmZXAyakjovBvtDgVR4bUV4MHz5BOwikoRl7YXUzmQo5a49NTck3JsCGFgtXC2Ack4LVR-tSPPEH0lJEX9wbukxus4hVeGBFV1JFXQrKygLS_xbmrYqhEKB-kg=w1338-h1192-no?authuser=0",
            ],
             "description": "Смачні, гарячі, хрумкі та тягучі сирні палички фрі",
             "category": "snack",
@@ -21,7 +21,7 @@ const getAllGoods = async () => ({
             "name": "Сирне плато",
             "isNew": false,
             "gallery": [
-              "SetC.webp",
+              "https://lh3.googleusercontent.com/pw/AM-JKLVNnkUfeFvwFpjcbrHN1iC_O0Ty9n_TDPZ1cp1SPPG0pW7jrSmGUNHDVSAOXMFXhUUsqlYQMdZexV1clnqXAqagK_Jy01pMMQIzthZOA0T4EPNvez59qFdn5E5fZRZvb1WeZ0PffRYRh2m2cxNWoayrVQ=w1075-h775-no?authuser=0",
            ],
             "description": "Різовид чотирьох сирів",
             "category": "snack",
@@ -31,7 +31,7 @@ const getAllGoods = async () => ({
             "name": "Цибулеві кільця фрі",
             "isNew": false,
             "gallery": [
-              "Kalmar.webp",
+              "https://lh3.googleusercontent.com/pw/AM-JKLVhJiZ76Fbl8hRFfKTUk6FtqbpU2eqrEnLtI2HxXVjI470gS7XYmiqUzWYQeTGu4oqs9ovFaTagwSzBZNDFVF6IOgALTbFvhyZsrLK--p6F1rvaSXvHeqMQglWRTkDbYhJ965AgGAmjDyoZoD2Pycc-Xg=w1159-h1120-no?authuser=0",
            ],
             "description": "Смачні, гарячі, хрумкі цибулеві кільця фрі",
             "category": "snack",
@@ -42,7 +42,7 @@ const getAllGoods = async () => ({
             "name": "Крильця KFC",
             "isNew": false,
             "gallery": [
-              "Krula.webp",
+              "https://lh3.googleusercontent.com/pw/AM-JKLUve4Vveqg9mcQGeRrlcHq4IgnFSFieBXXG_-VOBYyuHramjgMwDOntWAUOI42zY12gZ48jzGj9HVZa5BoobQRMbiSiSAWlfMX7b9dpuo98vMZoK7Us-xP1FmblH4js0uq2dTCJSAa762g78apwnNY3Iw=w1196-h1084-no?authuser=0",
            ],
             "description": "Крильця, хрумкі та соковиті всередині",
             "category": "snack",
@@ -53,7 +53,7 @@ const getAllGoods = async () => ({
             "name": "Нагетси",
             "isNew": false,
             "gallery": [
-              "Nagets.webp",
+              "https://lh3.googleusercontent.com/pw/AM-JKLUlH0WbOvOgEKQPLXABmdZiOjM_IB4CRUfXxxHMCLx0Uh0OwxDfQB-vHMX0P_jHoXhS1Ctk_NWgPOliCRgjslVyB9MTYCpKqSUz9STXjEUYgVEAvFL0_Si-UmwSDbJGDw9Px039IMZeswIqa9QkdHCUiA=w1056-h1192-no?authuser=0",
            ],
             "description": "",
             "category": "snack",
@@ -64,7 +64,7 @@ const getAllGoods = async () => ({
             "name": "Крила апетитні",
             "isNew": false,
             "gallery": [
-              "KrulaA.webp",
+              "https://lh3.googleusercontent.com/pw/AM-JKLUIjSDlnWIeq_JcaYKeK9nF02C8Zz-GtJQKckjq-bMLHqww061ks_8I7zvqv14OXbQ0ptUCyz-_bTnsxEAWn9ek6kwvBgVQxVd56U4Qug3bZ66TOz-Y1dmkzKjPuo_OwimzDLW9oUafV8IBkd4MX7QBtg=w1388-h1012-no?authuser=0",
            ],
             "description": "",
             "category": "snack",
@@ -75,7 +75,7 @@ const getAllGoods = async () => ({
             "name": "Свинячі вушка",
             "isNew": false,
             "gallery": [
-              "Vuha.webp",
+              "https://lh3.googleusercontent.com/pw/AM-JKLWR1xdipZNmVvKEkCkBZm22XAq6OuT3eciwn19xwTSeosNLKsW2VToC9PDa9EsCAm4REXLi266WZUXP4htsHZWm3h87U4h26B9SYKmH6-FOdUwMGWR9jUW_cwA128r1-CF4IcBORuRgz2zN1lr0TIjkuw=w1388-h1168-no?authuser=0",
            ],
             "description": "Смачні, в міру підкопчені свинячі вушка",
             "category": "snack",
@@ -86,7 +86,7 @@ const getAllGoods = async () => ({
             "name": "Ковбаски гриль",
             "isNew": false,
             "gallery": [
-              "Sausage.webp",
+              "https://lh3.googleusercontent.com/pw/AM-JKLVU8s2IaSNbO4SpFXn7t8wupUQf5yaqXsEWOFaBn2J1_VpJjcEQK5saXi9v7Fr69c75qkCkPwv3HAsy3YAgGQBxnbevuxXMt2tjzotib5ezhW5jNTeU63Gpm6Zbx1EaL-Slkzvdnj3zHN6zPOzGR3rRWg=w1388-h1008-no?authuser=0",
            ],
             "description": "",
             "category": "snack",
@@ -97,7 +97,7 @@ const getAllGoods = async () => ({
             "name": "Грибочки фрі",
             "isNew": false,
             "gallery": [
-              "Mush.webp",
+              "https://lh3.googleusercontent.com/pw/AM-JKLX3rTUWdVeCxkGtzzgla9rDKrgJJOhxIfONTDpctqNqFbZyLSAZLPWiu87P8MsInMefL54rEpDCID4PwPYpWhIBhwVxlDLLv2d3c-2JCm2CTNMWGqixztERnKeG3WKa2NJRs46Jfw9XBQHblFMRwasvEg=w396-h388-no?authuser=0",
            ],
             "description": "Смачні грибочки фрі",
             "category": "snack",
@@ -108,7 +108,7 @@ const getAllGoods = async () => ({
             "name": "Мойва фрі",
             "isNew": false,
             "gallery": [
-              "Moiva.webp",
+              "https://lh3.googleusercontent.com/pw/AM-JKLUJK5oco93tENRO4fWPy07fkseZf_HjDf5RlbglFExSL2P_NFZgBLA_ryMNBn-bz5S5Ux7Kvu0ktdwrdfH0xoeFL3CwFhxiP1lBh8bFTNOoFZCfeQFZkxGZ6ZBnYF_Js6CGThh_yVG7c9F2I8Iw6U5rfQ=w1154-h822-no?authuser=0",
            ],
             "description": "",
             "category": "snack",
@@ -119,7 +119,7 @@ const getAllGoods = async () => ({
             "name": "Деруни з грибочками",
             "isNew": false,
             "gallery": [
-              "Derun.webp",
+              "https://lh3.googleusercontent.com/pw/AM-JKLWmzjkJ0FsGn1DufF6B-TqAGewHboCKlrZvcGIjHTmmSUNNpZ-a7MhLdwlgpyGdr_vea72I2mcUSeTRqIIpM-yWP3a4RBdVssDof7KcBA1rX4Zi-qTmUx1YwPPXz6VJJ9ZYoerjxr_UcMjJSj9FiU8u-Q=w1388-h1130-no?authuser=0",
            ],
             "description": "Картопляні деруни з золотистою скоринкою",
             "category": "snack",
@@ -130,7 +130,7 @@ const getAllGoods = async () => ({
             "name": "Картопляна Пюрешка мишеня",
             "isNew": true,
             "gallery": [
-              "Pure.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLWjh-8beF2q4Pd5Aj940dEnSoCi5hElBG7RBz5BX4kF6WOb9pFiJxmHUSMN017V9gMV-gXuGRJN7qES2rV4XKKyvkDlgoRR8jI55HLBE4G8x074WMEEnyfWQf1JGONWSQ34huHTVsxF8pDo8f48Bl_jmw=w919-h820-no?authuser=0"
            ],
             "description": "",
             "category": "snack",
@@ -141,7 +141,7 @@ const getAllGoods = async () => ({
             "name": "Українська закуска",
             "isNew": false,
             "gallery": [
-            "UA.webp" 
+            "https://lh3.googleusercontent.com/pw/AM-JKLU8ngaDEs8nOma3oc5lV5ZTngUUeoG0E5Wnb78D4OhMkX1Sip2sa-tFTDFpGXOYpnGO7wMhRi2H0zsuuh2n3tbVuMqSrbO1_fTw1FVbIo1ydAZGMLvjq8K7IQX3Yu0geuTZcJhhHgBCDpU1NVG-g08GpA=w1280-h854-no?authuser=0" 
             ],
             "description": "Оселедець з цибулею та кортоплею",
             "category": "snack",
@@ -152,7 +152,7 @@ const getAllGoods = async () => ({
             "name": "Канапки ~до горілочки~",
             "isNew": false,
             "gallery": [
-              "Kanapki.webp",
+              "https://lh3.googleusercontent.com/pw/AM-JKLVcKw46aFJis2p5HjHgNTDQYWFxKtMmAmwRn9eQrMs57Rn1AQT-JfDcoKm9cQPg4C-4K0b6M4gv4ffrwVcCe_KWBkub8UTw_T_FxgtcPl-V83rpVVNfUlb5sQ4zrSVu_UK0qzUMypwE61jueL-zE7Mczg=w507-h424-no?authuser=0",
            ],
             "description": "Хрумкі грінки, оселедець та французька гірчиця",
             "category": "snack",
@@ -163,7 +163,7 @@ const getAllGoods = async () => ({
             "name": "Козацька закуска",
             "isNew": false,
             "gallery": [
-            "Kozak.webp" 
+            "https://lh3.googleusercontent.com/pw/AM-JKLWZsJNyZnrossfFJjKEy0SbDHslfzbuTJ0Ug2Pyoi_V870p7EhgEjLWlwgqLFyMyL0_-l_ZaVbdQGq23LKdprvb1Cjfc7kvaM5O1gcpwmlEdDwIeEJHrblLQa0ht6WtBKmAI7PrfKiSN9AqqGSEBcdwkg=w1344-h1192-no?authuser=0" 
             ],
             "description": "Хрумкі грінки помазані ніжною пастою з сала",
             "category": "snack",
@@ -174,7 +174,7 @@ const getAllGoods = async () => ({
             "name": "Брускети з паштетом",
             "isNew": false,
             "gallery": [
-            "Pasha.webp" 
+            "https://lh3.googleusercontent.com/pw/AM-JKLVdVsgTeYvJkolUe52LbJV8_0Rhmj3TI2Rh5nAqFMTKU4PM1qy9rokm3Q5U2V-XVrdG0gGgrXxiSuVOEGGU4lfP5_QEYVUitKHvLzczvi1pNZmgGSV77laKalpb9ZAvkXq3w9cGQ4-wuXML-oSXW8T2Tg=w1388-h1190-no?authuser=0" 
             ],
             "description": "Брускети та кульки з ніжним курячим паштетом та кисло-солодким соусом",
             "category": "snack",
@@ -185,7 +185,7 @@ const getAllGoods = async () => ({
             "name": "Мега-Шаурма",
             "isNew": false,
             "gallery": [
-            "Mega.webp" 
+            "https://lh3.googleusercontent.com/pw/AM-JKLXRhzaLCEuKqeeeMGQe8kB-SRA-qu0V2-e31ykoGCRoY8EM8X23YZ6iZwtkMVfVDAjchMVRPINucDQvBj6QqBtvV6ij-1xh9rBfQIvHiBSCwmLhyANRBSVOmZZ7Y2Aa8poNIHv-veD_t6xd6pX-taznTw=w883-h630-no?authuser=0" 
             ],
             "description": "Соковита, ароматна шаурма з курячим філе, овочами та соусом",
             "category": "snack",
@@ -196,7 +196,7 @@ const getAllGoods = async () => ({
             "name": "Лаваш з сосискою",
             "isNew": false,
             "gallery": [
-            "LavashS.webp" 
+            "https://lh3.googleusercontent.com/pw/AM-JKLWdPzXvbFllXrhUGty3ZvbqQ5HWafiaDrpBtmh6x3TmSQqWqTkn3xOa7OwW2CQumzZJmULZXxmr99pOrBoQCLCkrDnrosYjBPQqm8x_mM8AgLknm1-bxV2ArjoED80b4PvDVP3tE-lneq4Z1ElxJB0nyQ=w512-h342-no?authuser=0" 
             ],
             "description": "",
             "category": "snack",
@@ -207,7 +207,7 @@ const getAllGoods = async () => ({
             "name": "Лаваш з моцареллою та зеленню",
             "isNew": false,
             "gallery": [
-            "LavashM.webp" 
+            "https://lh3.googleusercontent.com/pw/AM-JKLWdNzcByTZFRAT-9GfsWnqn9wMSUyY-PcFrUWUUNI67UxX-PWn_CI02cNlBrD4VprT-_wyedFnLW9nf7XsSfe6291JArGUUrR9phYxKQ-Vxd7ropIyZeF8JTMFn_rKqDuqwQyRqDlGr12moo1rsEA7h3w=w1388-h966-no?authuser=0" 
             ],
             "description": "",
             "category": "snack",
@@ -218,7 +218,7 @@ const getAllGoods = async () => ({
             "name": "Хот дог",
             "isNew": false,
             "gallery": [
-            "Hotdog.webp" 
+            "https://lh3.googleusercontent.com/pw/AM-JKLXmwQ0J8IMBwmYqf1esfPC5mUSLeC9SylpnKjTu1afr7iESWKzB03D__mYsDMnbP6ZCVPu5mg35ArYmQHGHsILP3gi8Yhe4-LjaDU1sJXvV948KStq5dro1VLbVnFCH8As2kQXyJ3yfzkXM286CKpCRYg=w1205-h910-no?authuser=0" 
             ],
             "description": "Гарячий хот-дог з сосискою та соусами",
             "category": "snack",
@@ -229,7 +229,7 @@ const getAllGoods = async () => ({
             "name": "Картопля фрі",
             "isNew": false,
             "gallery": [
-            "Fri.webp" 
+            "https://lh3.googleusercontent.com/pw/AM-JKLUVtSTmiXe5dZZVQofQ39r8q9fXkgc1jzP3BMwtQgYw1kQn-IpAhIIPb2VRrlvjeDOsCC-veOaVE_oEuOu_021auy5ths04z_XlQ94JZUxxQIWUNsHdnJt4xf6U_gwoZCpr8Q2bOp2wygKBKfwc_XhMHA=w1388-h936-no?authuser=0" 
             ],
             "description": "Картопля фрі з соусом",
             "category": "snack",
@@ -240,7 +240,7 @@ const getAllGoods = async () => ({
             "name": "Картопля по селянськи / з беконом",
             "isNew": false,
             "gallery": [
-            "FriV.webp" 
+            "https://lh3.googleusercontent.com/pw/AM-JKLVFuZAZTewu7Hgevduvf3cc2pYci6_V-e2HAdC5zZzJUtWFRyXrJg6_y1dblCB3x9NMNzi8zlbkrokj1X8GY7QW3fw6EdYS2_csBRLl2lBk5vHTo-ck84gDeK2fo1py_Q2DVO2h9g3NpbSs89vdCK2EIg=w532-h399-no?authuser=0" 
             ],
             "description": "Картопля по селянськи з соусом / з беконом",
             "category": "snack",
@@ -251,7 +251,7 @@ const getAllGoods = async () => ({
             "name": "Чіпси Lavash",
             "isNew": false,
             "gallery": [
-              "LavashCh.webp",
+              "https://lh3.googleusercontent.com/pw/AM-JKLXVUWAWaKxSReB96suv4CX5Cmt71u1eUU2WX1aSIe8bRO0r1kWIgDuwhgw46n5i0qOiO9p6JPPKKlJmLPph6dzWAmOgMmo0AFUXPb5GaGLyrDeU0fCICoB-QUegf5AH0tClgdFYmbVNorSbgYhtn2Cq1w=w890-h743-no?authuser=0",
            ],
             "description": "Чіпси з лаваша до пива",
             "category": "snack",
@@ -262,7 +262,7 @@ const getAllGoods = async () => ({
             "name": "Сухарики з часником",
             "isNew": false,
             "gallery": [
-              "Flint.webp",
+              "https://lh3.googleusercontent.com/pw/AM-JKLWUza504aWBiidOaLjQSDleVn2uaUvs3vUu3deAwYkpGGwml4W6YvVXJZDRvAlU0mMmKZHeE5yN6Q73FPWH1Wbdgoa0HAsw0_VFdW0b5L_atUdE-hfRLi_ECJvwMYpQKqgo5_eBbDK5QorqyfXek1sLeQ=w1119-h815-no?authuser=0",
            ],
             "description": "Чудова закуска до пива",
             "category": "snack",
@@ -273,7 +273,7 @@ const getAllGoods = async () => ({
             "name": "Овочі гриль",
             "isNew": false,
             "gallery": [
-              "VGril.webp",
+              "https://lh3.googleusercontent.com/pw/AM-JKLXR6hso7xK3cy5MH7mZx7dcefDrTwHPnOTRM1gGb5MIA2Zush_NAOnDRZtVeI2b38OEFkgYUgal0Kz5ZIf-5l9Wy203038hSVOvorrow6O57DcUJfm8e50beLkmEyDnsEORrBUoRQU9MwH5Hok9hWDzVQ=w1200-h1192-no?authuser=0",
            ],
             "description": "Перелік овочів: болгарський перець, кабачок, баклажан, грибочки",
             "category": "snack",
@@ -284,7 +284,7 @@ const getAllGoods = async () => ({
             "name": "Скумбрія гриль",
             "isNew": false,
             "gallery": [
-              "Skumbria.webp",
+              "https://lh3.googleusercontent.com/pw/AM-JKLWIJuK_ehasCABoUnP3TWmu6adr6efrMPORTDJOPzpOu8OOw6F3sf0Sxu1cXbT2znbzCwPw9-Fpw_F_DtbPeW-Xgv4fDNMqvgCdMn7KV17CKEN8N4s5wb_co6Yd8BZsddHlZar_3zwol2s3kWDUlWjXsw=w1315-h726-no?authuser=0",
            ],
             "description": "",
             "category": "snack",
@@ -295,7 +295,7 @@ const getAllGoods = async () => ({
             "name": "Нарізка асорті",
             "isNew": false,
             "gallery": [
-              "Asorti.webp",
+              "https://lh3.googleusercontent.com/pw/AM-JKLW5l9lVvUBhdc1a01N5gnCpRI895rcwoONzcuWUtv7CwT5_-IrGGL4I7gMiZpBObXyDgJaDuUJuG0dj1Ji7-VAbS9AV3qQvXYpHkE6wVS2H7ZJ8MGufvXH5q7jziMwsR2v37Pj0bKy8zS2Eqsmbhz9PgQ=w1250-h1178-no?authuser=0",
            ],
             "description": "Нарізка асорті напівкопчена ковбаса та сир",
             "category": "snack",
@@ -306,7 +306,7 @@ const getAllGoods = async () => ({
             "name": "М’ясна тарілка",
             "isNew": false,
             "gallery": [
-              "Meat.webp",
+              "https://lh3.googleusercontent.com/pw/AM-JKLUBSZ78o-qxo-5rGu95jI8N-iGgPgP-VYvWJZidqfK_lSHFp-wKSvy60EN_w5hZKoYXj7OURHrdgvoXf2BUocRnh9GzE7OXGNowTJ8cSClb9ZIuLwCUyc0zOEtiOnbpMPzy0wTjViZee2L905jw5mn7FA=s1192-no?authuser=0",
            ],
             "description": "Чотири види м’ясних делікатесів",
             "category": "snack",
@@ -317,7 +317,7 @@ const getAllGoods = async () => ({
             "name": "Жуль’єн",
             "isNew": false,
             "gallery": [
-              "Zulen.webp",
+              "https://lh3.googleusercontent.com/pw/AM-JKLW4VcopxO7m0YP2S2h5it3c5ZGLil0JU_7Bj0FrWMB9e5NHZM5skPL3yjSs3V9pkTYU1yoKRs6fe-Rhf_Ampxb2sRPKWrK_yxWxpvnWQv4hGub2vND6bOrhI-prYrrWmEdfTZ3nJ2qPAevHDS1QUrSOiA=w1388-h1124-no?authuser=0",
            ],
             "description": "Жарена курочка, жарені грибочки та цибулька в вершковому соусі під сиром",
             "category": "snack",
@@ -328,7 +328,7 @@ const getAllGoods = async () => ({
             "name": "Вареники з картопею/капустою/лівером",
             "isNew": false,
             "gallery": [
-            "Varenuku.webp" 
+            "https://lh3.googleusercontent.com/pw/AM-JKLVNnnbGPiKwkJX6LaJ9G8PVxFRTQhcOtwWaQgV2KP3U8dI6Z6zgoq_jlHOqGLL72-jf7QMSxxgfNMg6e-nBMTG-rZwka38H2fHuyYBNPNAa0UR8AgtWzYcEWfJn12Lex9B6FpRjdZFPE-H2PDzujoBZTg=w908-h800-no?authuser=0" 
             ],
             "description": "",
             "category": "snack",
@@ -339,7 +339,7 @@ const getAllGoods = async () => ({
             "name": "Домашні пельмені",
             "isNew": false,
             "gallery": [
-            "Pelmeni.webp" 
+            "https://lh3.googleusercontent.com/pw/AM-JKLWoIJS9O5mwZVJudxJ5iWjVugNhxkBwaJdOT0FbH4tQOuyuLYWcByvZ0Oim0weESWjPYClG8jqxqvaTRtmz4w6nkzpsdJ5D-n49hvrG-_JDIYMxZm5UB-DGkibFA9SMjfSmBtXeXEgJlxNlcRdhZPLq3Q=w1329-h919-no?authuser=0" 
             ],
             "description": "",
             "category": "snack",
@@ -350,7 +350,7 @@ const getAllGoods = async () => ({
             "name": "Соковитий чебурек Beef/Pork/Cheese",
             "isNew": false,
             "gallery": [
-            "Cheburek.webp" 
+            "https://lh3.googleusercontent.com/pw/AM-JKLV2w6IqsacZJ6f4TOOtLlvwZLQ_cKsL2QoBrardEI21dDz6yr61yyh8aPWE_lLuhx46I_7vQf0MBRZfxC1GLi4UIy6MvY-kDWVq2CrJyXWO1OjnwVVlqTNpD_pHGZRo-VtGlShESTrVvdQCfGkFosVISw=w1304-h1188-no?authuser=0" 
             ],
             "description": "Гарячий,соковитий чебурек з яловичиною та кінзою/з свининою/сиром та зеленню",
             "category": "snack",
@@ -360,7 +360,7 @@ const getAllGoods = async () => ({
             "name": "Бендерики",
             "isNew": false,
             "gallery": [
-            "Bender.webp" 
+            "https://lh3.googleusercontent.com/pw/AM-JKLVSROqcK4ZN6y-OovWskNv2dVCRGhdHHw40nAG16Vhg-nvNpFVrUO-cpgl8lRHoZ2fS2up-lgU8DakMpLMwi-bEAduxD3U6hCNekSpmU0eajcGgbZb_125m5FT8gO2yLL30a9rGC6tiO-vfhYVYKOIXcg=w1388-h1064-no?authuser=0" 
             ],
             "description": "",
             "category": "snack",
@@ -371,7 +371,7 @@ const getAllGoods = async () => ({
             "name": "Млинці з начинкою курка та гриби",
             "isNew": false,
             "gallery": [
-            "BlinMC.webp" 
+            "https://lh3.googleusercontent.com/pw/AM-JKLWAd4ejepjVdAubhawbBIbLJImfKXue3cQRAUBixc3P2HMe6j_aKEpjb5vFWns5QPp7pv-lNF8kH6HaBp5_w6Oj--s1n1tHBwbA0L7nKrmJl22UZhBAL6FpC77pt8qwn2CNrOGBzO33Kh17xKXG6I_6oQ=w1388-h772-no?authuser=0" 
             ],
             "description": "",
             "category": "snack",
@@ -387,7 +387,7 @@ const getAllGoods = async () => ({
             "name": "Сет для друзів",
             "isNew": false,
             "gallery": [
-              "SetF.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLXVudYnzqWZM33rCiupzKaqIHnGZB5QGB9fOHHmDcQ6QhMkBpUb02VnidwQWW3pfBl0j8pILv80Q_Rs7UykuK9CwDcgDS4y17nzm2xjxsmpLBKP_9gDdvsOg_GzLZqWX76yHed1Hxg-Gh--vDqPjcWsFQ=w1015-h1183-no?authuser=0"
             ],
             "description": "Курячі крильця, нагетси, картопля фрі, цибулеві кільця",
             "category": "set",
@@ -398,7 +398,8 @@ const getAllGoods = async () => ({
             "name": "Сет до пива",
             "isNew": false,
             "gallery": [
-              "SetB.webp"],
+              "https://lh3.googleusercontent.com/pw/AM-JKLWN3zryzGa2EP0nNi79mjqRyQSh2hH0A9wcUaFjjFvuH6L8f9gqhFoY43BTgn7Gpnjb-sgmlVQAMGAeOiabAUj-TbDq5p_hAebHU3KmW3HGIdYMMq40o8cm1CHs_wHNMJ79FRKqehrtrWQ8AelVhk3z9g=w843-h1013-no?authuser=0"
+            ],
             "description": "Ковбаски гриль, сухарики з часником, картопля по-селянськи, свинячі вушка",
             "category": "set",
             "prices": "160 грн"
@@ -414,7 +415,7 @@ const getAllGoods = async () => ({
             "name": "Pizza Havai",
             "isNew": false,
             "gallery": [
-            "PizzaH.webp" 
+            "https://lh3.googleusercontent.com/pw/AM-JKLXoqWJm7nlpLlmWHCV80nqlf9Z-GN0SfyBc_4aEm7WhlyqHHORPUaEBPT_23Af-OM5IxRSe8HYsQXuxCueDM7WooHqjHZquIZtAlB_YwCgVHsVaLM9nukOnoG7MXj8NiTSiJqenvz-afJ-K6k2LjrjapQ=w645-h484-no?authuser=0" 
             ],
             "description": "Гаряча піцца з ананасами, курочкою, кукурудзою та шинкою, час приготування 30хв",
             "category": "pizza",
@@ -425,7 +426,7 @@ const getAllGoods = async () => ({
             "name": "Pizza BBQ",
             "isNew": false,
             "gallery": [
-            "PizzaB.webp" 
+            "https://lh3.googleusercontent.com/pw/AM-JKLVtuGpBMLvYXN6YixRb1ZA5GiriJgnl9b8hlk96ogM8_BE5spByVRU6vBZLhEVv22W_FWcgar1QzPXI3ZiDE64Zjr9oxfwgbaMrGcG2CwoWIsdxTXLDAbBMc79YtkA8S3C_0nWbFVYB2NkHPSwE7GvFWg=w1388-h1040-no?authuser=0" 
             ],
             "description": "Гаряча піцца з мисливськими ковбасками, грибами та маринованою цибулею та соусом барбекю, час приготування 30хв",
             "category": "pizza",
@@ -436,7 +437,7 @@ const getAllGoods = async () => ({
             "name": "Pizza More",
             "isNew": false,
             "gallery": [
-            "PizzaM.webp" 
+            "https://lh3.googleusercontent.com/pw/AM-JKLVW4aK-a6HnuIzGtjyt9xj_Fw7bsCayYF190I_8eq7KRNSVBW8dUJTY0g8Tcx74zK8Oh5mOyhzkH5nWP1rvI5reMZJOXdVurofEhSrocjlG9E9i2gbSjbMey6C5HOxci8OGnHzo5iAnPsTUubWFCn2p2w=w630-h478-no?authuser=0" 
             ],
             "description": "Гаряча піцца з морепродуктами, час приготування 30хв",
             "category": "pizza",
@@ -447,7 +448,7 @@ const getAllGoods = async () => ({
             "name": "Pizza Фірмова",
             "isNew": false,
             "gallery": [
-            "PizzaF.webp" 
+            "https://lh3.googleusercontent.com/pw/AM-JKLViXq83y57KCT277mAoA7dVbb509UTkNyGArnK-SNVSs3Db0OsLyzsqfwspss0YZt9Aplsub3P39vVRLGjehIrw98FQJN3wwwY_mZ_zr2XNEodzHqHJVq_0_kapvWmSvY5mKP0H7dklKIh0aiJ56qcaUg=w623-h483-no?authuser=0" 
             ],
             "description": "Гаряча піцца з двома видами ковбаси, грибами та момідорами, час приготування 30хв",
             "category": "pizza",
@@ -458,7 +459,7 @@ const getAllGoods = async () => ({
             "name": "Pizza 4 Cheese",
             "isNew": false,
             "gallery": [
-            "Pizza4C.webp" 
+            "https://lh3.googleusercontent.com/pw/AM-JKLXyZkqo_mESYcDuxO4RDufREJi6oJ2HbyOjZZsYOIONivWlJfc1sgWqpEYB5k7756nf9fd91WFGwcz9grQJ5r1vcuNUhukHpa8ThS5JnMbTayYbl13RpJS-HgOiEu855iBI3aWzNZQL2OE3FCj3Gua2rA=w638-h489-no?authuser=0" 
             ],
             "description": "Гаряча піцца з 4 видами сиру, горішками та грушею, час приготування 30хв",
             "category": "pizza",
@@ -473,7 +474,8 @@ const getAllGoods = async () => ({
             "id": "Chicago-Burger",
             "name": "Chicago-Burger",
             "isNew": false,
-            "gallery": ["Burger.webp"],
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLWx_SP687vbI_tzur3tEte9i6mOpUF5M9tHodpogatiCPdkWB7vyOlCnNKNdKuVuK9dPwZL2gajCzlyTE9uer2rdoxwbFuRbZb2bNAEd2Syh1zRW_vJKFVQxc9shId2vKR57ZXCBs-8w9Qsu7X32whQeA=w1292-h1159-no?authuser=0"],
             "description": "Бургер з котлетою з соковитої курочки",
             "category": "burger",
            "prices": "80 грн"
@@ -483,7 +485,7 @@ const getAllGoods = async () => ({
             "name": "Burger-Texas",
             "isNew": false,
             "gallery": [
-           "BurgerT.webp"],
+           "https://lh3.googleusercontent.com/pw/AM-JKLX0wI1t1ZNc7m8DxzSlumnNrDRwDGaKyZrv6cVfuxZf6s6DUWnTfTcV-P792mml7daoXbQ1Or4Rz8gHOE5DoPFLj56qiJmxYJasuRCJD3Pl0YHVbj0ph9JdMDcp6PnEZupscdTTJo94G-pugv1ONuv7Cw=w696-h506-no?authuser=0"],
             "description": "Бургер з котлетою з ароматної свинини та яловичини",
             "category": "burger",
             "prices": "85 грн"
@@ -498,16 +500,17 @@ const getAllGoods = async () => ({
             "name": "Грецький салат",
             "isNew": false,
             "gallery": [
-           "Grees.webp"],
+           "https://lh3.googleusercontent.com/pw/AM-JKLVu4ZFjsQCHxUMnVKB8zzjWBpwX_Eye6ZU4r9PLN0_EQyNb7PGfU4fHxYaa2FIcrs2zeVbXUY_ElwiEi6rit-FWHqp2CheZFM13mqNZCb_-eWcOdBi-G60vKHAcPT4-AFzdy-a-q37OjMgistL72UTApQ=w1337-h733-no?authuser=0"],
             "description": "Салат з помідорами, огірками, сиром фета, маслинами, травами та оливковою олією",
             "category": "salad",
             "prices": "90 грн / 300 грам"
-          },   {
+          },
+          {
             "id": "Салат цезар",
             "name": "Салат цезар з куркою",
             "isNew": false,
             "gallery": [
-           "Cesar.webp"],
+           "https://lh3.googleusercontent.com/pw/AM-JKLVtzC9Jx9Y7fOn6baDBSeKPFdnGj3uw2dxW_KM_tQVQlEGVENt_JLA9ybsP_OZVn5zFQhoZcFHymezMrnRn3_JC00F5qIMhh4f5-wxD8yP-rnZPGVYXC1RiMG24nxx0Y0SFFvgohNh9QrUbBbPkcZB2nQ=w1122-h763-no?authuser=0"],
             "description": "Салат з листям салату Айзберг, помідорами, сиром пармезан, куркою, яйцями та соусом Цезар",
             "category": "salad",
             "prices": "120 грн / 280 грам"
@@ -516,7 +519,7 @@ const getAllGoods = async () => ({
             "name": "Салат цезар з креветками",
             "isNew": false,
             "gallery": [
-           "CesarSr.webp"],
+           "https://lh3.googleusercontent.com/pw/AM-JKLW0fiwb4AvHZGZJJ32HhhJW3jNYP5mEUW4pSKjTaJQoYomqLJqebbfAVN_B3SrYCzrGDteXntW4VXOE8546S85gffxq-yPd-XkG2LpdMyB4Oxe0vINx4B9PZwzmWbV1SlgmaAlfFO0UEbuCb1-gEJdQEw=w1385-h948-no?authuser=0"],
             "description": "З листям салату Айзберг, помідорами, сиром пармезан, криветками, яйцями та соєво-гірчичним соусом",
             "category": "salad",
             "prices": "150 грн / 280 грам"
@@ -525,7 +528,7 @@ const getAllGoods = async () => ({
             "name": "Салат від шефа",
             "isNew": false,
             "gallery": [
-           "SaladSh.webp"],
+           "https://lh3.googleusercontent.com/pw/AM-JKLU7Nt-32Ai6RvMZfgUydeHkEZez0ek-yTiyOrUGdzc0XJHAVMxEexqjf26MQvpNZBTw9Uj_6okaz_w-nVd8WRiss-xMCr5KGPF3Oo28Ku_TysN-K_bzcGiNF_bqt9JXp1zbraZw85tqFSMR8waqL_Mhaw=w721-h500-no?authuser=0"],
             "description": "Салат з морковкою по-корейськи, свинячими вушками, зеленим горошком та соусом",
             "category": "salad",
             "prices": "60 грн / 250 грам"
@@ -535,7 +538,7 @@ const getAllGoods = async () => ({
             "name": "Овочевий салат",
             "isNew": false,
             "gallery": [
-           "SaladV.webp"],
+           "https://lh3.googleusercontent.com/pw/AM-JKLVmPHTuebl5kdibEHrLQHJQ_MlkLGKNn40VWHyCjgWDmEMCJ4KNpq7IpGU9zZ0r16Gg-fMZj_Hzte3uCNo78PLsVbl_887rMS-OBbxhnUK13QHY21uVUvaVKX48jRbUYE-t3sUUKwMp5cLNL3sVviNsog=w1372-h1012-no?authuser=0"],
             "description": "Салат з помідором, огірком зеленню та капустою",
             "category": "salad",
             "prices": "50 грн / 200 грам"
@@ -560,7 +563,7 @@ const getAllGoods = async () => ({
             "name": "Стейк з свинної корейки",
             "isNew": false,
             "gallery": [
-           "SteakP.webp"],
+           "https://lh3.googleusercontent.com/pw/AM-JKLXEnajF5fxijtwMgOkX05ylxOu7nTZ893E2Cl5fdhwiyrEZrxXknO2_Ds8yzGCTiIKopd2_S02JRfF8rnLceDv3H_JvyBPHY_fPUCF5FGdFTuqj_8_eHpb1aMWC-aKyWfz6graxAl1jhySrhAxVsBYryg=w482-h414-no?authuser=0"],
             "description": "Ароматний, соковитий стейк з свинної корейки середньої прожарки",
             "category": "meat",
             "prices": "45 грн / 100 грам"
@@ -569,7 +572,7 @@ const getAllGoods = async () => ({
             "name": "Стейк курячий",
             "isNew": false,
             "gallery": [
-           "SteakC.webp"],
+           "https://lh3.googleusercontent.com/pw/AM-JKLWe3BzwWI5IZcncGNLg-dBSNGJ_djwdqX8kPcOeG_C2nvZtEnhiqHcUud-6Sc4FqPEP83kTXTmG9B4GLZMeTKTbv0fKv7GSD24JSARui_y79DwYMasgiavOMwC_MuJ6Jc-095p9gQ56G1LoO8RE5TNVvw=w627-h470-no?authuser=0"],
             "description": "Апетний, соковитий стейк курячий, середньої прожарки",
             "category": "meat",
             "prices": "35 грн / 100 грам"
@@ -589,7 +592,7 @@ const getAllGoods = async () => ({
             "name": "Морозиво в асортименті",
             "isNew": false,
             "gallery": [
-              "IceCream.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLWC8t4AH5WRICJysQu0Oi7is02nULcTc_3hFRRUOIr5QyFn6jIF9UVqzsvNpGa_dZhqSoKieXsOb00lLIVZZbj8LxaK9AFJGkKJjYs2om-BEn-tfvkGDpiMf9fhf9k2qiig5xDQKYmHKzueXQKVlDZ7TA=w508-h535-no?authuser=0"
             ],
             "description": "Морозиво в асортименті (ріжок або порційно)",
             "category": "dessert",
@@ -600,7 +603,7 @@ const getAllGoods = async () => ({
             "name": "Морозиво полуничний чізкейк",
             "isNew": false,
             "gallery": [
-              "IceCreamS.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLUVwQfluuilJ94fv1VbQcn8tyX6nBEXAu87u6Ll1pm9NBgMKWEDFlW6-8rSldEChk9leBTR1T7YZVEQ9YEoK0x71q1HRCIHy0jCTNEK4Ljrw8539E_FJZSb-_OF6pP9mRCpFNCL4EY-_Ivn7NXp9C8l2w=w1126-h970-no?authuser=0"
             ],
             "description": "Морозиво в ріжку полуничний чізкейк Мonaco",
             "category": "dessert",
@@ -610,7 +613,7 @@ const getAllGoods = async () => ({
             "name": "Сирники",
             "isNew": false,
             "gallery": [
-              "Surnuk.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLWlAD3ZVUqsUkfixXKGztv3AUhwfq_22TZEi3pphnzzbt4l0eFx442l7ynycFOMw31l4FseZj5y_jEKehp1qDWOkkwEe7Pv6vhMH309EkUQzK7w7UYTq4CXxejZ3-FZIyy3rmuAYfI486PcPFnoAzNznA=w1037-h675-no?authuser=0"
             ],
             "description": "Найкращі сирники, як в бабусі",
             "category": "dessert",
@@ -620,7 +623,7 @@ const getAllGoods = async () => ({
             "name": "Млинці з начинкою творог/ізюм",
             "isNew": false,
             "gallery": [
-              "Blin.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLXT_Ha9I29ZtrYlH647N-HUq5RJG6Q9wDwmvsM6C28jj0h-_MQ0fTIzYNCfC0p00oxiiiKIJP6kMO0_6l2smsU2P1v4ciB0_aMLtIeq7zzwbJmjccohT28vu22jpZiee_cTFMKOj7b44IlSl0Jf2tu35Q=w1388-h1026-no?authuser=0"
             ],
             "description": "Млинці з начинкою творог та ізюм",
             "category": "dessert",
@@ -631,7 +634,7 @@ const getAllGoods = async () => ({
             "name": "Пана-кота",
             "isNew": true,
             "gallery": [
-              "Panakota.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLULU8A7oW1C_wcPhMY0h9NoNoQQb-bLqH_q5-8NSB_PsgSPI4n-9LKSmtZkMIFCLFrU_QMGWs-Nipsf0105CTErR2PG_DIsQxd1IJkZTAjc3LKJnuZkqgGn2Bz4WwZsnPh9IEWpYw9NYF6OD1CGIeCYGg=w904-h768-no?authuser=0"
             ],
             "description": "Смачний пудинг, солодка пана-кота",
             "category": "dessert",
@@ -647,7 +650,7 @@ const getAllGoods = async () => ({
             "name": "Латте",
             "isNew": false,
             "gallery": [
-              "Latte.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLWt4BCbyVjbsyYyJi5I4pMwTTU2rnLA1Q9SyDen0A1Zu7Zpy1blrkrD0mSJDJUwrCGZkJQYTnzDKTdjGRHYEhxmqDGXUhAu0fYEF1hXon0ghB-YmNQ46txmblQlISS6j8_B9MTdBm3zr__voNAIAhZA-w=w1086-h1052-no?authuser=0"
             ],
             "description": "",
             "category": "drinks",
@@ -658,7 +661,7 @@ const getAllGoods = async () => ({
             "name": "Американо / Американо з молоком",
             "isNew": false,
             "gallery": [
-              "Americano.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLUWYx7UPWfCCHInfemSzmCuXE4uq2fkw31XuP48VoERa5lIfLHMwq1XWcBXySjAsV2kd2fZPKT6nZ1icbBTLH7UjSLqrNPxIgesXaKP1cctMQYGPxny0LoKTXRvKZOgYrlHCwqtLmdvMFMtgqaW_Y2owg=w731-h656-no?authuser=0"
             ],
             "description": "",
             "category": "drinks",
@@ -669,7 +672,7 @@ const getAllGoods = async () => ({
             "name": "Капучіно",
             "isNew": false,
             "gallery": [
-              "Capuchino.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLV8uV482k0s49OyP-jBznGpIJCmfZ6lQFbdp1ND1bKeEKxwdzm-0NWD1GG-CpFTkt52qANaaZ7KIeGOgHau8660noBBmh50yyT9xIymvf0shASRkTY6Y8oF9ndPvBnl_1poqO5EzZZvPh71Gq9Ch9CJdg=w1182-h1192-no?authuser=0"
             ],
             "description": "",
             "category": "drinks",
@@ -679,7 +682,7 @@ const getAllGoods = async () => ({
             "name": "Еспрессо",
             "isNew": false,
             "gallery": [
-              "Espresso.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLUH_JgUmRYlfge9CNRErdcvhPCRwLJVbswkV9wMGLYqnKWD32-dI6lqJX9PbFErZNa6rI42z5f1m4JC4sxkOre52mtt4YYTkQnHwoAxEyxiwAKUCoiRsV-NHL9VsXQDj6js4v5hwHZCouFgs5CXu7fkIQ=w720-h626-no?authuser=0"
             ],
             "description": "",
             "category": "drinks",
@@ -689,7 +692,7 @@ const getAllGoods = async () => ({
             "name": "Чай Greenfield в асортименті",
             "isNew": false,
             "gallery": [
-              "Tea.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLXYY3XiMy_M3vS_YeOS5avHI8neG6SOZV3sGtjPFPsc5_jaNVa-YRe5YCYjO6EPUJkab_FU6yTUZ572g2R9yBCyrelqv8ao4zKAlJQ3nFvrNJ_-tDeu3ZX7BAuZ5fVtKjFPxCzntO2PHZYuvCCVEb78rQ=w1388-h1048-no?authuser=0"
             ],
             "description": "",
             "category": "drinks",
@@ -700,7 +703,7 @@ const getAllGoods = async () => ({
             "name": "Айс Латте",
             "isNew": true,
             "gallery": [
-              "IceLatte.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLXTOMddA0gxNX9-n31BBQA4vKnl1c-S4q4nB_YnCZw_KItlspzGAHII-lyo4bDmlVi2Xzk8SU7IkXn75Q6PBw6VpJ72oxPN_RqXPWG6gia5ZDvNeqE6EcX95HvfC_vCWpkvk-ykaqDerW37sLb67sEbzA=w634-h738-no?authuser=0"
             ],
             "description": "Лате та лід",
             "category": "drinks",
@@ -711,7 +714,7 @@ const getAllGoods = async () => ({
             "name": "Еспрессо Тонік",
             "isNew": true,
             "gallery": [
-              "Tonic.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLW3SJLBQRMCYIRApc7O7MzyMs6TfdqHP2X3KQb6oefq9q-xp2wXVv7J360LLEZDAbK08DuVWmVrukevj48IyFHPXG7dq754m_5_qfI7p9da-ziP-iOQzeeibgXJgyCQBJNhlO42e2s3XbUm2ykaM4jnZg=w794-h956-no?authuser=0"
             ],
             "description": "Тонік, сік лимонний, сироп лайма, сік апельсиновий",
             "category": "drinks",
@@ -722,7 +725,7 @@ const getAllGoods = async () => ({
             "name": "Мілк Шейк в асортименті",
             "isNew": true,
             "gallery": [
-              "Milk.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLXrYc8SXPBKVb-wYL87MfSXE-p3kZ-ar7Nl7F7WQs_PqP4zpAytce4UB-mdHIyyoRsuxwCTTJA_PGo_JB0bZCPeU1hT6qiCrQHeUBS4W6w6A_jgUWmcILAZBxUxS-uQN7708Tx7GiS0xkDckanTYe2M0g=w549-h628-no?authuser=0"
             ],
             "description": "Молочний коктейль",
             "category": "drinks",
@@ -733,7 +736,7 @@ const getAllGoods = async () => ({
             "name": "Лимонад в асортименті",
             "isNew": false,
             "gallery": [
-              "Lemonade.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLWiT9cqvVSP-y4B4s9rkVSXpyr2GUMmT9345UX70uG9afGRI15sxdd0hnYL8Zw6xOcOXFT4kg3gFvqnpVNgYAEQKn5QLs3OohvklfMxwFvjOsH3jGwtysIrtgr3vw_DDBFfZrHT0yrTczlMgVN84R2o-Q=w1388-h1230-no?authuser=0"
             ],
             "description": "",
             "category": "drinks",
@@ -744,7 +747,7 @@ const getAllGoods = async () => ({
             "name": "Квас традиційний",
             "isNew": false,
             "gallery": [
-              "Kvas.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLVyvaZW7Oih6d3ANSiOzGcMTIXLsEkhOXacDqPuUtUvpAfB7Ifnlr_qhYBbRYWLuP6gLzzUWScdpu7qcB9m9wn-YuiGZPhlMvt_wO5z4WVwNWNiKKQfi49yB3n2A26Lf7Jmi-zYcY2kwv5OXY5g1yYPAQ=w765-h826-no?authuser=0"
             ],
             "description": "",
             "category": "drinks",
@@ -755,7 +758,7 @@ const getAllGoods = async () => ({
             "name": "Пиво Obolon світле/ Lvivske1715 / Lvivske світле/ Kronenbourg blanc1664",
             "isNew": false,
             "gallery": [
-              "Beer.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLUb1UgDtOk-r7W784VEBuOIA4zCi9T6SC5h9_8C26EDc06SKCOVW2okhiDqyGCaw3lX1zWF5fd6LXPDxzffMPsi6qRs5I_t2VCXtTe6OG7-a6T7We5qmCsnTCD_JOY-kUAoHXj1KG7ovYhuIO7XcLf43w=w1388-h1110-no?authuser=0"
             ],
             "description": "",
             "category": "drinks",
@@ -766,7 +769,7 @@ const getAllGoods = async () => ({
             "name": "Космополітен",
             "isNew": false,
             "gallery": [
-              "Kosmo.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLXf2bGlFuI-w3k565fjEWgHOtpD5uljiFJUyAngw_R8lEMIgbNI8b5Sglpl4mDVbUpLADlU3F4-B3G4fplcE17K63Preh1v3yIU1agylzcI5wP0dEwwaETRyXYWPhOie-tNQHzTJjafzmgmnQu30PS4hA=w846-h1199-no?authuser=0"
             ],
             "description": "Горілка, лікер Triple Sec, лимонний фреш, журавлиний сік",
             "category": "drinks",
@@ -777,7 +780,7 @@ const getAllGoods = async () => ({
             "name": "Снукер",
             "isNew": false,
             "gallery": [
-              "Snooker.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLU5fM6PXkaqFS25wVdbXv9wYjGAnWNVKopRdG3pwKJPMXD0I017HRsXuFOa-G-hvoeyVcUEkQi1FRhcKdKp0A6cxpJipcAHgdhMcGcpkFNptSqTbROklj0RzVrMmjrwEjW0hLv1SYGBryEtzlrcyWbtdA=w629-h817-no?authuser=0"
             ],
             "description": "Горілка, лікер Melon, сироп Caramel, журавлиновий морс",
             "category": "drinks",
@@ -788,7 +791,7 @@ const getAllGoods = async () => ({
             "name": "Секс на пляжі",
             "isNew": false,
             "gallery": [
-              "Sex.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLU7EPh4TJ1fiDlyxqyDLEmDyPD486qWJQfR2d8n3OX8irgUnb4SQ-k9uNlfQAOf_4TFKdgUhoO0t995pezGaZzPmc96zx2oozcytfP8kwhoLT8svsGlTsQIkBMeTIZQAIs7vzwtfeSGEx8ZcLE_SoSoOA=w591-h814-no?authuser=0"
             ],
             "description": "Горілка, лікер Peach, апельсиновий сік, журавлиновий сік",
             "category": "drinks",
@@ -799,7 +802,7 @@ const getAllGoods = async () => ({
             "name": "Піна колада",
             "isNew": false,
             "gallery": [
-              "Pina.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLXrf_RJ7Vl1-N7MphxNr9Vy6wJo2ZmXdy-GJve-xvmlOB-GV-2iubaw2vJU01CE5iSmqkd8q76B9Y4jQsz7myoK_RBKZUQTzeeZ7g3GLQ5fBhU85JP4KXE5NZkxvY2O5ZQVhUQfETBYDEXaLvmwfaqCHg=w377-h572-no?authuser=0"
             ],
             "description": "Ром світлий, сироп Pina Colada, ананасовий сік",
             "category": "drinks",
@@ -810,7 +813,7 @@ const getAllGoods = async () => ({
             "name": "Рожевий лимонад",
             "isNew": false,
             "gallery": [
-              "Pink.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLUV0rNUhaTcfTkoOZY7waghSSiM2ixjguB4q55mVqXSsa9ld4MJrj--PJIvRHTOJohUOF20Yulfd2Rm6LDKF7ZhtiHCzk2BtrSN_667xdL--IknuraVHSmEXDrJHGdKe1CJJDMP6dSTGNyB8eppE-F-SA=w1244-h1306-no?authuser=0"
             ],
             "description": "Горілка, лікер Triple Sec, морс, лимонний фреш, сік лаймy, содова",
             "category": "drinks",
@@ -821,7 +824,7 @@ const getAllGoods = async () => ({
             "name": "Каліфорнійський гвинт",
             "isNew": false,
             "gallery": [
-              "Hvunt.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLVY-tLDd5FNuAH3JRd2wuOftLKw976v9puNjrnDxQE-QcI7vN82pocHvvtOy_mx_KBj5SNFElCqhLJvrHwzbcN8uzd0pkcJVh06b5X1wYGg0Stybi-7-uGFL8fjNtphPzondT-H0o-bvgEPu02ePOQa4w=w1053-h1171-no?authuser=0"
             ],
             "description": "Горілка, грейпфрутовий сік, апельсиновий сік",
             "category": "drinks",
@@ -832,7 +835,7 @@ const getAllGoods = async () => ({
             "name": "Блакитна лагуна",
             "isNew": false,
             "gallery": [
-              "BlueL.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLXVXkNQkHOiB_daMOEG-omP9jIjn-tCo0UfOiRw03n_Ib5GLl5mKAImxpcFODZM9l6TFLZ59LzVpa1BzT_lrHvQnzmUpM8jd5GHvIbl3jKfmTji26r2VmhoUB0nkdQGEqoihLhzkxDWacsb0DpnFNaL_w=w1026-h1306-no?authuser=0"
             ],
             "description": "Лікер Curacao, Лимонний фреш, содова",
             "category": "drinks",
@@ -843,7 +846,7 @@ const getAllGoods = async () => ({
             "name": "Лонг айленд",
             "isNew": false,
             "gallery": [
-              "Long.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLV-XiPvo4uqmDLW3n5RZweM9aoe7LV3M36bfJeQH5ns1SSsFx5ELAv9cPjSikG2AyqoFe_WDWAMv_U6nmPKv4bVkxQldlpok3X673FjKrk1flDPpyoz1KoqiIYRns28h3xUfaIYyOO6IB1cQOZFSB0THg=w512-h470-no?authuser=0"
             ],
             "description": "Ром, джин, текіла, горілка, апельсиновий сік, лимонний фреш, кола",
             "category": "drinks",
@@ -854,7 +857,7 @@ const getAllGoods = async () => ({
             "name": "Камікадзе",
             "isNew": false,
             "gallery": [
-              "Kamikadze.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLXTrPLEDri3OvesnkSqzj8qlfkcA3QCNV6zLhgBw0TZB0Q4QZ8qu6xtT-RqMAl5FiH9rC7ltzUSE-rk59tkFlfF54d_pgkcSJAw6v2DXjkuNF7YryH22ovZVvBazHOHZRjicdkZPEdP443esyxxitBRjQ=w587-h600-no?authuser=0"
             ],
             "description": "Горілка, лікер Triple Sec, сік лайму",
             "category": "drinks",
@@ -865,7 +868,7 @@ const getAllGoods = async () => ({
             "name": "Хвиля Малібу",
             "isNew": false,
             "gallery": [
-              "Malibu.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLXcmmJ0r9JoYMIIZYbinaX1g_yFAwRPSh7oYhpvOoHLCjD09nH4cyuRfl29QQpKzto65P0xelah96S94E-IGm9WcazQZzKHCDCq9NjWTCjvKM_m3Yv3rOPD5E_HDB23zB0495XN747TlhpAjwodxs39tA=w630-h715-no?authuser=0"
             ],
             "description": "Текіла, лікер Triple Sec, лікер Blue curacao, цукровий сироп, лимонний сік",
             "category": "drinks",
@@ -876,7 +879,7 @@ const getAllGoods = async () => ({
             "name": "Американський виноград",
             "isNew": false,
             "gallery": [
-              "AmericanG.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLU16bZiY_Vs7_f6cfYdKAizGbzP5QjPg3EzT7I5yUi0rck5ejwGjEt4U_J_gG0pKhBLsE4_D0wLRc5leZ3-sScm15sJOMxk1exCBq_Wwj3QgJOjX1ubx5qmt8vjEupYGIa69vzC2tBvMOJlGF3wyMVa-g=w630-h909-no?authuser=0"
             ],
             "description": "Текіла, лікер Triple Sec, виноградний сік, содова",
             "category": "drinks",
@@ -887,7 +890,7 @@ const getAllGoods = async () => ({
             "name": "Алігатор",
             "isNew": false,
             "gallery": [
-              "Aligator.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLUWqZURL31B90SUM-05Y4pScc-GkVr7Jhvu_3m18UexO2XXnP02fU-_61aQotGK3S-Wi0d-3QMKDhfkeggFRe7zkbqW4nmUPTL106pRJvxm6Pmy2mAvBj2AdLODuWJuL_wR_uhGDx0CQus0anuvBRUtHg=w967-h1058-no?authuser=0"
             ],
             "description": "Горілка, лікер Triple Sec, сироп диня, апельсиновий сік, лимонний сік, содова",
             "category": "drinks",
@@ -898,7 +901,7 @@ const getAllGoods = async () => ({
             "name": "Джангл Джус",
             "isNew": false,
             "gallery": [
-              "Jungl.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLX9f2h-Pdqxgx4zKexiU1DBx7qTfUt5g98Nm-4GlhsPtgkxtrdoqalQ0XpL1B-SMHSBEbI62mbAulSJZZwZ2fXSVAlEJtoL6avH6BlVsAiMEJaLNECb8G60Tujge8vDYqD5V9k4gm8IWH4wLf2kxs9ogg=w512-h577-no?authuser=0"
             ],
             "description": "Джин, лікер Pisang, лимонний фреш, апельсиновий сік",
             "category": "drinks",
@@ -909,7 +912,7 @@ const getAllGoods = async () => ({
             "name": "Рідка Марихуана",
             "isNew": false,
             "gallery": [
-              "Mary.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLULS-kA-kBFsiWtiH_DbXYL9UsdAckEwRXs115aKviivuMrqroVLui5Tgh3WwTvp0fRl2Cn7Pmka5yrsVDE2F6LMi9YA7Pc1Syko2tUhdkmlCS3OUQjgSVDUoPHABsn0zz0--eIKx_mICkZ_Q8LuxzC7g=w832-h1146-no?authuser=0"
             ],
             "description": "Ром світлий, лікер Coconut, лікер Curacao, лікер Green Aplle, сік лайма або лимона, ананасовий сік",
             "category": "drinks",
@@ -920,7 +923,7 @@ const getAllGoods = async () => ({
             "name": "Апероль з віскі",
             "isNew": false,
             "gallery": [
-              "Aperol.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLU3NkyhPBz1r-DX_GljIZA0-uq91uCZ57fadjKb3of3cffcCjbSb8EnEUXW4cmViApDQfsIlcf-ac9ueC_qPe_OrZXKHS0FHn4NpompkgXAGxyRfLcOqWbubdy-dxhKXOJsuYW15smgIOwIWAo0N6xmxw=w442-h451-no?authuser=0"
             ],
             "description": "Віскі, апероль, лимонний фреш, содова",
             "category": "drinks",
@@ -931,7 +934,7 @@ const getAllGoods = async () => ({
             "name": "Апероль з апельсиновим соком",
             "isNew": false,
             "gallery": [
-              "AperolJ.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLXZG_sa6YVAg-83qzRP5w1tmFHRmv4tHBEVKFDtNNxRI47aPB3AfY_7jxi8bOQ5GxC4tJ1IwAgh_SqA2ViulCjZWS732LTwHk_Fu1Mzyz_2DqLZAd2-AkNldQVJ7Dxl86zVxlSXlf_IRiO9DPajAgYTqA=w570-h773-no?authuser=0"
             ],
             "description": "Апероль, апельсиновий сік",
             "category": "drinks",
@@ -942,7 +945,7 @@ const getAllGoods = async () => ({
             "name": "Челсі сайкар",
             "isNew": false,
             "gallery": [
-              "Chelsi.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLVWJj8_EM978NjmozckZm5M1MgjpTd1NCZEftYYUoc4ysXQWJ50J1c1h6TdWUw6Tl9CG6JJmGxeR0UUVCrqCiIfJrhghl-15uBL75g1QXYFLNHiKG0RrdnKlZjbDI_OfheZFWz7zkaG0-Fhm-ujWojJAA=w630-h702-no?authuser=0"
             ],
             "description": "Джин, лікер Triple Sec, лимонний сік",
             "category": "drinks",
@@ -953,7 +956,7 @@ const getAllGoods = async () => ({
             "name": "Синій понеділок",
             "isNew": false,
             "gallery": [
-              "BlueMonday.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLXvJeuj3FTN6HEJTIxTU2Z8zEj2aNlLWwzppaHpDY2I1f-3PiHy1So-UXucuTqAEWT9snanUPSfnaAaONF3WOkMxE54yn9O3K6tlMVRq79QjKd8luhOI_CcTegzHP_Otz1wFS97wDy5mH-tsWWGsUl5zQ=w384-h512-no?authuser=0"
             ],
             "description": "Горілка, лікер Triple Sec, лікер Blue curacao",
             "category": "drinks",
@@ -964,7 +967,7 @@ const getAllGoods = async () => ({
             "name": "Сайдкар",
             "isNew": false,
             "gallery": [
-              "Sidecar.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLVMcilLTW84mdAneK73xcTfoKDHzyW6x8qHRozHormfBzKOoXCmBP-kG3S8zy4B04amIeyX1Y06KiJXQVCYpR5WdVcPVgUaVCWb-CNzUqG1e0ZpxrPGGKR4u9DJ_sixs9p71pS6L3XOtc4hJ_YUTN8meQ=w474-h597-no?authuser=0"
             ],
             "description": "Бренді, лікер Curacao, лимонний сік",
             "category": "drinks",
@@ -975,7 +978,7 @@ const getAllGoods = async () => ({
             "name": "Самбука Ларнака",
             "isNew": false,
             "gallery": [
-              "Sambuka.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLVpcA6WS5gmCqaH984gXWbSqz4fU4cC1g3DrtoNQefQH49hNLusKZtMoIosoPchgHvuPowdpQmiA2-OZHwGZtnN6u7K05vorvS7lvER-SeLASKh0vAKnhqwOPqdggK23Fc6thtpJgJvrt-_w_J-SKuK2Q=w545-h534-no?authuser=0"
             ],
             "description": "Самбука, лікер Triple Sec, апельсиновий сік",
             "category": "drinks",
@@ -986,7 +989,7 @@ const getAllGoods = async () => ({
             "name": "Бажання Анни",
             "isNew": false,
             "gallery": [
-              "Anna.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLWorn-DIqEIUnGHvge5l84rkWVqdUKQlqfP2lJOTvYmDayak8PDHIaQypfr62rLzobNEu9A8rpr0Q5SEquXE251kF4GDUitTmWbpfDe7Gs5uSaPaL9c0bQ9osLMJl-kngcNhnJkhUK2-iUnreY9FHGfSA=w237-h558-no?authuser=0"
             ],
             "description": "Ром темний, лікер Triple Sec, ананасовий сік",
             "category": "drinks",
@@ -997,7 +1000,7 @@ const getAllGoods = async () => ({
             "name": "Гавайський",
             "isNew": false,
             "gallery": [
-              "Havai.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLUbMvx1V86_EDEFj1FWZMpBs5cfJ8rUPrN0QTnCtaaa6VOngy7kyKPW6hPrve2LzvGiVsccgMBD1Lt9juNFElw8EJg7tfAcTvkPV5nk2SFv5ZkINmzu2iRtxCVkxCSM2MFwwbFhLN4QOa3itp1tqoItXw=w341-h382-no?authuser=0"
             ],
             "description": "Джин, лікер Triple Sec, ананасовий сік",
             "category": "drinks",
@@ -1008,7 +1011,7 @@ const getAllGoods = async () => ({
             "name": "Велика кахуна",
             "isNew": false,
             "gallery": [
-              "Kahuna.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLVBqW5jXzNNov0W17DmVyuBBpOhS4Ysqv4WX9FUl5UVWwjNgHq7K7-EW3vNvCUyOA7LLUOxPiygzgo3W6aAbTWR98Sr-rC6c6xRKh-smS4nv5DBkHMCHXyAUEKj-Gr3_PByrL1E5yXPfFcL_pEgLd9nSw=w630-h663-no?authuser=0"
             ],
             "description": "Джин, лікер Triple Sec, солодкий вермут, ананасовий сік",
             "category": "drinks",
@@ -1019,7 +1022,7 @@ const getAllGoods = async () => ({
             "name": "Біла леді",
             "isNew": false,
             "gallery": [
-              "White.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLWpvR_N5cxNziLA9N8b0vfHxLLRUypEo-SSMMbRnXyHX86oLdp9RIBA-4qSwdrPSsceecTmtf0BxVM_qC06wOejoo-arFoz11dKw-w6VjLgWOkD9UsoxiTAvxa4FcZI01MWtwD2B9BcczpJlugN06bCag=w740-h1306-no?authuser=0"
             ],
             "description": "Джин, лікер Triple Sec, лимонний сік",
             "category": "drinks",
@@ -1052,7 +1055,7 @@ const getAllGoods = async () => ({
             "name": "B-53",
             "isNew": false,
             "gallery": [
-              "B53.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLVRDR_URCM6wGq-kRsNTcQVoH5GgmnsPblK6ZRj3sLoV12VH3dVRyczOfbAfzjZ8SxTW1lLCCdcuJ2wxOTKHfLME0S2mUzUmm2XvOHW7IPLWPE8B98rqHoLr6McE85FP6lmVncuIY5wx8txprIWrRmRxg=w662-h1075-no?authuser=0"
             ],
             "description": "Шот - Абсент, крем лікер Via Lattea, лікер Creme de cafe",
             "category": "drinks",
@@ -1063,7 +1066,7 @@ const getAllGoods = async () => ({
             "name": "Хіросіма",
             "isNew": false,
             "gallery": [
-              "Hirosima.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLXDNBMXPz4VSBJBYJoJ-9xOH1MjBWLg22QFgaC7YrAl9cl0u96sLymRWUHHemNvxwJX4J78xBB6AYojwGSui9Ui-iqT4GM8v158UVq1uz5JIxjEUG5wrLfCI8qgMDNs3uiaSlnAkW9kPROger_5kWKcoQ=w648-h1042-no?authuser=0"
             ],
             "description": "Абсент Vincent, Крем-лікер Via Lattea, Самбука Ibiza, сироп Grenadine",
             "category": "drinks",
@@ -1073,7 +1076,7 @@ const getAllGoods = async () => ({
             "name": "Зелений мексиканець",
             "isNew": false,
             "gallery": [
-              "Green.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLWZWG5K8jw5_hdy2FSZr3Q3WLAJmc0GrVkDHXMx7EPwcsvaUKJ3UAGhdY2MZSfOxmpTpQGEl5pBr_S3TGa272E5haQcpcgW0HvsatCBkl-Nb49y5bepYEPrPAtcNtAcxYXXgEaLCM50WEBfD3DFJ_xkoA=w592-h1192-no?authuser=0"
             ],
             "description": "Текіла, лимонний фреш, лікер Pisang",
             "category": "drinks",
@@ -1089,7 +1092,7 @@ const getAllGoods = async () => ({
             "name": "Більярд",
             "isNew": false,
             "gallery": [
-              "Biliard.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLVIcHoBdczVaRF-1JK5WMHV7GPqQ_M8rIqFwXylWzIVreeA9ve8Hhfv-pAA4gzv4f3CSYr6-b5EtpbOlEoSFeyHbvD6RiXnMfcpR3N5saAfNj6Fd3LAJmr2bKWBBWjC1NWY8ZkkxxpsT6lcMxvkivZOxA=w1040-h780-no?authuser=0"
             ],
             "description": "",
             "category": "event",
@@ -1100,7 +1103,7 @@ const getAllGoods = async () => ({
             "name": "Кальян ТАБАК JIBIAR / Табак Smoky Bull",
             "isNew": false,
             "gallery": [
-              "Kel.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLV88qAdVepOZpjYiIDGGi0R176Szp-cP0mjsivz6DoYBXYsVxk8HWoKQNfDShbB1M8xsA43mtDZpBq36WSgLD4O41GOiGx8w25D0YoKsKm_8XFMkp-xZEHmjkovbFyOlfZU0-upE51NypMcZFS_D7t9aw=w1204-h1192-no?authuser=0"
             ],
             "description": "",
             "category": "event",
@@ -1110,7 +1113,7 @@ const getAllGoods = async () => ({
             "name": "Ігрова приставка Microsoft Xbox",
             "isNew": false,
             "gallery": [
-              "XBox.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLXV2cyEktvTl_DLKjT8zsjearKIA-AeqDCMtIp5bD7njexcV_4VygBXHXcmJh6mpwJXB_wuUWSPpYbCJk61hUJEjqQWS8ACyzod0UfzeYInKZOwLSZhXvsA8VKOF2ZsuWkpwWeVfIVjnscuRRqrD2M4tw=w1314-h985-no?authuser=0"
             ],
             "description": "",
             "category": "event",
