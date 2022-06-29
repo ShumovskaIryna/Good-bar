@@ -1,7 +1,7 @@
 import React from 'react';
 import Product from './Product';
 
-function Products(props) {
+export default function Products(props) {
   const {
     products
   } = props;
@@ -16,4 +16,3 @@ function Products(props) {
     </div>
   );
 }
-export default Products;

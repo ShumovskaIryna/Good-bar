@@ -2,7 +2,7 @@ import React from 'react';
 import Category from './Category';
 import Products from '../Products/Products';
 
-function Categories(props) {
+export default function Categories(props) {
   const {
     chooseCategory,
     currentProducts
@@ -26,4 +26,3 @@ function Categories(props) {
         </div>
   )
 }
-export default Categories;
