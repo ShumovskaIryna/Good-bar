@@ -1,8 +1,8 @@
 import React from 'react';
-import Main from './Main';
+import StartScreen from './StartScreen';
 
 export default function App() {
      return (
-       <Main />
+       <StartScreen />
      );
   }

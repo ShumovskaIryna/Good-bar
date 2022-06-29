@@ -4,7 +4,7 @@ import { getAllGoods } from './request';
 import constants from './Constants';
 import Preloader from './components/Menu/Preloader';
 
-export class Main extends Component {
+export default class StartScreen extends Component {
       constructor(props) {
     super(props);
     this.state = {
