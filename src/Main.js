@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import Menu from './components/Menu/Menu';
 import { getAllGoods } from './request';
 import constants from './Constants';
+import Preloader from './components/Menu/Preloader';
 
 export class Main extends Component {
       constructor(props) {
@@ -42,7 +43,7 @@ export class Main extends Component {
             />
           </div>
         )
-        : <div>"not yet"</div>
+        : <Preloader/>
     );
   }
 }

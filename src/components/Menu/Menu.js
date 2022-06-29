@@ -1,14 +1,7 @@
 import React, { useState} from 'react';
 import Categories from './Categories';
+import Preloader from './Preloader';
 
-document.body.onload = function () {
-  setTimeout(function () {
-    var preloader = document.getElementById("page-preloader");
-    if (!preloader.classList.contains("done")) {
-      preloader.classList.add("done")
-    }
-  }, 3000);
-}
 export default function Menu(props) {
   const {
     chooseCategory,
@@ -16,25 +9,7 @@ export default function Menu(props) {
   let [category, setCategory] = useState("Сети")
   return (
     <header className="header">
-      <div className="preloader" id="page-preloader">
-        <div className="loader" id="loader">
-          <img
-            src="buk.webp"
-            className="buk"
-          alt="buk"
-          />
-          <img
-            src="dum1.webp"
-            className="dum1"
-          alt="Dum1"
-          />
-          <img
-            src="dum2.webp"
-            className="dum2"
-           alt="Dum2"
-        />
-        </div>
-      </div>
+     <Preloader />
       <span >
         <img
           src="logo.webp"
