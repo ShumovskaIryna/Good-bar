@@ -6,4 +6,3 @@ export default function App() {
        <Main />
      );
   }
-export default App;

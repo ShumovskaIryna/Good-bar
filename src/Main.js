@@ -1,14 +1,16 @@
 import React, { Component } from 'react'
 import Menu from './components/Menu/Menu';
 import { getAllGoods } from './request';
+import constants from './Constants';
 
 export class Main extends Component {
       constructor(props) {
     super(props);
     this.state = {
       currentProducts: {},
-      category: 'Закуски'
-      };
+      category: constants.products.APPETIZER
+    };
+        
     this.chooseCategory = this.chooseCategory.bind(this);
   }
   async componentDidMount() {
