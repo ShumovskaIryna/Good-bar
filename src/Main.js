@@ -8,14 +8,14 @@ export class Main extends Component {
     this.state = {
       currentProducts: {},
       category: 'Закуски'
-    };
+      };
     this.chooseCategory = this.chooseCategory.bind(this);
   }
   async componentDidMount() {
     const { category } = this.state;
     const { data } = await getAllGoods();
     const currentProducts = data.categories.find((el) => el.name === category);
-   
+
     this.setState(() => ({
       currentProducts,
       data
