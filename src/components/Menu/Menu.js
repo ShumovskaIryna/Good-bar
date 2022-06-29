@@ -9,7 +9,6 @@ document.body.onload = function () {
     }
   }, 3000);
 }
-
 export default function Menu(props) {
   const {
     chooseCategory,

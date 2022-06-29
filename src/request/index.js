@@ -754,6 +754,17 @@ const getAllGoods = async () => ({
            "prices": "34 грн / 1 л"
           },
            {
+            "id": "Tropical beer",
+            "name": "Tropical beer",
+            "isNew": true,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLXiTGkFBsifmLQAjwgtEAQRzoJY0B0yWrPsjRiwlLoHGFgth31iaqqJRcPdcjSLBDNim41OfZ8M73hrY1aNM7zKOzm7sJNI3W2PwJ0F-bYV1b9IfonzB8hlUWTU9RMRYTHrgpvOjGSBbhQndYoDU9pjBg=w639-h766-no?authuser=0"
+            ],
+            "description": "",
+            "category": "drinks",
+           "prices": "35 грн / 0.5 л"
+          },
+           {
             "id": "Пиво Obolon /Lvivske1715 / Lvivske / Kronenbourg",
             "name": "Пиво Obolon світле/ Lvivske1715 / Lvivske світле/ Kronenbourg blanc1664",
             "isNew": false,
