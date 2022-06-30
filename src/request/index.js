@@ -587,10 +587,10 @@ const getAllGoods = async () => ({
             "name": "Смажений короп",
             "isNew": false,
             "gallery": [
-              ""
+              "pre.webp"
             ],
             "description": "",
-            "category": "dessert",
+            "category": "pre-order",
            "prices": "250 грн / кг"
           },
            {
@@ -598,10 +598,10 @@ const getAllGoods = async () => ({
             "name": "Салантай",
             "isNew": false,
             "gallery": [
-              ""
+              "pre.webp"
             ],
             "description": "",
-            "category": "dessert",
+            "category": "pre-order",
            "prices": "280 грн / кг"
           },
             {
@@ -609,11 +609,165 @@ const getAllGoods = async () => ({
             "name": "Печінковий рулет",
             "isNew": false,
             "gallery": [
-              ""
+              "pre.webp"
             ],
             "description": "",
-            "category": "dessert",
-           "prices": "250 грн / кг"
+            "category": "pre-order",
+           "prices": "100 грн / 300 грам"
+          },
+             {
+            "id": "Домашня ковбаса",
+            "name": "Домашня ковбаса",
+            "isNew": false,
+            "gallery": [
+              "pre.webp"
+            ],
+            "description": "",
+            "category": "pre-order",
+           "prices": "300 грн / кг"
+          },
+                {
+            "id": "Домашні голубці",
+            "name": "Домашні голубці",
+            "isNew": false,
+            "gallery": [
+              "pre.webp"
+            ],
+            "description": "",
+            "category": "pre-order",
+           "prices": "55 грн / 300 грам"
+          },
+            {
+            "id": "Заливний язик",
+            "name": "Заливний язик",
+            "isNew": false,
+            "gallery": [
+              "pre.webp"
+            ],
+            "description": "",
+            "category": "pre-order",
+           "prices": "120 грн / 350 грам"
+          },
+            {
+            "id": "Котлета делікатесна",
+            "name": "Котлета делікатесна",
+            "isNew": false,
+            "gallery": [
+              "pre.webp"
+            ],
+            "description": "",
+            "category": "pre-order",
+           "prices": "35 грн / шт"
+          },
+            {
+            "id": "Теплий салат з курячою печінкою",
+            "name": "Теплий салат з курячою печінкою",
+            "isNew": false,
+            "gallery": [
+              "pre.webp"
+            ],
+            "description": "",
+            "category": "pre-order",
+           "prices": "120 грн / 280 грам"
+          },
+            {
+            "id": "Салат Байден",
+            "name": "Салат Байден",
+            "isNew": false,
+            "gallery": [
+              "pre.webp"
+            ],
+            "description": "",
+            "category": "pre-order",
+           "prices": "120 грн / 300 грам"
+          },
+             {
+            "id": "Салат Перепелине гніздо",
+            "name": "Салат Перепелине гніздо",
+            "isNew": false,
+            "gallery": [
+              "pre.webp"
+            ],
+            "description": "",
+            "category": "pre-order",
+           "prices": "130 грн / 300 грам"
+          },
+             {
+            "id": "Перепілка гриль",
+            "name": "Перепілка гриль",
+            "isNew": false,
+            "gallery": [
+              "pre.webp"
+            ],
+            "description": "",
+            "category": "pre-order",
+           "prices": "55 грн / шт"
+          },
+              {
+            "id": "Рулька в медово-гірчичному соусі",
+            "name": "Рулька в медово-гірчичному соусі",
+            "isNew": false,
+            "gallery": [
+              "pre.webp"
+            ],
+            "description": "",
+            "category": "pre-order",
+           "prices": "350 грн / кг"
+          },
+              {
+            "id": "Хачапурі по -аджарськи",
+            "name": "Хачапурі по -аджарськи",
+            "isNew": false,
+            "gallery": [
+              "pre.webp"
+            ],
+            "description": "",
+            "category": "pre-order",
+           "prices": "? грн / 650 грам"
+          },
+              {
+            "id": "Медальйони під вишневим соусом",
+            "name": "Медальйони під вишневим соусом",
+            "isNew": false,
+            "gallery": [
+              "pre.webp"
+            ],
+            "description": "",
+            "category": "pre-order",
+           "prices": "140 грн / грам"
+          },
+             {
+            "id": "Курячий бульйон",
+            "name": "Курячий бульйон",
+            "isNew": false,
+            "gallery": [
+              "pre.webp"
+            ],
+            "description": "",
+            "category": "pre-order",
+           "prices": "40 грн / 300 грам"
+          },
+             {
+            "id": "Солянка",
+            "name": "Солянка",
+            "isNew": false,
+            "gallery": [
+              "pre.webp"
+            ],
+            "description": "",
+            "category": "pre-order",
+           "prices": "75 грн / 350 грам"
+          },
+             {
+            "id": "Узвар",
+            "name": "Узвар",
+            "isNew": false,
+            "gallery": [
+              "pre.webp"
+            ],
+            "description": "",
+            "category": "pre-order",
+           "prices": "35 грн / л"
           },
         ]
       },     
