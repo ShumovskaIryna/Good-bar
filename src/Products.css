@@ -84,6 +84,12 @@ div .product-card {
   max-height: 20%;
   z-index: 800;
 } 
+  .pre-order-s{
+  position: absolute;
+  margin: 280px 10px 10px 80px;
+  max-height: 40px;
+  z-index: 800;
+}
 }
 /* adapt */
 
@@ -163,6 +169,12 @@ div .product-card {
   position: absolute;
   margin: 110px 10px 10px 280px;
   max-height: 35%;
+  z-index: 800;
+}
+ .pre-order-s{
+  position: absolute;
+  margin: 120px 10px 10px 230px;
+  max-height: 35px;
   z-index: 800;
 }
 }

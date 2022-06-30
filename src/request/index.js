@@ -586,8 +586,9 @@ const getAllGoods = async () => ({
             "id": "Смажений короп",
             "name": "Смажений короп",
             "isNew": false,
+            "isPreOrder": true,
             "gallery": [
-              "pre.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLUpYc6Q5LhnND0dNjxRA5Rhe42Un7lPFhUI38G1xVTxu8rSMnuKQeU9GeSqnzwNCOd-yjtlc_etelEL0G9wRDymLfph_SIQhWScRatJrn6-WrBEBPdUN67gHc9zzH1WaN_tbv-EKMCtWlsXzTq_YRrSkA=w777-h520-no?authuser=0"
             ],
             "description": "",
             "category": "pre-order",
@@ -596,9 +597,10 @@ const getAllGoods = async () => ({
            {
             "id": "Салантай",
             "name": "Салантай",
-            "isNew": false,
+             "isNew": false,
+            "isPreOrder": true,
             "gallery": [
-              "pre.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLUsxK8Llyp-2Ld2FpxoD_1pjM2LzYOGirma3ar8UBfAtuyFc1UJPZ6zSVYdhezosePBszpg2wpvC60L-mLbB6OTcRCx-jy8vS_gvFZrPxD5B-Ct8RFlJSC15UVtQng7iDvhVeNNoeBVd8F1nN5eBjU82Q=w527-h400-no?authuser=0"
             ],
             "description": "",
             "category": "pre-order",
@@ -607,7 +609,8 @@ const getAllGoods = async () => ({
             {
             "id": "Печінковий рулет",
             "name": "Печінковий рулет",
-            "isNew": false,
+              "isNew": false,
+            "isPreOrder": true,
             "gallery": [
               "pre.webp"
             ],
@@ -618,9 +621,10 @@ const getAllGoods = async () => ({
              {
             "id": "Домашня ковбаса",
             "name": "Домашня ковбаса",
-            "isNew": false,
+               "isNew": false,
+            "isPreOrder": true,
             "gallery": [
-              "pre.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLXBn89E2OKyxHeJn5W0yr3VJe1jnlWCi7Vh_UjYWPDjiCbFbbB5RKC0xWKjH5uDKvCH7QntwNXRe33z1PXuZEH1NHEs1K2Su6uOb3MeeNZLj3p9m4lE4kkhKrr8uBUes0wfqu7FreDgYEjDHRDiEbKvvA=w400-h291-no?authuser=0"
             ],
             "description": "",
             "category": "pre-order",
@@ -630,6 +634,7 @@ const getAllGoods = async () => ({
             "id": "Домашні голубці",
             "name": "Домашні голубці",
             "isNew": false,
+            "isPreOrder": true,
             "gallery": [
               "pre.webp"
             ],
@@ -640,7 +645,8 @@ const getAllGoods = async () => ({
             {
             "id": "Заливний язик",
             "name": "Заливний язик",
-            "isNew": false,
+              "isNew": false,
+            "isPreOrder": true,
             "gallery": [
               "pre.webp"
             ],
@@ -652,6 +658,7 @@ const getAllGoods = async () => ({
             "id": "Котлета делікатесна",
             "name": "Котлета делікатесна",
             "isNew": false,
+            "isPreOrder": true,
             "gallery": [
               "pre.webp"
             ],
@@ -663,6 +670,7 @@ const getAllGoods = async () => ({
             "id": "Теплий салат з курячою печінкою",
             "name": "Теплий салат з курячою печінкою",
             "isNew": false,
+            "isPreOrder": true,
             "gallery": [
               "pre.webp"
             ],
@@ -674,6 +682,7 @@ const getAllGoods = async () => ({
             "id": "Салат Байден",
             "name": "Салат Байден",
             "isNew": false,
+            "isPreOrder": true,
             "gallery": [
               "pre.webp"
             ],
@@ -685,6 +694,7 @@ const getAllGoods = async () => ({
             "id": "Салат Перепелине гніздо",
             "name": "Салат Перепелине гніздо",
             "isNew": false,
+            "isPreOrder": true,
             "gallery": [
               "pre.webp"
             ],
@@ -696,6 +706,7 @@ const getAllGoods = async () => ({
             "id": "Перепілка гриль",
             "name": "Перепілка гриль",
             "isNew": false,
+            "isPreOrder": true,
             "gallery": [
               "pre.webp"
             ],
@@ -707,6 +718,7 @@ const getAllGoods = async () => ({
             "id": "Рулька в медово-гірчичному соусі",
             "name": "Рулька в медово-гірчичному соусі",
             "isNew": false,
+            "isPreOrder": true,
             "gallery": [
               "pre.webp"
             ],
@@ -718,8 +730,9 @@ const getAllGoods = async () => ({
             "id": "Хачапурі по -аджарськи",
             "name": "Хачапурі по -аджарськи",
             "isNew": false,
+            "isPreOrder": true,
             "gallery": [
-              "pre.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLV3YyOcuX601_YjeWVlwrOBr0hW6pqJ3gusHI_2aPa1xIFICRg5eWzV0P2luboMuXVCxSecHw9oT40nfysGn23yoWXgls3vGVYQvrdvVLYelcKspPUMtKSKxSSN0uv9BNMIIvW-Lclitf6Qd0VPCzBElg=w1215-h1045-no?authuser=0"
             ],
             "description": "",
             "category": "pre-order",
@@ -729,6 +742,7 @@ const getAllGoods = async () => ({
             "id": "Медальйони під вишневим соусом",
             "name": "Медальйони під вишневим соусом",
             "isNew": false,
+            "isPreOrder": true,
             "gallery": [
               "pre.webp"
             ],
@@ -740,6 +754,7 @@ const getAllGoods = async () => ({
             "id": "Курячий бульйон",
             "name": "Курячий бульйон",
             "isNew": false,
+            "isPreOrder": true,
             "gallery": [
               "pre.webp"
             ],
@@ -751,8 +766,9 @@ const getAllGoods = async () => ({
             "id": "Солянка",
             "name": "Солянка",
             "isNew": false,
+            "isPreOrder": true,
             "gallery": [
-              "pre.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLXs8-zjUGUcFQ16EDiyGvUAl7V1zNdSFKHFjMUqw93pN5f-ENNY4LyKQ5qyh_wy3LRnWoeoF0B-fLDgP7ewvzPK4wYr1H4bmM-uXKD-HckkrrkFOsNgn7LBw6WhUjamqxFz3CnSuNkAzzIh4SVK5zst5w=w1302-h734-no?authuser=0"
             ],
             "description": "",
             "category": "pre-order",
@@ -762,8 +778,9 @@ const getAllGoods = async () => ({
             "id": "Узвар",
             "name": "Узвар",
             "isNew": false,
+            "isPreOrder": true,
             "gallery": [
-              "pre.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLWgrmFTpax5kj7GS_f2TavpIkc6fEBY8F2hzDN5Gjfu6y3v8KBWLGN-VV9WBChXZIYwQAx7LiwsmpZmmn1dV6JN1Oqe5NNUlTNhJF8qEw9pmKIJKyqEXiETlXbu1VmPO-J3PFWP9bZKssEYlqnJelTuRg=w1120-h1055-no?authuser=0"
             ],
             "description": "",
             "category": "pre-order",

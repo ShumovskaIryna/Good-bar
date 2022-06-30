@@ -128,7 +128,7 @@ body {
   margin-bottom: 0px;
   width: auto;
   height: 30%;
-}
+  }
 .element:active  {
   border-style: none;
   border-bottom: 3px solid rgb(243, 77, 77);

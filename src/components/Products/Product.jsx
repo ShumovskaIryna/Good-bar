@@ -23,6 +23,14 @@ export default function Product(props) {
             className="new-prod"
             alt="product"
             />
+          : ""}
+        {props.product.isPreOrder
+            ?
+           <img
+            src={"pre.webp"}
+            className="pre-order-s"
+            alt="pre-order"
+            />
            : ""}
         </div>
       </div>
