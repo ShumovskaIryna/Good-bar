@@ -2,7 +2,7 @@ const getAllGoods = async () => ({
 
   "data": {
     "categories": [
-       {
+      {
         "name": "Закуски",
         "products": [
           {
@@ -11,18 +11,18 @@ const getAllGoods = async () => ({
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLWuv-tFpEZfKpwf6jObTkS-jc06vZ8NvmZXAyakjovBvtDgVR4bUV4MHz5BOwikoRl7YXUzmQo5a49NTck3JsCGFgtXC2Ack4LVR-tSPPEH0lJEX9wbukxus4hVeGBFV1JFXQrKygLS_xbmrYqhEKB-kg=w1338-h1192-no?authuser=0",
-           ],
+            ],
             "description": "Смачні, гарячі, хрумкі та тягучі сирні палички фрі",
             "category": "snack",
             "prices": "85 грн"
           },
-           {
+          {
             "id": "Сирне плато",
             "name": "Сирне плато",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLVNnkUfeFvwFpjcbrHN1iC_O0Ty9n_TDPZ1cp1SPPG0pW7jrSmGUNHDVSAOXMFXhUUsqlYQMdZexV1clnqXAqagK_Jy01pMMQIzthZOA0T4EPNvez59qFdn5E5fZRZvb1WeZ0PffRYRh2m2cxNWoayrVQ=w1075-h775-no?authuser=0",
-           ],
+            ],
             "description": "Різовид чотирьох сирів",
             "category": "snack",
             "prices": "170 грн / 350 грам"
@@ -32,40 +32,40 @@ const getAllGoods = async () => ({
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLVhJiZ76Fbl8hRFfKTUk6FtqbpU2eqrEnLtI2HxXVjI470gS7XYmiqUzWYQeTGu4oqs9ovFaTagwSzBZNDFVF6IOgALTbFvhyZsrLK--p6F1rvaSXvHeqMQglWRTkDbYhJ965AgGAmjDyoZoD2Pycc-Xg=w1159-h1120-no?authuser=0",
-           ],
+            ],
             "description": "Смачні, гарячі, хрумкі цибулеві кільця фрі",
             "category": "snack",
             "prices": "55 грн"
           },
-           {
+          {
             "id": "Крильця KFC",
             "name": "Крильця KFC",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLUve4Vveqg9mcQGeRrlcHq4IgnFSFieBXXG_-VOBYyuHramjgMwDOntWAUOI42zY12gZ48jzGj9HVZa5BoobQRMbiSiSAWlfMX7b9dpuo98vMZoK7Us-xP1FmblH4js0uq2dTCJSAa762g78apwnNY3Iw=w1196-h1084-no?authuser=0",
-           ],
+            ],
             "description": "Крильця, хрумкі та соковиті всередині",
             "category": "snack",
             "prices": "70 грн"
           },
-           {
+          {
             "id": "Нагетси",
             "name": "Нагетси",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLUlH0WbOvOgEKQPLXABmdZiOjM_IB4CRUfXxxHMCLx0Uh0OwxDfQB-vHMX0P_jHoXhS1Ctk_NWgPOliCRgjslVyB9MTYCpKqSUz9STXjEUYgVEAvFL0_Si-UmwSDbJGDw9Px039IMZeswIqa9QkdHCUiA=w1056-h1192-no?authuser=0",
-           ],
+            ],
             "description": "",
             "category": "snack",
             "prices": "60 грн"
           },
-           {
+          {
             "id": "Крила апетитні",
             "name": "Крила апетитні",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLUIjSDlnWIeq_JcaYKeK9nF02C8Zz-GtJQKckjq-bMLHqww061ks_8I7zvqv14OXbQ0ptUCyz-_bTnsxEAWn9ek6kwvBgVQxVd56U4Qug3bZ66TOz-Y1dmkzKjPuo_OwimzDLW9oUafV8IBkd4MX7QBtg=w1388-h1012-no?authuser=0",
-           ],
+            ],
             "description": "",
             "category": "snack",
             "prices": "60 грн"
@@ -76,7 +76,7 @@ const getAllGoods = async () => ({
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLWR1xdipZNmVvKEkCkBZm22XAq6OuT3eciwn19xwTSeosNLKsW2VToC9PDa9EsCAm4REXLi266WZUXP4htsHZWm3h87U4h26B9SYKmH6-FOdUwMGWR9jUW_cwA128r1-CF4IcBORuRgz2zN1lr0TIjkuw=w1388-h1168-no?authuser=0",
-           ],
+            ],
             "description": "Смачні, в міру підкопчені свинячі вушка",
             "category": "snack",
             "prices": "60 грн"
@@ -87,7 +87,7 @@ const getAllGoods = async () => ({
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLVU8s2IaSNbO4SpFXn7t8wupUQf5yaqXsEWOFaBn2J1_VpJjcEQK5saXi9v7Fr69c75qkCkPwv3HAsy3YAgGQBxnbevuxXMt2tjzotib5ezhW5jNTeU63Gpm6Zbx1EaL-Slkzvdnj3zHN6zPOzGR3rRWg=w1388-h1008-no?authuser=0",
-           ],
+            ],
             "description": "",
             "category": "snack",
             "prices": "60 грн / 200 грам"
@@ -98,7 +98,7 @@ const getAllGoods = async () => ({
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLX3rTUWdVeCxkGtzzgla9rDKrgJJOhxIfONTDpctqNqFbZyLSAZLPWiu87P8MsInMefL54rEpDCID4PwPYpWhIBhwVxlDLLv2d3c-2JCm2CTNMWGqixztERnKeG3WKa2NJRs46Jfw9XBQHblFMRwasvEg=w396-h388-no?authuser=0",
-           ],
+            ],
             "description": "Смачні грибочки фрі",
             "category": "snack",
             "prices": "40 грн"
@@ -109,29 +109,29 @@ const getAllGoods = async () => ({
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLUJK5oco93tENRO4fWPy07fkseZf_HjDf5RlbglFExSL2P_NFZgBLA_ryMNBn-bz5S5Ux7Kvu0ktdwrdfH0xoeFL3CwFhxiP1lBh8bFTNOoFZCfeQFZkxGZ6ZBnYF_Js6CGThh_yVG7c9F2I8Iw6U5rfQ=w1154-h822-no?authuser=0",
-           ],
+            ],
             "description": "",
             "category": "snack",
             "prices": "55 грн"
           },
-           {
+          {
             "id": "Деруни з грибочками",
             "name": "Деруни з грибочками",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLWmzjkJ0FsGn1DufF6B-TqAGewHboCKlrZvcGIjHTmmSUNNpZ-a7MhLdwlgpyGdr_vea72I2mcUSeTRqIIpM-yWP3a4RBdVssDof7KcBA1rX4Zi-qTmUx1YwPPXz6VJJ9ZYoerjxr_UcMjJSj9FiU8u-Q=w1388-h1130-no?authuser=0",
-           ],
+            ],
             "description": "Картопляні деруни з золотистою скоринкою",
             "category": "snack",
             "prices": "45 грн"
           },
-            {
+          {
             "id": "Картопляна Пюрешка мишеня",
             "name": "Картопляна Пюрешка мишеня",
             "isNew": true,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLWjh-8beF2q4Pd5Aj940dEnSoCi5hElBG7RBz5BX4kF6WOb9pFiJxmHUSMN017V9gMV-gXuGRJN7qES2rV4XKKyvkDlgoRR8jI55HLBE4G8x074WMEEnyfWQf1JGONWSQ34huHTVsxF8pDo8f48Bl_jmw=w919-h820-no?authuser=0"
-           ],
+            ],
             "description": "",
             "category": "snack",
             "prices": "35 грн"
@@ -141,7 +141,7 @@ const getAllGoods = async () => ({
             "name": "Українська закуска",
             "isNew": false,
             "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLU8ngaDEs8nOma3oc5lV5ZTngUUeoG0E5Wnb78D4OhMkX1Sip2sa-tFTDFpGXOYpnGO7wMhRi2H0zsuuh2n3tbVuMqSrbO1_fTw1FVbIo1ydAZGMLvjq8K7IQX3Yu0geuTZcJhhHgBCDpU1NVG-g08GpA=w1280-h854-no?authuser=0" 
+              "https://lh3.googleusercontent.com/pw/AM-JKLU8ngaDEs8nOma3oc5lV5ZTngUUeoG0E5Wnb78D4OhMkX1Sip2sa-tFTDFpGXOYpnGO7wMhRi2H0zsuuh2n3tbVuMqSrbO1_fTw1FVbIo1ydAZGMLvjq8K7IQX3Yu0geuTZcJhhHgBCDpU1NVG-g08GpA=w1280-h854-no?authuser=0"
             ],
             "description": "Оселедець з цибулею та кортоплею",
             "category": "snack",
@@ -153,7 +153,7 @@ const getAllGoods = async () => ({
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLVcKw46aFJis2p5HjHgNTDQYWFxKtMmAmwRn9eQrMs57Rn1AQT-JfDcoKm9cQPg4C-4K0b6M4gv4ffrwVcCe_KWBkub8UTw_T_FxgtcPl-V83rpVVNfUlb5sQ4zrSVu_UK0qzUMypwE61jueL-zE7Mczg=w507-h424-no?authuser=0",
-           ],
+            ],
             "description": "Хрумкі грінки, оселедець та французька гірчиця",
             "category": "snack",
             "prices": "50 грн"
@@ -163,7 +163,7 @@ const getAllGoods = async () => ({
             "name": "Козацька закуска",
             "isNew": false,
             "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLWZsJNyZnrossfFJjKEy0SbDHslfzbuTJ0Ug2Pyoi_V870p7EhgEjLWlwgqLFyMyL0_-l_ZaVbdQGq23LKdprvb1Cjfc7kvaM5O1gcpwmlEdDwIeEJHrblLQa0ht6WtBKmAI7PrfKiSN9AqqGSEBcdwkg=w1344-h1192-no?authuser=0" 
+              "https://lh3.googleusercontent.com/pw/AM-JKLWZsJNyZnrossfFJjKEy0SbDHslfzbuTJ0Ug2Pyoi_V870p7EhgEjLWlwgqLFyMyL0_-l_ZaVbdQGq23LKdprvb1Cjfc7kvaM5O1gcpwmlEdDwIeEJHrblLQa0ht6WtBKmAI7PrfKiSN9AqqGSEBcdwkg=w1344-h1192-no?authuser=0"
             ],
             "description": "Хрумкі грінки помазані ніжною пастою з сала",
             "category": "snack",
@@ -174,7 +174,7 @@ const getAllGoods = async () => ({
             "name": "Брускети з паштетом",
             "isNew": false,
             "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLVdVsgTeYvJkolUe52LbJV8_0Rhmj3TI2Rh5nAqFMTKU4PM1qy9rokm3Q5U2V-XVrdG0gGgrXxiSuVOEGGU4lfP5_QEYVUitKHvLzczvi1pNZmgGSV77laKalpb9ZAvkXq3w9cGQ4-wuXML-oSXW8T2Tg=w1388-h1190-no?authuser=0" 
+              "https://lh3.googleusercontent.com/pw/AM-JKLVdVsgTeYvJkolUe52LbJV8_0Rhmj3TI2Rh5nAqFMTKU4PM1qy9rokm3Q5U2V-XVrdG0gGgrXxiSuVOEGGU4lfP5_QEYVUitKHvLzczvi1pNZmgGSV77laKalpb9ZAvkXq3w9cGQ4-wuXML-oSXW8T2Tg=w1388-h1190-no?authuser=0"
             ],
             "description": "Брускети та кульки з ніжним курячим паштетом та кисло-солодким соусом",
             "category": "snack",
@@ -185,7 +185,7 @@ const getAllGoods = async () => ({
             "name": "Мега-Шаурма",
             "isNew": false,
             "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLXRhzaLCEuKqeeeMGQe8kB-SRA-qu0V2-e31ykoGCRoY8EM8X23YZ6iZwtkMVfVDAjchMVRPINucDQvBj6QqBtvV6ij-1xh9rBfQIvHiBSCwmLhyANRBSVOmZZ7Y2Aa8poNIHv-veD_t6xd6pX-taznTw=w883-h630-no?authuser=0" 
+              "https://lh3.googleusercontent.com/pw/AM-JKLXRhzaLCEuKqeeeMGQe8kB-SRA-qu0V2-e31ykoGCRoY8EM8X23YZ6iZwtkMVfVDAjchMVRPINucDQvBj6QqBtvV6ij-1xh9rBfQIvHiBSCwmLhyANRBSVOmZZ7Y2Aa8poNIHv-veD_t6xd6pX-taznTw=w883-h630-no?authuser=0"
             ],
             "description": "Соковита, ароматна шаурма з курячим філе, овочами та соусом",
             "category": "snack",
@@ -196,7 +196,7 @@ const getAllGoods = async () => ({
             "name": "Лаваш з сосискою",
             "isNew": false,
             "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLWdPzXvbFllXrhUGty3ZvbqQ5HWafiaDrpBtmh6x3TmSQqWqTkn3xOa7OwW2CQumzZJmULZXxmr99pOrBoQCLCkrDnrosYjBPQqm8x_mM8AgLknm1-bxV2ArjoED80b4PvDVP3tE-lneq4Z1ElxJB0nyQ=w512-h342-no?authuser=0" 
+              "https://lh3.googleusercontent.com/pw/AM-JKLWdPzXvbFllXrhUGty3ZvbqQ5HWafiaDrpBtmh6x3TmSQqWqTkn3xOa7OwW2CQumzZJmULZXxmr99pOrBoQCLCkrDnrosYjBPQqm8x_mM8AgLknm1-bxV2ArjoED80b4PvDVP3tE-lneq4Z1ElxJB0nyQ=w512-h342-no?authuser=0"
             ],
             "description": "",
             "category": "snack",
@@ -207,7 +207,7 @@ const getAllGoods = async () => ({
             "name": "Лаваш з моцареллою та зеленню",
             "isNew": false,
             "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLWdNzcByTZFRAT-9GfsWnqn9wMSUyY-PcFrUWUUNI67UxX-PWn_CI02cNlBrD4VprT-_wyedFnLW9nf7XsSfe6291JArGUUrR9phYxKQ-Vxd7ropIyZeF8JTMFn_rKqDuqwQyRqDlGr12moo1rsEA7h3w=w1388-h966-no?authuser=0" 
+              "https://lh3.googleusercontent.com/pw/AM-JKLWdNzcByTZFRAT-9GfsWnqn9wMSUyY-PcFrUWUUNI67UxX-PWn_CI02cNlBrD4VprT-_wyedFnLW9nf7XsSfe6291JArGUUrR9phYxKQ-Vxd7ropIyZeF8JTMFn_rKqDuqwQyRqDlGr12moo1rsEA7h3w=w1388-h966-no?authuser=0"
             ],
             "description": "",
             "category": "snack",
@@ -218,7 +218,7 @@ const getAllGoods = async () => ({
             "name": "Хот дог",
             "isNew": false,
             "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLXmwQ0J8IMBwmYqf1esfPC5mUSLeC9SylpnKjTu1afr7iESWKzB03D__mYsDMnbP6ZCVPu5mg35ArYmQHGHsILP3gi8Yhe4-LjaDU1sJXvV948KStq5dro1VLbVnFCH8As2kQXyJ3yfzkXM286CKpCRYg=w1205-h910-no?authuser=0" 
+              "https://lh3.googleusercontent.com/pw/AM-JKLXmwQ0J8IMBwmYqf1esfPC5mUSLeC9SylpnKjTu1afr7iESWKzB03D__mYsDMnbP6ZCVPu5mg35ArYmQHGHsILP3gi8Yhe4-LjaDU1sJXvV948KStq5dro1VLbVnFCH8As2kQXyJ3yfzkXM286CKpCRYg=w1205-h910-no?authuser=0"
             ],
             "description": "Гарячий хот-дог з сосискою та соусами",
             "category": "snack",
@@ -229,7 +229,7 @@ const getAllGoods = async () => ({
             "name": "Картопля фрі",
             "isNew": false,
             "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLUVtSTmiXe5dZZVQofQ39r8q9fXkgc1jzP3BMwtQgYw1kQn-IpAhIIPb2VRrlvjeDOsCC-veOaVE_oEuOu_021auy5ths04z_XlQ94JZUxxQIWUNsHdnJt4xf6U_gwoZCpr8Q2bOp2wygKBKfwc_XhMHA=w1388-h936-no?authuser=0" 
+              "https://lh3.googleusercontent.com/pw/AM-JKLUVtSTmiXe5dZZVQofQ39r8q9fXkgc1jzP3BMwtQgYw1kQn-IpAhIIPb2VRrlvjeDOsCC-veOaVE_oEuOu_021auy5ths04z_XlQ94JZUxxQIWUNsHdnJt4xf6U_gwoZCpr8Q2bOp2wygKBKfwc_XhMHA=w1388-h936-no?authuser=0"
             ],
             "description": "Картопля фрі з соусом",
             "category": "snack",
@@ -240,138 +240,138 @@ const getAllGoods = async () => ({
             "name": "Картопля по селянськи / з беконом",
             "isNew": false,
             "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLVFuZAZTewu7Hgevduvf3cc2pYci6_V-e2HAdC5zZzJUtWFRyXrJg6_y1dblCB3x9NMNzi8zlbkrokj1X8GY7QW3fw6EdYS2_csBRLl2lBk5vHTo-ck84gDeK2fo1py_Q2DVO2h9g3NpbSs89vdCK2EIg=w532-h399-no?authuser=0" 
+              "https://lh3.googleusercontent.com/pw/AM-JKLVFuZAZTewu7Hgevduvf3cc2pYci6_V-e2HAdC5zZzJUtWFRyXrJg6_y1dblCB3x9NMNzi8zlbkrokj1X8GY7QW3fw6EdYS2_csBRLl2lBk5vHTo-ck84gDeK2fo1py_Q2DVO2h9g3NpbSs89vdCK2EIg=w532-h399-no?authuser=0"
             ],
             "description": "Картопля по селянськи з соусом / з беконом",
             "category": "snack",
             "prices": "55 / 60 грн"
           },
-           {
+          {
             "id": "Чіпси Lavash",
             "name": "Чіпси Lavash",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLXVUWAWaKxSReB96suv4CX5Cmt71u1eUU2WX1aSIe8bRO0r1kWIgDuwhgw46n5i0qOiO9p6JPPKKlJmLPph6dzWAmOgMmo0AFUXPb5GaGLyrDeU0fCICoB-QUegf5AH0tClgdFYmbVNorSbgYhtn2Cq1w=w890-h743-no?authuser=0",
-           ],
+            ],
             "description": "Чіпси з лаваша до пива",
             "category": "snack",
             "prices": "35 грн"
           },
-           {
+          {
             "id": "Сухарики з часником",
             "name": "Сухарики з часником",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLWUza504aWBiidOaLjQSDleVn2uaUvs3vUu3deAwYkpGGwml4W6YvVXJZDRvAlU0mMmKZHeE5yN6Q73FPWH1Wbdgoa0HAsw0_VFdW0b5L_atUdE-hfRLi_ECJvwMYpQKqgo5_eBbDK5QorqyfXek1sLeQ=w1119-h815-no?authuser=0",
-           ],
+            ],
             "description": "Чудова закуска до пива",
             "category": "snack",
             "prices": "40 грн/150 грам"
           },
-           {
+          {
             "id": "Овочі гриль",
             "name": "Овочі гриль",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLXR6hso7xK3cy5MH7mZx7dcefDrTwHPnOTRM1gGb5MIA2Zush_NAOnDRZtVeI2b38OEFkgYUgal0Kz5ZIf-5l9Wy203038hSVOvorrow6O57DcUJfm8e50beLkmEyDnsEORrBUoRQU9MwH5Hok9hWDzVQ=w1200-h1192-no?authuser=0",
-           ],
+            ],
             "description": "Перелік овочів: болгарський перець, кабачок, баклажан, грибочки",
             "category": "snack",
             "prices": "70 грн"
           },
-           {
+          {
             "id": "Скумбрія гриль",
             "name": "Скумбрія гриль",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLWIJuK_ehasCABoUnP3TWmu6adr6efrMPORTDJOPzpOu8OOw6F3sf0Sxu1cXbT2znbzCwPw9-Fpw_F_DtbPeW-Xgv4fDNMqvgCdMn7KV17CKEN8N4s5wb_co6Yd8BZsddHlZar_3zwol2s3kWDUlWjXsw=w1315-h726-no?authuser=0",
-           ],
+            ],
             "description": "",
             "category": "snack",
             "prices": "65 грн"
           },
-           {
+          {
             "id": "Нарізка асорті",
             "name": "Нарізка асорті",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLW5l9lVvUBhdc1a01N5gnCpRI895rcwoONzcuWUtv7CwT5_-IrGGL4I7gMiZpBObXyDgJaDuUJuG0dj1Ji7-VAbS9AV3qQvXYpHkE6wVS2H7ZJ8MGufvXH5q7jziMwsR2v37Pj0bKy8zS2Eqsmbhz9PgQ=w1250-h1178-no?authuser=0",
-           ],
+            ],
             "description": "Нарізка асорті напівкопчена ковбаса та сир",
             "category": "snack",
             "prices": "140 грн"
           },
-           {
+          {
             "id": "М’ясна тарілка",
             "name": "М’ясна тарілка",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLUBSZ78o-qxo-5rGu95jI8N-iGgPgP-VYvWJZidqfK_lSHFp-wKSvy60EN_w5hZKoYXj7OURHrdgvoXf2BUocRnh9GzE7OXGNowTJ8cSClb9ZIuLwCUyc0zOEtiOnbpMPzy0wTjViZee2L905jw5mn7FA=s1192-no?authuser=0",
-           ],
+            ],
             "description": "Чотири види м’ясних делікатесів",
             "category": "snack",
             "prices": "170 грн / 300 грам"
           },
-           {
+          {
             "id": "Жуль’єн",
             "name": "Жуль’єн",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLW4VcopxO7m0YP2S2h5it3c5ZGLil0JU_7Bj0FrWMB9e5NHZM5skPL3yjSs3V9pkTYU1yoKRs6fe-Rhf_Ampxb2sRPKWrK_yxWxpvnWQv4hGub2vND6bOrhI-prYrrWmEdfTZ3nJ2qPAevHDS1QUrSOiA=w1388-h1124-no?authuser=0",
-           ],
+            ],
             "description": "Жарена курочка, жарені грибочки та цибулька в вершковому соусі під сиром",
             "category": "snack",
             "prices": "95 грн"
           },
-           {
+          {
             "id": "Вареники з картопею/капустою/лівером",
             "name": "Вареники з картопею/капустою/лівером",
             "isNew": false,
             "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLVNnnbGPiKwkJX6LaJ9G8PVxFRTQhcOtwWaQgV2KP3U8dI6Z6zgoq_jlHOqGLL72-jf7QMSxxgfNMg6e-nBMTG-rZwka38H2fHuyYBNPNAa0UR8AgtWzYcEWfJn12Lex9B6FpRjdZFPE-H2PDzujoBZTg=w908-h800-no?authuser=0" 
+              "https://lh3.googleusercontent.com/pw/AM-JKLVNnnbGPiKwkJX6LaJ9G8PVxFRTQhcOtwWaQgV2KP3U8dI6Z6zgoq_jlHOqGLL72-jf7QMSxxgfNMg6e-nBMTG-rZwka38H2fHuyYBNPNAa0UR8AgtWzYcEWfJn12Lex9B6FpRjdZFPE-H2PDzujoBZTg=w908-h800-no?authuser=0"
             ],
             "description": "",
             "category": "snack",
             "prices": "40/40/50  грн"
           },
-           {
+          {
             "id": "Пельмені",
             "name": "Домашні пельмені",
             "isNew": false,
             "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLWoIJS9O5mwZVJudxJ5iWjVugNhxkBwaJdOT0FbH4tQOuyuLYWcByvZ0Oim0weESWjPYClG8jqxqvaTRtmz4w6nkzpsdJ5D-n49hvrG-_JDIYMxZm5UB-DGkibFA9SMjfSmBtXeXEgJlxNlcRdhZPLq3Q=w1329-h919-no?authuser=0" 
+              "https://lh3.googleusercontent.com/pw/AM-JKLWoIJS9O5mwZVJudxJ5iWjVugNhxkBwaJdOT0FbH4tQOuyuLYWcByvZ0Oim0weESWjPYClG8jqxqvaTRtmz4w6nkzpsdJ5D-n49hvrG-_JDIYMxZm5UB-DGkibFA9SMjfSmBtXeXEgJlxNlcRdhZPLq3Q=w1329-h919-no?authuser=0"
             ],
             "description": "",
             "category": "snack",
             "prices": "50 грн"
           },
-           {
+          {
             "id": "Соковитий чебурек Beef/Pork/Cheese",
             "name": "Соковитий чебурек Beef/Pork/Cheese",
             "isNew": false,
             "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLV2w6IqsacZJ6f4TOOtLlvwZLQ_cKsL2QoBrardEI21dDz6yr61yyh8aPWE_lLuhx46I_7vQf0MBRZfxC1GLi4UIy6MvY-kDWVq2CrJyXWO1OjnwVVlqTNpD_pHGZRo-VtGlShESTrVvdQCfGkFosVISw=w1304-h1188-no?authuser=0" 
+              "https://lh3.googleusercontent.com/pw/AM-JKLV2w6IqsacZJ6f4TOOtLlvwZLQ_cKsL2QoBrardEI21dDz6yr61yyh8aPWE_lLuhx46I_7vQf0MBRZfxC1GLi4UIy6MvY-kDWVq2CrJyXWO1OjnwVVlqTNpD_pHGZRo-VtGlShESTrVvdQCfGkFosVISw=w1304-h1188-no?authuser=0"
             ],
             "description": "Гарячий,соковитий чебурек з яловичиною та кінзою/з свининою/сиром та зеленню",
             "category": "snack",
             "prices": "40/40/35  грн"
-          },{
+          }, {
             "id": "Бендерики",
             "name": "Бендерики",
             "isNew": false,
             "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLVSROqcK4ZN6y-OovWskNv2dVCRGhdHHw40nAG16Vhg-nvNpFVrUO-cpgl8lRHoZ2fS2up-lgU8DakMpLMwi-bEAduxD3U6hCNekSpmU0eajcGgbZb_125m5FT8gO2yLL30a9rGC6tiO-vfhYVYKOIXcg=w1388-h1064-no?authuser=0" 
+              "https://lh3.googleusercontent.com/pw/AM-JKLVSROqcK4ZN6y-OovWskNv2dVCRGhdHHw40nAG16Vhg-nvNpFVrUO-cpgl8lRHoZ2fS2up-lgU8DakMpLMwi-bEAduxD3U6hCNekSpmU0eajcGgbZb_125m5FT8gO2yLL30a9rGC6tiO-vfhYVYKOIXcg=w1388-h1064-no?authuser=0"
             ],
             "description": "",
             "category": "snack",
             "prices": "45 грн"
-           },
-           {
+          },
+          {
             "id": "Млинці з начинкою курка та гриби",
             "name": "Млинці з начинкою курка та гриби",
             "isNew": false,
             "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLWAd4ejepjVdAubhawbBIbLJImfKXue3cQRAUBixc3P2HMe6j_aKEpjb5vFWns5QPp7pv-lNF8kH6HaBp5_w6Oj--s1n1tHBwbA0L7nKrmJl22UZhBAL6FpC77pt8qwn2CNrOGBzO33Kh17xKXG6I_6oQ=w1388-h772-no?authuser=0" 
+              "https://lh3.googleusercontent.com/pw/AM-JKLWAd4ejepjVdAubhawbBIbLJImfKXue3cQRAUBixc3P2HMe6j_aKEpjb5vFWns5QPp7pv-lNF8kH6HaBp5_w6Oj--s1n1tHBwbA0L7nKrmJl22UZhBAL6FpC77pt8qwn2CNrOGBzO33Kh17xKXG6I_6oQ=w1388-h772-no?authuser=0"
             ],
             "description": "",
             "category": "snack",
@@ -407,7 +407,7 @@ const getAllGoods = async () => ({
         ]
       },
      
-         {
+      {
         "name": "Піцца",
         "products": [
           {
@@ -415,7 +415,7 @@ const getAllGoods = async () => ({
             "name": "Pizza Havai",
             "isNew": false,
             "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLXoqWJm7nlpLlmWHCV80nqlf9Z-GN0SfyBc_4aEm7WhlyqHHORPUaEBPT_23Af-OM5IxRSe8HYsQXuxCueDM7WooHqjHZquIZtAlB_YwCgVHsVaLM9nukOnoG7MXj8NiTSiJqenvz-afJ-K6k2LjrjapQ=w645-h484-no?authuser=0" 
+              "https://lh3.googleusercontent.com/pw/AM-JKLXoqWJm7nlpLlmWHCV80nqlf9Z-GN0SfyBc_4aEm7WhlyqHHORPUaEBPT_23Af-OM5IxRSe8HYsQXuxCueDM7WooHqjHZquIZtAlB_YwCgVHsVaLM9nukOnoG7MXj8NiTSiJqenvz-afJ-K6k2LjrjapQ=w645-h484-no?authuser=0"
             ],
             "description": "Гаряча піцца з ананасами, курочкою, кукурудзою та шинкою, час приготування 30хв",
             "category": "pizza",
@@ -426,7 +426,7 @@ const getAllGoods = async () => ({
             "name": "Pizza BBQ",
             "isNew": false,
             "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLVtuGpBMLvYXN6YixRb1ZA5GiriJgnl9b8hlk96ogM8_BE5spByVRU6vBZLhEVv22W_FWcgar1QzPXI3ZiDE64Zjr9oxfwgbaMrGcG2CwoWIsdxTXLDAbBMc79YtkA8S3C_0nWbFVYB2NkHPSwE7GvFWg=w1388-h1040-no?authuser=0" 
+              "https://lh3.googleusercontent.com/pw/AM-JKLVtuGpBMLvYXN6YixRb1ZA5GiriJgnl9b8hlk96ogM8_BE5spByVRU6vBZLhEVv22W_FWcgar1QzPXI3ZiDE64Zjr9oxfwgbaMrGcG2CwoWIsdxTXLDAbBMc79YtkA8S3C_0nWbFVYB2NkHPSwE7GvFWg=w1388-h1040-no?authuser=0"
             ],
             "description": "Гаряча піцца з мисливськими ковбасками, грибами та маринованою цибулею та соусом барбекю, час приготування 30хв",
             "category": "pizza",
@@ -437,7 +437,7 @@ const getAllGoods = async () => ({
             "name": "Pizza More",
             "isNew": false,
             "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLVW4aK-a6HnuIzGtjyt9xj_Fw7bsCayYF190I_8eq7KRNSVBW8dUJTY0g8Tcx74zK8Oh5mOyhzkH5nWP1rvI5reMZJOXdVurofEhSrocjlG9E9i2gbSjbMey6C5HOxci8OGnHzo5iAnPsTUubWFCn2p2w=w630-h478-no?authuser=0" 
+              "https://lh3.googleusercontent.com/pw/AM-JKLVW4aK-a6HnuIzGtjyt9xj_Fw7bsCayYF190I_8eq7KRNSVBW8dUJTY0g8Tcx74zK8Oh5mOyhzkH5nWP1rvI5reMZJOXdVurofEhSrocjlG9E9i2gbSjbMey6C5HOxci8OGnHzo5iAnPsTUubWFCn2p2w=w630-h478-no?authuser=0"
             ],
             "description": "Гаряча піцца з морепродуктами, час приготування 30хв",
             "category": "pizza",
@@ -448,7 +448,7 @@ const getAllGoods = async () => ({
             "name": "Pizza Фірмова",
             "isNew": false,
             "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLViXq83y57KCT277mAoA7dVbb509UTkNyGArnK-SNVSs3Db0OsLyzsqfwspss0YZt9Aplsub3P39vVRLGjehIrw98FQJN3wwwY_mZ_zr2XNEodzHqHJVq_0_kapvWmSvY5mKP0H7dklKIh0aiJ56qcaUg=w623-h483-no?authuser=0" 
+              "https://lh3.googleusercontent.com/pw/AM-JKLViXq83y57KCT277mAoA7dVbb509UTkNyGArnK-SNVSs3Db0OsLyzsqfwspss0YZt9Aplsub3P39vVRLGjehIrw98FQJN3wwwY_mZ_zr2XNEodzHqHJVq_0_kapvWmSvY5mKP0H7dklKIh0aiJ56qcaUg=w623-h483-no?authuser=0"
             ],
             "description": "Гаряча піцца з двома видами ковбаси, грибами та момідорами, час приготування 30хв",
             "category": "pizza",
@@ -459,7 +459,7 @@ const getAllGoods = async () => ({
             "name": "Pizza 4 Cheese",
             "isNew": false,
             "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLXyZkqo_mESYcDuxO4RDufREJi6oJ2HbyOjZZsYOIONivWlJfc1sgWqpEYB5k7756nf9fd91WFGwcz9grQJ5r1vcuNUhukHpa8ThS5JnMbTayYbl13RpJS-HgOiEu855iBI3aWzNZQL2OE3FCj3Gua2rA=w638-h489-no?authuser=0" 
+              "https://lh3.googleusercontent.com/pw/AM-JKLXyZkqo_mESYcDuxO4RDufREJi6oJ2HbyOjZZsYOIONivWlJfc1sgWqpEYB5k7756nf9fd91WFGwcz9grQJ5r1vcuNUhukHpa8ThS5JnMbTayYbl13RpJS-HgOiEu855iBI3aWzNZQL2OE3FCj3Gua2rA=w638-h489-no?authuser=0"
             ],
             "description": "Гаряча піцца з 4 видами сиру, горішками та грушею, час приготування 30хв",
             "category": "pizza",
@@ -467,7 +467,7 @@ const getAllGoods = async () => ({
           }
         ]
       },
-       {
+      {
         "name": "Бургер-меню",
         "products": [
           {
@@ -478,21 +478,21 @@ const getAllGoods = async () => ({
               "https://lh3.googleusercontent.com/pw/AM-JKLWx_SP687vbI_tzur3tEte9i6mOpUF5M9tHodpogatiCPdkWB7vyOlCnNKNdKuVuK9dPwZL2gajCzlyTE9uer2rdoxwbFuRbZb2bNAEd2Syh1zRW_vJKFVQxc9shId2vKR57ZXCBs-8w9Qsu7X32whQeA=w1292-h1159-no?authuser=0"],
             "description": "Бургер з котлетою з соковитої курочки",
             "category": "burger",
-           "prices": "80 грн"
+            "prices": "80 грн"
           },
           {
             "id": "Burger-Texas",
             "name": "Burger-Texas",
             "isNew": false,
             "gallery": [
-           "https://lh3.googleusercontent.com/pw/AM-JKLX0wI1t1ZNc7m8DxzSlumnNrDRwDGaKyZrv6cVfuxZf6s6DUWnTfTcV-P792mml7daoXbQ1Or4Rz8gHOE5DoPFLj56qiJmxYJasuRCJD3Pl0YHVbj0ph9JdMDcp6PnEZupscdTTJo94G-pugv1ONuv7Cw=w696-h506-no?authuser=0"],
+              "https://lh3.googleusercontent.com/pw/AM-JKLX0wI1t1ZNc7m8DxzSlumnNrDRwDGaKyZrv6cVfuxZf6s6DUWnTfTcV-P792mml7daoXbQ1Or4Rz8gHOE5DoPFLj56qiJmxYJasuRCJD3Pl0YHVbj0ph9JdMDcp6PnEZupscdTTJo94G-pugv1ONuv7Cw=w696-h506-no?authuser=0"],
             "description": "Бургер з котлетою з ароматної свинини та яловичини",
             "category": "burger",
             "prices": "85 грн"
           }
         ]
       },
-                 {
+      {
         "name": "Салати",
         "products": [
           {
@@ -500,7 +500,7 @@ const getAllGoods = async () => ({
             "name": "Грецький салат",
             "isNew": false,
             "gallery": [
-           "https://lh3.googleusercontent.com/pw/AM-JKLVu4ZFjsQCHxUMnVKB8zzjWBpwX_Eye6ZU4r9PLN0_EQyNb7PGfU4fHxYaa2FIcrs2zeVbXUY_ElwiEi6rit-FWHqp2CheZFM13mqNZCb_-eWcOdBi-G60vKHAcPT4-AFzdy-a-q37OjMgistL72UTApQ=w1337-h733-no?authuser=0"],
+              "https://lh3.googleusercontent.com/pw/AM-JKLVu4ZFjsQCHxUMnVKB8zzjWBpwX_Eye6ZU4r9PLN0_EQyNb7PGfU4fHxYaa2FIcrs2zeVbXUY_ElwiEi6rit-FWHqp2CheZFM13mqNZCb_-eWcOdBi-G60vKHAcPT4-AFzdy-a-q37OjMgistL72UTApQ=w1337-h733-no?authuser=0"],
             "description": "Салат з помідорами, огірками, сиром фета, маслинами, травами та оливковою олією",
             "category": "salad",
             "prices": "90 грн / 300 грам"
@@ -510,35 +510,35 @@ const getAllGoods = async () => ({
             "name": "Салат цезар з куркою",
             "isNew": false,
             "gallery": [
-           "https://lh3.googleusercontent.com/pw/AM-JKLVtzC9Jx9Y7fOn6baDBSeKPFdnGj3uw2dxW_KM_tQVQlEGVENt_JLA9ybsP_OZVn5zFQhoZcFHymezMrnRn3_JC00F5qIMhh4f5-wxD8yP-rnZPGVYXC1RiMG24nxx0Y0SFFvgohNh9QrUbBbPkcZB2nQ=w1122-h763-no?authuser=0"],
+              "https://lh3.googleusercontent.com/pw/AM-JKLVtzC9Jx9Y7fOn6baDBSeKPFdnGj3uw2dxW_KM_tQVQlEGVENt_JLA9ybsP_OZVn5zFQhoZcFHymezMrnRn3_JC00F5qIMhh4f5-wxD8yP-rnZPGVYXC1RiMG24nxx0Y0SFFvgohNh9QrUbBbPkcZB2nQ=w1122-h763-no?authuser=0"],
             "description": "Салат з листям салату Айзберг, помідорами, сиром пармезан, куркою, яйцями та соусом Цезар",
             "category": "salad",
             "prices": "120 грн / 280 грам"
-          },   {
+          }, {
             "id": "Салат цезар з креветками",
             "name": "Салат цезар з креветками",
             "isNew": false,
             "gallery": [
-           "https://lh3.googleusercontent.com/pw/AM-JKLW0fiwb4AvHZGZJJ32HhhJW3jNYP5mEUW4pSKjTaJQoYomqLJqebbfAVN_B3SrYCzrGDteXntW4VXOE8546S85gffxq-yPd-XkG2LpdMyB4Oxe0vINx4B9PZwzmWbV1SlgmaAlfFO0UEbuCb1-gEJdQEw=w1385-h948-no?authuser=0"],
+              "https://lh3.googleusercontent.com/pw/AM-JKLW0fiwb4AvHZGZJJ32HhhJW3jNYP5mEUW4pSKjTaJQoYomqLJqebbfAVN_B3SrYCzrGDteXntW4VXOE8546S85gffxq-yPd-XkG2LpdMyB4Oxe0vINx4B9PZwzmWbV1SlgmaAlfFO0UEbuCb1-gEJdQEw=w1385-h948-no?authuser=0"],
             "description": "З листям салату Айзберг, помідорами, сиром пармезан, криветками, яйцями та соєво-гірчичним соусом",
             "category": "salad",
             "prices": "150 грн / 280 грам"
-          },   {
+          }, {
             "id": "Салат від шефа",
             "name": "Салат від шефа",
             "isNew": false,
             "gallery": [
-           "https://lh3.googleusercontent.com/pw/AM-JKLU7Nt-32Ai6RvMZfgUydeHkEZez0ek-yTiyOrUGdzc0XJHAVMxEexqjf26MQvpNZBTw9Uj_6okaz_w-nVd8WRiss-xMCr5KGPF3Oo28Ku_TysN-K_bzcGiNF_bqt9JXp1zbraZw85tqFSMR8waqL_Mhaw=w721-h500-no?authuser=0"],
+              "https://lh3.googleusercontent.com/pw/AM-JKLU7Nt-32Ai6RvMZfgUydeHkEZez0ek-yTiyOrUGdzc0XJHAVMxEexqjf26MQvpNZBTw9Uj_6okaz_w-nVd8WRiss-xMCr5KGPF3Oo28Ku_TysN-K_bzcGiNF_bqt9JXp1zbraZw85tqFSMR8waqL_Mhaw=w721-h500-no?authuser=0"],
             "description": "Салат з морковкою по-корейськи, свинячими вушками, зеленим горошком та соусом",
             "category": "salad",
             "prices": "60 грн / 250 грам"
           },
-           {
+          {
             "id": "Овочевий салат",
             "name": "Овочевий салат",
             "isNew": false,
             "gallery": [
-           "https://lh3.googleusercontent.com/pw/AM-JKLVmPHTuebl5kdibEHrLQHJQ_MlkLGKNn40VWHyCjgWDmEMCJ4KNpq7IpGU9zZ0r16Gg-fMZj_Hzte3uCNo78PLsVbl_887rMS-OBbxhnUK13QHY21uVUvaVKX48jRbUYE-t3sUUKwMp5cLNL3sVviNsog=w1372-h1012-no?authuser=0"],
+              "https://lh3.googleusercontent.com/pw/AM-JKLVmPHTuebl5kdibEHrLQHJQ_MlkLGKNn40VWHyCjgWDmEMCJ4KNpq7IpGU9zZ0r16Gg-fMZj_Hzte3uCNo78PLsVbl_887rMS-OBbxhnUK13QHY21uVUvaVKX48jRbUYE-t3sUUKwMp5cLNL3sVviNsog=w1372-h1012-no?authuser=0"],
             "description": "Салат з помідором, огірком зеленню та капустою",
             "category": "salad",
             "prices": "50 грн / 200 грам"
@@ -555,35 +555,68 @@ const getAllGoods = async () => ({
           // }
         ]
       },
-            {
+      {
         "name": "М’ясні страви",
-         "products": [
-           {
+        "products": [
+          {
             "id": "Стейк з свинної корейки",
             "name": "Стейк з свинної корейки",
             "isNew": false,
             "gallery": [
-           "https://lh3.googleusercontent.com/pw/AM-JKLXEnajF5fxijtwMgOkX05ylxOu7nTZ893E2Cl5fdhwiyrEZrxXknO2_Ds8yzGCTiIKopd2_S02JRfF8rnLceDv3H_JvyBPHY_fPUCF5FGdFTuqj_8_eHpb1aMWC-aKyWfz6graxAl1jhySrhAxVsBYryg=w482-h414-no?authuser=0"],
+              "https://lh3.googleusercontent.com/pw/AM-JKLXEnajF5fxijtwMgOkX05ylxOu7nTZ893E2Cl5fdhwiyrEZrxXknO2_Ds8yzGCTiIKopd2_S02JRfF8rnLceDv3H_JvyBPHY_fPUCF5FGdFTuqj_8_eHpb1aMWC-aKyWfz6graxAl1jhySrhAxVsBYryg=w482-h414-no?authuser=0"],
             "description": "Ароматний, соковитий стейк з свинної корейки середньої прожарки",
             "category": "meat",
             "prices": "45 грн / 100 грам"
-          },    {
+          }, {
             "id": "Стейк курячий",
             "name": "Стейк курячий",
             "isNew": false,
             "gallery": [
-           "https://lh3.googleusercontent.com/pw/AM-JKLWe3BzwWI5IZcncGNLg-dBSNGJ_djwdqX8kPcOeG_C2nvZtEnhiqHcUud-6Sc4FqPEP83kTXTmG9B4GLZMeTKTbv0fKv7GSD24JSARui_y79DwYMasgiavOMwC_MuJ6Jc-095p9gQ56G1LoO8RE5TNVvw=w627-h470-no?authuser=0"],
+              "https://lh3.googleusercontent.com/pw/AM-JKLWe3BzwWI5IZcncGNLg-dBSNGJ_djwdqX8kPcOeG_C2nvZtEnhiqHcUud-6Sc4FqPEP83kTXTmG9B4GLZMeTKTbv0fKv7GSD24JSARui_y79DwYMasgiavOMwC_MuJ6Jc-095p9gQ56G1LoO8RE5TNVvw=w627-h470-no?authuser=0"],
             "description": "Апетний, соковитий стейк курячий, середньої прожарки",
             "category": "meat",
             "prices": "35 грн / 100 грам"
           }
         ]
       },
-      // {
-      //   "name": "Передзамовлення",
-      //   "products": [ 
-      //   ]
-      // },     
+      {
+        "name": "Бенкетне меню",
+        "products": [
+          {
+            "id": "Смажений короп",
+            "name": "Смажений короп",
+            "isNew": false,
+            "gallery": [
+              ""
+            ],
+            "description": "",
+            "category": "dessert",
+           "prices": "250 грн / кг"
+          },
+           {
+            "id": "Салантай",
+            "name": "Салантай",
+            "isNew": false,
+            "gallery": [
+              ""
+            ],
+            "description": "",
+            "category": "dessert",
+           "prices": "280 грн / кг"
+          },
+            {
+            "id": "Печінковий рулет",
+            "name": "Печінковий рулет",
+            "isNew": false,
+            "gallery": [
+              ""
+            ],
+            "description": "",
+            "category": "dessert",
+           "prices": "250 грн / кг"
+          },
+        ]
+      },     
       {
         "name": "Десерти",
         "products": [
@@ -1138,9 +1171,7 @@ const getAllGoods = async () => ({
 });
 
 const getAllCurrency = async () => ({
-
 })
-
 const getAllCategories = async () => ({
   data: {
     categories: [

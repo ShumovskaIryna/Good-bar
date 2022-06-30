@@ -12,10 +12,10 @@ export default function Categories(props) {
             { props.allCategories.categories.map(({ name }, index) => (
               <div className="categorii">
                 <Category
-                key={index}
-                chooseCategory={chooseCategory}
-                gategoryName={name}
-                products={currentProducts}
+                  key={index}
+                  chooseCategory={chooseCategory}
+                  gategoryName={name}
+                  products={currentProducts}
                 />
               </div>
             ))}

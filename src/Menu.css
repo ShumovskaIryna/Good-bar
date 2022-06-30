@@ -119,7 +119,17 @@ body {
   background-color: rgba(0, 0, 0, 0.4);
   transition: all ease 500ms ;
 }
-.active  {
+.pre-order{
+  position:absolute;
+  display: inline-block;
+  padding: 5px;
+  margin-top: 2px;
+  margin-left: 5px;
+  margin-bottom: 0px;
+  width: auto;
+  height: 30%;
+}
+.element:active  {
   border-style: none;
   border-bottom: 3px solid rgb(243, 77, 77);
   text-decoration: rgb(243, 77, 77);
@@ -249,11 +259,11 @@ body {
 .element {
   display: block;
   flex-direction: column;
-  padding: 4px;
-  margin-top: 4px;
+  padding: 2px;
+  margin-top: 2px;
   margin-bottom: 0px;
   width: 95%;
-  height: 40px;
+  height: 37px;
   font-family: "Raleway";
   font-style: normal;
   font-weight: 700;
@@ -264,7 +274,7 @@ body {
   background-color: rgba(0, 0, 0, 0.4);
   transition: all ease 500ms ;
 }
-.active {
+.element:active {
   border-style: none;
   border-bottom: 3px solid rgb(243, 77, 77);
   text-decoration: rgb(243, 77, 77);
@@ -274,6 +284,16 @@ body {
   border-bottom: 3px solid rgb(243, 77, 77);
   opacity: 0.9;
 }
+.pre-order{
+  position:absolute;
+  display: inline-block;
+  padding: 5px;
+  margin-top: 2px;
+  margin-left: 75px;
+  margin-bottom: 0px;
+  width: auto;
+  height: 65%;
+}
 label {
   color: white;
   transition: all ease 500ms;
@@ -281,5 +301,4 @@ label {
 label .active {
   color: rgb(243, 77, 77);
 }
-
 }
