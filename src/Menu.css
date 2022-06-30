@@ -129,6 +129,16 @@ body {
   width: auto;
   height: 30%;
   }
+  .kids{
+  position:absolute;
+  display: inline-block;
+  padding: 5px;
+  margin-top: 2px;
+  margin-left: 5px;
+  margin-bottom: 0px;
+  width: auto;
+  height: 30%;
+  }
 .element:active  {
   border-style: none;
   border-bottom: 3px solid rgb(243, 77, 77);
@@ -293,6 +303,17 @@ body {
   margin-bottom: 0px;
   width: auto;
   height: 65%;
+}
+.kids{
+  position:absolute;
+  display: inline-block;
+  padding: 5px;
+  margin-top: -8px;
+  margin-left: 90px;
+  margin-bottom: 0px;
+  width: auto;
+  height: 100%;
+  transform: rotate(11deg);
 }
 label {
   color: white;

@@ -15,6 +15,14 @@ export default function Category(props) {
             className="pre-order"
             alt="pre-order"
             />
+                    : ""}
+            {props.gategoryName === Constants.products.KIDS
+            ?
+           <img
+            src={"kids.png"}
+            className="kids"
+            alt="kids"
+            />
            : ""}
             </label>
            

@@ -147,7 +147,7 @@ div .product-card {
 }
 .desc {
   font-family: 'Lobster', cursive;
-  text-transform: lowercase;
+  text-transform: none;
   font-size: 80%;
   padding: 0px;
   margin-top: 0px;

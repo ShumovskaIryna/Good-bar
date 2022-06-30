@@ -126,17 +126,6 @@ const getAllGoods = async () => ({
             "prices": "45 грн"
           },
           {
-            "id": "Картопляна Пюрешка мишеня",
-            "name": "Картопляна Пюрешка мишеня",
-            "isNew": true,
-            "gallery": [
-              "https://lh3.googleusercontent.com/pw/AM-JKLWjh-8beF2q4Pd5Aj940dEnSoCi5hElBG7RBz5BX4kF6WOb9pFiJxmHUSMN017V9gMV-gXuGRJN7qES2rV4XKKyvkDlgoRR8jI55HLBE4G8x074WMEEnyfWQf1JGONWSQ34huHTVsxF8pDo8f48Bl_jmw=w919-h820-no?authuser=0"
-            ],
-            "description": "",
-            "category": "snack",
-            "prices": "35 грн"
-          },
-          {
             "id": "Українська закуска",
             "name": "Українська закуска",
             "isNew": false,
@@ -465,6 +454,44 @@ const getAllGoods = async () => ({
             "category": "pizza",
             "prices": "160 грн"
           }
+        ]
+      },
+         {
+        "name": "Дитяче меню",
+        "products": [
+          {
+            "id": "Картопляна Пюрешка мишеня",
+            "name": "Картопляна Пюрешка мишеня",
+            "isNew": true,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLWjh-8beF2q4Pd5Aj940dEnSoCi5hElBG7RBz5BX4kF6WOb9pFiJxmHUSMN017V9gMV-gXuGRJN7qES2rV4XKKyvkDlgoRR8jI55HLBE4G8x074WMEEnyfWQf1JGONWSQ34huHTVsxF8pDo8f48Bl_jmw=w919-h820-no?authuser=0"
+            ],
+            "description": "",
+            "category": "kids",
+            "prices": "35 грн / 200 грам"
+          },
+          {
+            "id": "Котлетки на пару курячі",
+            "name": "Котлетки на пару курячі",
+            "isNew": true,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLVWPUg8fz_EC8zkfvDfRczwt1VqUuTO0x_9XehBaEfb6bqKIvaOoqyuPABw0M0lvH2W_sNpBURHDDOntLLJqX7dIN8ZUKNcKK4aHkyTX3a_IcoPkRzqI-XnaIzFuMdUDyz2OFQiBGjHUwZ9vMex4e10aw=w1448-h1114-no?authuser=0"
+            ],
+            "description": "",
+            "category": "kids",
+            "prices": "40 грн / 150 грам"
+          },
+          {
+            "id": "BABY морковка",
+            "name": "BABY морковка",
+            "isNew": true,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLWT-fU52g7Reyf3RnHHgRxTKATgTTUNwu1vNNxKBelCwJ4RN8ljMMzftGDCbJHWhzdiklsQJHWB0_ATj3mMl-wB38UqgKq_QLw7UD_ROwVOVwFdLDunuZNOi4AiQC-W8y9AkqSWdQIeZDZ4nwWNSQn31Q=w857-h663-no?authuser=0"
+            ],
+            "description": "",
+            "category": "kids",
+            "prices": "20 грн / 100 грам"
+          },
         ]
       },
       {
@@ -959,7 +986,7 @@ const getAllGoods = async () => ({
           },
            {
             "id": "Tropical beer",
-            "name": "Tropical beer",
+            "name": "Tropical beer 🔞",
             "isNew": true,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLXiTGkFBsifmLQAjwgtEAQRzoJY0B0yWrPsjRiwlLoHGFgth31iaqqJRcPdcjSLBDNim41OfZ8M73hrY1aNM7zKOzm7sJNI3W2PwJ0F-bYV1b9IfonzB8hlUWTU9RMRYTHrgpvOjGSBbhQndYoDU9pjBg=w639-h766-no?authuser=0"
@@ -970,18 +997,18 @@ const getAllGoods = async () => ({
           },
            {
             "id": "Пиво Obolon /Lvivske1715 / Lvivske / Kronenbourg",
-            "name": "Пиво Obolon світле/ Lvivske1715 / Lvivske світле/ Kronenbourg blanc1664",
+            "name": "Пиво на розлив 🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLUb1UgDtOk-r7W784VEBuOIA4zCi9T6SC5h9_8C26EDc06SKCOVW2okhiDqyGCaw3lX1zWF5fd6LXPDxzffMPsi6qRs5I_t2VCXtTe6OG7-a6T7We5qmCsnTCD_JOY-kUAoHXj1KG7ovYhuIO7XcLf43w=w1388-h1110-no?authuser=0"
             ],
-            "description": "",
+            "description": "Obolon світле / Lvivske1715 / Lvivske світле / Kronenbourg blanc1664",
             "category": "drinks",
            "prices": "50/60/60/70 грн / 1 л"
           },
           {
             "id": "Космополітен",
-            "name": "Космополітен",
+            "name": "Космополітен 🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLXf2bGlFuI-w3k565fjEWgHOtpD5uljiFJUyAngw_R8lEMIgbNI8b5Sglpl4mDVbUpLADlU3F4-B3G4fplcE17K63Preh1v3yIU1agylzcI5wP0dEwwaETRyXYWPhOie-tNQHzTJjafzmgmnQu30PS4hA=w846-h1199-no?authuser=0"
@@ -992,7 +1019,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Снукер",
-            "name": "Снукер",
+            "name": "Снукер 🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLU5fM6PXkaqFS25wVdbXv9wYjGAnWNVKopRdG3pwKJPMXD0I017HRsXuFOa-G-hvoeyVcUEkQi1FRhcKdKp0A6cxpJipcAHgdhMcGcpkFNptSqTbROklj0RzVrMmjrwEjW0hLv1SYGBryEtzlrcyWbtdA=w629-h817-no?authuser=0"
@@ -1003,7 +1030,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Секс на пляжі",
-            "name": "Секс на пляжі",
+            "name": "Секс на пляжі 🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLU7EPh4TJ1fiDlyxqyDLEmDyPD486qWJQfR2d8n3OX8irgUnb4SQ-k9uNlfQAOf_4TFKdgUhoO0t995pezGaZzPmc96zx2oozcytfP8kwhoLT8svsGlTsQIkBMeTIZQAIs7vzwtfeSGEx8ZcLE_SoSoOA=w591-h814-no?authuser=0"
@@ -1014,7 +1041,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Піна колада",
-            "name": "Піна колада",
+            "name": "Піна колада 🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLXrf_RJ7Vl1-N7MphxNr9Vy6wJo2ZmXdy-GJve-xvmlOB-GV-2iubaw2vJU01CE5iSmqkd8q76B9Y4jQsz7myoK_RBKZUQTzeeZ7g3GLQ5fBhU85JP4KXE5NZkxvY2O5ZQVhUQfETBYDEXaLvmwfaqCHg=w377-h572-no?authuser=0"
@@ -1025,7 +1052,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Рожевий лимонад",
-            "name": "Рожевий лимонад",
+            "name": "Рожевий лимонад 🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLUV0rNUhaTcfTkoOZY7waghSSiM2ixjguB4q55mVqXSsa9ld4MJrj--PJIvRHTOJohUOF20Yulfd2Rm6LDKF7ZhtiHCzk2BtrSN_667xdL--IknuraVHSmEXDrJHGdKe1CJJDMP6dSTGNyB8eppE-F-SA=w1244-h1306-no?authuser=0"
@@ -1036,7 +1063,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Каліфорнійський гвинт",
-            "name": "Каліфорнійський гвинт",
+            "name": "Каліфорнійський гвинт 🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLVY-tLDd5FNuAH3JRd2wuOftLKw976v9puNjrnDxQE-QcI7vN82pocHvvtOy_mx_KBj5SNFElCqhLJvrHwzbcN8uzd0pkcJVh06b5X1wYGg0Stybi-7-uGFL8fjNtphPzondT-H0o-bvgEPu02ePOQa4w=w1053-h1171-no?authuser=0"
@@ -1047,7 +1074,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Блакитна лагуна",
-            "name": "Блакитна лагуна",
+            "name": "Блакитна лагуна 🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLXVXkNQkHOiB_daMOEG-omP9jIjn-tCo0UfOiRw03n_Ib5GLl5mKAImxpcFODZM9l6TFLZ59LzVpa1BzT_lrHvQnzmUpM8jd5GHvIbl3jKfmTji26r2VmhoUB0nkdQGEqoihLhzkxDWacsb0DpnFNaL_w=w1026-h1306-no?authuser=0"
@@ -1058,7 +1085,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Лонг айленд",
-            "name": "Лонг айленд",
+            "name": "Лонг айленд 🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLV-XiPvo4uqmDLW3n5RZweM9aoe7LV3M36bfJeQH5ns1SSsFx5ELAv9cPjSikG2AyqoFe_WDWAMv_U6nmPKv4bVkxQldlpok3X673FjKrk1flDPpyoz1KoqiIYRns28h3xUfaIYyOO6IB1cQOZFSB0THg=w512-h470-no?authuser=0"
@@ -1069,7 +1096,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Камікадзе",
-            "name": "Камікадзе",
+            "name": "Камікадзе 🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLXTrPLEDri3OvesnkSqzj8qlfkcA3QCNV6zLhgBw0TZB0Q4QZ8qu6xtT-RqMAl5FiH9rC7ltzUSE-rk59tkFlfF54d_pgkcSJAw6v2DXjkuNF7YryH22ovZVvBazHOHZRjicdkZPEdP443esyxxitBRjQ=w587-h600-no?authuser=0"
@@ -1080,7 +1107,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Хвиля Малібу",
-            "name": "Хвиля Малібу",
+            "name": "Хвиля Малібу 🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLXcmmJ0r9JoYMIIZYbinaX1g_yFAwRPSh7oYhpvOoHLCjD09nH4cyuRfl29QQpKzto65P0xelah96S94E-IGm9WcazQZzKHCDCq9NjWTCjvKM_m3Yv3rOPD5E_HDB23zB0495XN747TlhpAjwodxs39tA=w630-h715-no?authuser=0"
@@ -1091,7 +1118,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Американський виноград",
-            "name": "Американський виноград",
+            "name": "Американський виноград  🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLU16bZiY_Vs7_f6cfYdKAizGbzP5QjPg3EzT7I5yUi0rck5ejwGjEt4U_J_gG0pKhBLsE4_D0wLRc5leZ3-sScm15sJOMxk1exCBq_Wwj3QgJOjX1ubx5qmt8vjEupYGIa69vzC2tBvMOJlGF3wyMVa-g=w630-h909-no?authuser=0"
@@ -1102,7 +1129,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Алігатор",
-            "name": "Алігатор",
+            "name": "Алігатор  🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLUWqZURL31B90SUM-05Y4pScc-GkVr7Jhvu_3m18UexO2XXnP02fU-_61aQotGK3S-Wi0d-3QMKDhfkeggFRe7zkbqW4nmUPTL106pRJvxm6Pmy2mAvBj2AdLODuWJuL_wR_uhGDx0CQus0anuvBRUtHg=w967-h1058-no?authuser=0"
@@ -1113,7 +1140,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Джангл Джус",
-            "name": "Джангл Джус",
+            "name": "Джангл Джус  🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLX9f2h-Pdqxgx4zKexiU1DBx7qTfUt5g98Nm-4GlhsPtgkxtrdoqalQ0XpL1B-SMHSBEbI62mbAulSJZZwZ2fXSVAlEJtoL6avH6BlVsAiMEJaLNECb8G60Tujge8vDYqD5V9k4gm8IWH4wLf2kxs9ogg=w512-h577-no?authuser=0"
@@ -1124,7 +1151,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Рідка Марихуана",
-            "name": "Рідка Марихуана",
+            "name": "Рідка Марихуана  🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLULS-kA-kBFsiWtiH_DbXYL9UsdAckEwRXs115aKviivuMrqroVLui5Tgh3WwTvp0fRl2Cn7Pmka5yrsVDE2F6LMi9YA7Pc1Syko2tUhdkmlCS3OUQjgSVDUoPHABsn0zz0--eIKx_mICkZ_Q8LuxzC7g=w832-h1146-no?authuser=0"
@@ -1135,7 +1162,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Апероль з віскі",
-            "name": "Апероль з віскі",
+            "name": "Апероль з віскі 🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLU3NkyhPBz1r-DX_GljIZA0-uq91uCZ57fadjKb3of3cffcCjbSb8EnEUXW4cmViApDQfsIlcf-ac9ueC_qPe_OrZXKHS0FHn4NpompkgXAGxyRfLcOqWbubdy-dxhKXOJsuYW15smgIOwIWAo0N6xmxw=w442-h451-no?authuser=0"
@@ -1146,7 +1173,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Апероль з апельсиновим соком",
-            "name": "Апероль з апельсиновим соком",
+            "name": "Апероль з апельсиновим соком 🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLXZG_sa6YVAg-83qzRP5w1tmFHRmv4tHBEVKFDtNNxRI47aPB3AfY_7jxi8bOQ5GxC4tJ1IwAgh_SqA2ViulCjZWS732LTwHk_Fu1Mzyz_2DqLZAd2-AkNldQVJ7Dxl86zVxlSXlf_IRiO9DPajAgYTqA=w570-h773-no?authuser=0"
@@ -1157,7 +1184,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Челсі сайдкар",
-            "name": "Челсі сайкар",
+            "name": "Челсі сайкар  🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLVWJj8_EM978NjmozckZm5M1MgjpTd1NCZEftYYUoc4ysXQWJ50J1c1h6TdWUw6Tl9CG6JJmGxeR0UUVCrqCiIfJrhghl-15uBL75g1QXYFLNHiKG0RrdnKlZjbDI_OfheZFWz7zkaG0-Fhm-ujWojJAA=w630-h702-no?authuser=0"
@@ -1168,7 +1195,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Синій понеділок",
-            "name": "Синій понеділок",
+            "name": "Синій понеділок  🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLXvJeuj3FTN6HEJTIxTU2Z8zEj2aNlLWwzppaHpDY2I1f-3PiHy1So-UXucuTqAEWT9snanUPSfnaAaONF3WOkMxE54yn9O3K6tlMVRq79QjKd8luhOI_CcTegzHP_Otz1wFS97wDy5mH-tsWWGsUl5zQ=w384-h512-no?authuser=0"
@@ -1179,7 +1206,7 @@ const getAllGoods = async () => ({
           },
              {
             "id": "Сайдкар",
-            "name": "Сайдкар",
+            "name": "Сайдкар  🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLVMcilLTW84mdAneK73xcTfoKDHzyW6x8qHRozHormfBzKOoXCmBP-kG3S8zy4B04amIeyX1Y06KiJXQVCYpR5WdVcPVgUaVCWb-CNzUqG1e0ZpxrPGGKR4u9DJ_sixs9p71pS6L3XOtc4hJ_YUTN8meQ=w474-h597-no?authuser=0"
@@ -1190,7 +1217,7 @@ const getAllGoods = async () => ({
           },
              {
             "id": "Самбука Ларнака",
-            "name": "Самбука Ларнака",
+            "name": "Самбука Ларнака  🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLVpcA6WS5gmCqaH984gXWbSqz4fU4cC1g3DrtoNQefQH49hNLusKZtMoIosoPchgHvuPowdpQmiA2-OZHwGZtnN6u7K05vorvS7lvER-SeLASKh0vAKnhqwOPqdggK23Fc6thtpJgJvrt-_w_J-SKuK2Q=w545-h534-no?authuser=0"
@@ -1201,7 +1228,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Бажання Анни",
-            "name": "Бажання Анни",
+            "name": "Бажання Анни  🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLWorn-DIqEIUnGHvge5l84rkWVqdUKQlqfP2lJOTvYmDayak8PDHIaQypfr62rLzobNEu9A8rpr0Q5SEquXE251kF4GDUitTmWbpfDe7Gs5uSaPaL9c0bQ9osLMJl-kngcNhnJkhUK2-iUnreY9FHGfSA=w237-h558-no?authuser=0"
@@ -1212,7 +1239,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Гавайський",
-            "name": "Гавайський",
+            "name": "Гавайський  🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLUbMvx1V86_EDEFj1FWZMpBs5cfJ8rUPrN0QTnCtaaa6VOngy7kyKPW6hPrve2LzvGiVsccgMBD1Lt9juNFElw8EJg7tfAcTvkPV5nk2SFv5ZkINmzu2iRtxCVkxCSM2MFwwbFhLN4QOa3itp1tqoItXw=w341-h382-no?authuser=0"
@@ -1223,7 +1250,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Велика кахуна",
-            "name": "Велика кахуна",
+            "name": "Велика кахуна  🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLVBqW5jXzNNov0W17DmVyuBBpOhS4Ysqv4WX9FUl5UVWwjNgHq7K7-EW3vNvCUyOA7LLUOxPiygzgo3W6aAbTWR98Sr-rC6c6xRKh-smS4nv5DBkHMCHXyAUEKj-Gr3_PByrL1E5yXPfFcL_pEgLd9nSw=w630-h663-no?authuser=0"
@@ -1234,7 +1261,7 @@ const getAllGoods = async () => ({
           } ,
           {
             "id": "Біла леді",
-            "name": "Біла леді",
+            "name": "Біла леді  🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLWpvR_N5cxNziLA9N8b0vfHxLLRUypEo-SSMMbRnXyHX86oLdp9RIBA-4qSwdrPSsceecTmtf0BxVM_qC06wOejoo-arFoz11dKw-w6VjLgWOkD9UsoxiTAvxa4FcZI01MWtwD2B9BcczpJlugN06bCag=w740-h1306-no?authuser=0"
@@ -1267,7 +1294,7 @@ const getAllGoods = async () => ({
           // },
           {
             "id": "B-53",
-            "name": "B-53",
+            "name": "B-53  🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLVRDR_URCM6wGq-kRsNTcQVoH5GgmnsPblK6ZRj3sLoV12VH3dVRyczOfbAfzjZ8SxTW1lLCCdcuJ2wxOTKHfLME0S2mUzUmm2XvOHW7IPLWPE8B98rqHoLr6McE85FP6lmVncuIY5wx8txprIWrRmRxg=w662-h1075-no?authuser=0"
@@ -1278,7 +1305,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Хіросіма",
-            "name": "Хіросіма",
+            "name": "Хіросіма  🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLXDNBMXPz4VSBJBYJoJ-9xOH1MjBWLg22QFgaC7YrAl9cl0u96sLymRWUHHemNvxwJX4J78xBB6AYojwGSui9Ui-iqT4GM8v158UVq1uz5JIxjEUG5wrLfCI8qgMDNs3uiaSlnAkW9kPROger_5kWKcoQ=w648-h1042-no?authuser=0"
@@ -1288,7 +1315,7 @@ const getAllGoods = async () => ({
            "prices": "40 грн / 50 мл"
           },{
             "id": "Зелений мексиканець",
-            "name": "Зелений мексиканець",
+            "name": "Зелений мексиканець  🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLWZWG5K8jw5_hdy2FSZr3Q3WLAJmc0GrVkDHXMx7EPwcsvaUKJ3UAGhdY2MZSfOxmpTpQGEl5pBr_S3TGa272E5haQcpcgW0HvsatCBkl-Nb49y5bepYEPrPAtcNtAcxYXXgEaLCM50WEBfD3DFJ_xkoA=w592-h1192-no?authuser=0"
