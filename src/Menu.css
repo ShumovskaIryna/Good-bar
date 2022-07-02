@@ -265,7 +265,6 @@ body {
   position: relative;
   flex-direction: row;
 }
-
 .element {
   display: block;
   flex-direction: column;

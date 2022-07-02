@@ -25,7 +25,6 @@ export default function Menu(props) {
       </span>
       <Categories
         allCategories={props.allCategories}
-        allProducts={props.allProducts}
         chooseCategory={chooseCategory}
         currentProducts={currentProducts}
       />

@@ -25,10 +25,10 @@ export default class StartScreen extends Component {
     }));
   }
   chooseCategory(category) {
-    this.setState({
+    this.setState(() => ({
       category,
       currentProducts: this.state.data.categories.find((el) => el.name === category),
-    });
+    }));
   }
   render() {
    const { currentProducts} = this.state;
