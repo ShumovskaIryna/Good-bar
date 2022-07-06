@@ -46,7 +46,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Крильця, хрумкі та соковиті всередині",
             "category": "snack",
-            "prices": "70 грн / 6 шт"
+            "prices": "75 грн / 6 шт"
           },
           {
             "id": "Нагетси",
@@ -79,7 +79,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Смачні, в міру підкопчені свинячі вушка",
             "category": "snack",
-            "prices": "60 грн / 150 грам"
+            "prices": "65 грн / 200 грам"
           },
           {
             "id": "Ковбаски гриль",
@@ -145,7 +145,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Хрумкі грінки, оселедець та французька гірчиця",
             "category": "snack",
-            "prices": "50 грн"
+            "prices": "55 грн"
           },
           {
             "id": "Козацька закуска",
@@ -156,7 +156,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Хрумкі грінки помазані ніжною пастою з сала",
             "category": "snack",
-            "prices": "55 грн"
+            "prices": "57 грн"
           },
           {
             "id": "Брускети з паштетом",
@@ -167,7 +167,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Брускети та кульки з ніжним курячим паштетом та кисло-солодким соусом",
             "category": "snack",
-            "prices": "55 грн"
+            "prices": "50 грн"
           },
           {
             "id": "Мега-Шаурма",
@@ -255,7 +255,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Чудова закуска до пива",
             "category": "snack",
-            "prices": "40 грн / 150 грам"
+            "prices": "45 грн / 150 грам"
           },
           {
             "id": "Овочі гриль",
@@ -343,7 +343,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Гарячий,соковитий чебурек з яловичиною та кінзою/з свининою/сиром та зеленню",
             "category": "snack",
-            "prices": "40 / 40 / 35 грн / шт"
+            "prices": "45 / 42 / 37 грн / шт"
           }, {
             "id": "Бендерики",
             "name": "Бендерики",
