@@ -14,14 +14,14 @@ body {
   height: 100%;
   background-color: rgba(0, 0, 0, 0.9);
   transition: all ease 500ms ;
-  z-index: 999;
+  z-index: 888;
 }
 .loader {
   position: fixed;
   max-width: 60%;
   height: 80%;
   margin: -20% 20% 20% 20%;
-  z-index: 999;
+  z-index: 888;
 }
 .done{
   opacity: 0;
@@ -38,13 +38,13 @@ body {
   margin-left: 22%;
   margin-right: 16%;
   animation-name: lift-left;
-  animation-iteration-count: 2;
+  animation-iteration-count: 3;
   animation-duration: 4s;
 }
 .dum2 {
   width: 20%;
   animation-name: lift-right;
-  animation-iteration-count: 2;
+  animation-iteration-count:3;
   animation-duration: 4s;
 }
 @keyframes lift-left {
@@ -127,7 +127,7 @@ body {
   margin-left: 5px;
   margin-bottom: 0px;
   width: auto;
-  height: 30%;
+  height: 40%;
   }
   .kids{
   position:absolute;
@@ -137,7 +137,8 @@ body {
   margin-left: 5px;
   margin-bottom: 0px;
   width: auto;
-  height: 30%;
+  height: 60%;
+  transform: rotate(11deg);
   }
 .element:active  {
   border-style: none;
@@ -174,14 +175,14 @@ body {
   height: 100%;
   background-color: rgba(0, 0, 0, 0.9);
   transition: all ease 500ms ;
-  z-index: 999;
+  z-index: 888;
 }
 .loader {
   position: fixed;
   width: 95%;
   height: auto;
   margin: 5% 5% 5% 5%;
-  z-index: 999;
+  z-index: 888;
 }
 .done{
   opacity: 0;
@@ -199,13 +200,13 @@ body {
   margin-right: 13%;
   animation-name: lift-left;
   animation-iteration-count: 3;
-  animation-duration: 5s;
+  animation-duration: 4s;
 }
 .dum2 {
   width: 27%;
   animation-name: lift-right;
   animation-iteration-count: 3;
-  animation-duration: 5s;
+  animation-duration: 4s;
 }
 @keyframes lift-left {
   0% {

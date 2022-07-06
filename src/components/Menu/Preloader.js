@@ -6,7 +6,7 @@ document.body.onload = function () {
     if (!preloader.classList.contains("done")) {
       preloader.classList.add("done")
     }
-  }, 3000);
+  }, 500);
 }
 export default function Preloader() {
   return (
