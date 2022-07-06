@@ -188,6 +188,14 @@ body {
   opacity: 0;
   visibility: hidden;
 }
+.alarm{
+  opacity: 0;
+  visibility: hidden;
+}
+.alarm-is{
+  opacity: 1;
+  visibility: visible;
+}
 .buk {
   width: 100%;
   margin-left: 18%;
