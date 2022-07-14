@@ -14,7 +14,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Смачні, гарячі, хрумкі та тягучі сирні палички фрі",
             "category": "snack",
-            "prices": "85 грн / 270 грам"
+            "prices": "90 грн / 270 грам"
           },
           {
             "id": "Сирне плато",
@@ -676,6 +676,18 @@ const getAllGoods = async () => ({
             "description": "",
             "category": "pre-order",
            "prices": "280 грн / кг"
+          },
+            {
+            "id": "Курча табака",
+            "name": "Курча табака гриль",
+             "isNew": false,
+            "isPreOrder": true,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLXIHUKn9G2WndNTrPr-Q7q7MiOJeKGMd-BVzN2ZzUnB90xm616vEOCMZrMcg-Gc1cr62_d0Bt9kYIQdiGSIgsgvV878JzHaQfuoN6pfPJR_L4vGmjpFzTbd-ly4yLuvoaRT5wx46sZ5CoXDuCGHl6-MOA=w1124-h711-no?authuser=0"
+            ],
+            "description": "",
+            "category": "pre-order",
+           "prices": "130 грн / шт"
           },
             {
             "id": "Печінковий рулет",
