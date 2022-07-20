@@ -43,7 +43,7 @@ export default class StartScreen extends Component {
             />
           </div>
         )
-        : <Preloader/>
+        : <Preloader />
     );
   }
 }

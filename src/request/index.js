@@ -845,6 +845,30 @@ const getAllGoods = async () => ({
             "category": "pre-order",
            "prices": "40 грн / 300 грам"
           },
+              {
+            "id": "Уха з коропа",
+            "name": "Уха з коропа",
+            "isNew": false,
+            "isPreOrder": true,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLWcVwH4-lWGw7KHuh7WU97PQQG4u9wnI8cXPaO5XwYBo_Dfgx2nZmcd7fNoqPcJPgtnwSrBko4uxwf9Lo0j_94ermVFqnL66KMGrezx31_7sg3Ay_8jcd_rA9n_6BWbj1qePy6wwaxUOf-4piahX03doA=w934-h881-no?authuser=0"
+            ],
+            "description": "",
+            "category": "pre-order",
+           "prices": "30 грн / 300 грам"
+          },
+               {
+            "id": "Уха з червоною рибою та вершками",
+            "name": "Уха з червоною рибою та вершками",
+            "isNew": false,
+            "isPreOrder": true,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLXc3wq3iKat5opR5SUcjBXSaCRMn89L9iZ3qPnOJLkoLLKbiZnScoKnCDf7XsjOpwL8LKpMp7dCDOnTwQoQcUmYCVKVtEfL0d6uJcSo6VWZBTSEV0GuQz_-7NjAdUgpdODUIbDBfCAsEdrGmR3pqZCBlw=w468-h400-no?authuser=0"
+            ],
+            "description": "",
+            "category": "pre-order",
+           "prices": "40 грн / 300 грам"
+          },
              {
             "id": "Солянка",
             "name": "Солянка",

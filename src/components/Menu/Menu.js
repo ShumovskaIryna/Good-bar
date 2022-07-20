@@ -1,6 +1,6 @@
 import React, { useState} from 'react';
 import Categories from './Categories';
-import Preloader from './Preloader';
+// import Preloader from './Preloader';
 
 export default function Menu(props) {
   const {
@@ -8,7 +8,7 @@ export default function Menu(props) {
     currentProducts } = props;
   return (
     <header className="header">
-     <Preloader />
+     {/* <Preloader /> */}
       <span >
         <img
           src="logo.webp"
