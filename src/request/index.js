@@ -719,7 +719,7 @@ const getAllGoods = async () => ({
             "isNew": false,
             "isPreOrder": true,
             "gallery": [
-              "pre.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLWhE8uWe36yCarwuuRAs3jKKYWmluxtw5NhU92a0BNbHh4dmf5n74goGzqC-RYdQfMyy7j5-KBFVqk4I1xSpvyC8zI3SkoUa6aLbZV737l10L1LdZ8r3aH4wnQlzIhvm7eHM8kBQjWMLDeK0xgA9CvwUA=w1000-h700-no?authuser=0"
             ],
             "description": "",
             "category": "pre-order",
@@ -743,7 +743,7 @@ const getAllGoods = async () => ({
             "isNew": false,
             "isPreOrder": true,
             "gallery": [
-              "pre.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLU2XPWs_RYPTlR7y64-CZRYO-1dWMs-4RL_uZydtbKL49qaH1p-iWR8OC_R5thTs9xRccUS_-O6XYZvF61mujxs_gryHEAzUafO_frtUmVOoUt8VRrFXbQQU74sfdBWzXjcAyK-o2G9l0tsDuxsum53cQ=w974-h851-no?authuser=0"
             ],
             "description": "",
             "category": "pre-order",
