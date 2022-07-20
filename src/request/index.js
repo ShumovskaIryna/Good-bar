@@ -731,7 +731,7 @@ const getAllGoods = async () => ({
               "isNew": false,
             "isPreOrder": true,
             "gallery": [
-              "pre.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLXq99lgStiQ-KQf3JsDTBTbmC92025ugrQyuhYkyRQRUfRBXfwFGgnByZJ2ixLrxMBkRMZrk5_rGLS1Jcno5_QBYqjSZBLD7vzDx4Qe190VzqhHCsXuIJU4DYQt9nKIX9ryRm_iaCFch_AyhId34LLjag=w600-h385-no?authuser=0"
             ],
             "description": "",
             "category": "pre-order",
@@ -755,7 +755,7 @@ const getAllGoods = async () => ({
             "isNew": false,
             "isPreOrder": true,
             "gallery": [
-              "pre.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLUXV1_vPUEDY6RS_KVMTxh1Xa0Ibys7mQBzEasnDMqymPKIVlwWktpdJuF58pmn-3W5V6PfX_gh_mli4taPkynyVbxktC9471z4CyC8hypU1acTRMBS3MsCy6VH5FHGDkL7xhBIWV7XsJZINt6LBwE_2g=w1170-h1180-no?authuser=0"
             ],
             "description": "",
             "category": "pre-order",
@@ -779,7 +779,7 @@ const getAllGoods = async () => ({
             "isNew": false,
             "isPreOrder": true,
             "gallery": [
-              "pre.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLW_gVDkhmvgzQcCGRqvTeWlbmzGa1qqtmCiyPyL7Ycq_WDK5Grd3GpRmexLGAmNKB3gcW-Wt2b55bSUEwSJ2bEKtoIuhS594MAfbHsvAt5wId64b-qU6Sv6V4k-rFCLXMluWCggmcuo46W97ntwSD84_A=w614-h360-no?authuser=0"
             ],
             "description": "",
             "category": "pre-order",
@@ -791,7 +791,7 @@ const getAllGoods = async () => ({
             "isNew": false,
             "isPreOrder": true,
             "gallery": [
-              "pre.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLVs82fCA95qQYprCwAVr4Hzzq3LlVKGUcxnh_JXfCYyD4MNVN9Q1QxT0kOAzg9NkIe3d9RpYc7IEPDs_R0a1XRVQEw57XcAaBFX0CRKocplkA1hzn8CZ0CBYE9dvTUZMJ7dC86Eiy-LuUxwP98TkUk9Wg=w722-h589-no?authuser=0"
             ],
             "description": "",
             "category": "pre-order",
@@ -803,15 +803,15 @@ const getAllGoods = async () => ({
             "isNew": false,
             "isPreOrder": true,
             "gallery": [
-              "pre.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLV0Je348MAVzNHcRBHm7rHGcu7gvy9mVwbnV3fl833EFYDRrvUmUVVGCk_RUIQG4uVHahdbggPplBuHn_bVBCW4DL-523JZVxfU8fq5jdVQKu-OgASjPCgFrUn5SPpZ0Ly1Si-cumG4Tl9wcq7-UapGoQ=w903-h821-no?authuser=0"
             ],
-            "description": "",
+            "description": "Подається з картоплею по-селянськи",
             "category": "pre-order",
            "prices": "280 грн / кг"
           },
               {
-            "id": "Хачапурі по -аджарськи",
-            "name": "Хачапурі по -аджарськи",
+            "id": "Хачапурі по-аджарськи",
+            "name": "Хачапурі по-аджарськи",
             "isNew": false,
             "isPreOrder": true,
             "gallery": [
@@ -827,7 +827,7 @@ const getAllGoods = async () => ({
             "isNew": false,
             "isPreOrder": true,
             "gallery": [
-              "pre.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLW_ThoEwr3UE9m89Beb7yvyAVAlqS4rfDWcvO_XhVEuM-g8wPY14mZByfnJiwogPyKnzCrlw-fMb-j1zatcw6GhV6iD2FuehiNavfFCX_2x5L5NBVY2AXH2-IEyfPqveL75kwNt-pzpDf2JkXIWp947mw=w540-h360-no?authuser=0"
             ],
             "description": "Соковиті медальйони з свинної вирізки з додаванням кисло-солодкого соусу з вишень",
             "category": "pre-order",
