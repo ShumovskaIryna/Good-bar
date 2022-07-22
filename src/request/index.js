@@ -695,7 +695,7 @@ const getAllGoods = async () => ({
               "isNew": false,
             "isPreOrder": true,
             "gallery": [
-              "pre.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLVAJwUWZEWefpK8waL2IGM08ZEYCRr95lgS0FAR5VsKKMZOBqhOVsqfY7SoeN3Bn5gTNbr9ki-r-KbSrcrj7t_pen557IZ8lXLljT94KosnFyb8sZFazTHcJTFt2Lstw0MnkUul1WO6A9uHt2u2EIXG_g=w832-h702-no?authuser=0"
             ],
             "description": "",
             "category": "pre-order",
@@ -839,7 +839,7 @@ const getAllGoods = async () => ({
             "isNew": false,
             "isPreOrder": true,
             "gallery": [
-              "pre.webp"
+              "https://lh3.googleusercontent.com/pw/AM-JKLWykERN5yk9nCqjkuPteSPHn7JjPD0LwTYW6_n073uFbGA8FvYlYnffVH4cRPbS864eQr-NmFZLNdMY1fjDS-k1fQxOURKH6JFKxNZEA2E_ZEyshm9idQKkjo7Yrrpvc1-yo3x9WikJKn86l1zqDk-Rjw=w773-h675-no?authuser=0"
             ],
             "description": "",
             "category": "pre-order",
@@ -918,7 +918,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Морозиво в ріжку полуничний чізкейк Мonaco",
             "category": "dessert",
-           "prices": "35 грнЯцюк Всеволод Вячеславович"
+           "prices": "35 грн"
           },{
             "id": "Сирники",
             "name": "Сирники",
@@ -1077,7 +1077,7 @@ const getAllGoods = async () => ({
           },
            {
             "id": "Пиво Obolon /Lvivske1715 / Lvivske / Kronenbourg",
-            "name": "Пиво на розлив 🔞",
+            "name": "Пиво розливне🔞",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLUb1UgDtOk-r7W784VEBuOIA4zCi9T6SC5h9_8C26EDc06SKCOVW2okhiDqyGCaw3lX1zWF5fd6LXPDxzffMPsi6qRs5I_t2VCXtTe6OG7-a6T7We5qmCsnTCD_JOY-kUAoHXj1KG7ovYhuIO7XcLf43w=w1388-h1110-no?authuser=0"
@@ -1096,6 +1096,17 @@ const getAllGoods = async () => ({
             "description": "Горілка, лікер Triple Sec, лимонний фреш, журавлиний сік",
             "category": "drinks",
            "prices": "50 грн / 110 мл"
+          },
+          {
+            "id": "Джавеліна",
+            "name": "Джавеліна 🇺🇦",
+            "isNew": true,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLV3xidcPdzm81KzBKjq37U1QngASBEPGMogu_7thpDtnosJc8cYXWGSXvpSvuo9vHY6BGeuRlLuje83bexfkbBgrBUfZJHl63gBtiJzoKh03qdgoii9fxEcNsgpna5UA-Ege5iFbFlfijy9M4sYHwxbcA=w641-h895-no?authuser=0"
+            ],
+            "description": "Секретний рецепт кожного українця",
+            "category": "drinks",
+           "prices": "55 грн / 110 мл"
           },
           {
             "id": "Снукер",
@@ -1372,6 +1383,17 @@ const getAllGoods = async () => ({
           //   "category": "drinks",
           //  "prices": "30 грн /50 мл"
           // },
+            {
+            "id": "Слава Україні",
+            "name": "Слава Україні! 🇺🇦",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLVv2zyBjM3XpBnCkETI2Tx5bfIt4xTTnpRKb7rUXDbGZ53dLcdAKZUee_EYv5kSHpeoffxvajPap6ug6jzqG-lpAa8OeLko94okpcfOdhCVVesJo9BU0Lts4OYaZKDYncCu5WonSvjHJuf_6jSXPE3QxQ=w590-h699-no?authuser=0"
+            ],
+            "description": "Героям Слава!",
+            "category": "drinks",
+           "prices": "40 грн / 50 мл"
+          },
           {
             "id": "B-53",
             "name": "B-53  🔞",
