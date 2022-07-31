@@ -10,7 +10,6 @@ export default function Test(props) {
     return (
         <div>
         {allCategories.categories.map(({ name }, index) => (
-      
               <div className="categorii">
                 <Category
                   key={index}

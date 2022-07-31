@@ -8,7 +8,7 @@ export default function Menu(props) {
     currentProducts } = props;
   return (
     <header className="header">
-     {/* <Preloader /> */}
+      {/* <Preloader /> */}
       <span >
         <img
           src="logo.webp"

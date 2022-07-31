@@ -395,9 +395,8 @@ const getAllGoods = async () => ({
           }
         ]
       },
-     
       {
-        "name": "Піцца",
+        "name": "Піца",
         "products": [
           {
             "id": "Pizza Havai",
@@ -406,7 +405,7 @@ const getAllGoods = async () => ({
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLXoqWJm7nlpLlmWHCV80nqlf9Z-GN0SfyBc_4aEm7WhlyqHHORPUaEBPT_23Af-OM5IxRSe8HYsQXuxCueDM7WooHqjHZquIZtAlB_YwCgVHsVaLM9nukOnoG7MXj8NiTSiJqenvz-afJ-K6k2LjrjapQ=w645-h484-no?authuser=0"
             ],
-            "description": "Гаряча піцца з ананасами, курочкою, кукурудзою та шинкою, час приготування 30хв",
+            "description": "Гаряча піца з ананасами, курочкою, кукурудзою та шинкою, час приготування 30хв",
             "category": "pizza",
             "prices": "165 грн"
           },
@@ -417,7 +416,7 @@ const getAllGoods = async () => ({
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLVtuGpBMLvYXN6YixRb1ZA5GiriJgnl9b8hlk96ogM8_BE5spByVRU6vBZLhEVv22W_FWcgar1QzPXI3ZiDE64Zjr9oxfwgbaMrGcG2CwoWIsdxTXLDAbBMc79YtkA8S3C_0nWbFVYB2NkHPSwE7GvFWg=w1388-h1040-no?authuser=0"
             ],
-            "description": "Гаряча піцца з мисливськими ковбасками, грибами та маринованою цибулею та соусом барбекю, час приготування 30хв",
+            "description": "Гаряча піца з мисливськими ковбасками, грибами та маринованою цибулею та соусом барбекю, час приготування 30хв",
             "category": "pizza",
             "prices": "160 грн"
           },
@@ -428,7 +427,7 @@ const getAllGoods = async () => ({
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLVW4aK-a6HnuIzGtjyt9xj_Fw7bsCayYF190I_8eq7KRNSVBW8dUJTY0g8Tcx74zK8Oh5mOyhzkH5nWP1rvI5reMZJOXdVurofEhSrocjlG9E9i2gbSjbMey6C5HOxci8OGnHzo5iAnPsTUubWFCn2p2w=w630-h478-no?authuser=0"
             ],
-            "description": "Гаряча піцца з морепродуктами, час приготування 30хв",
+            "description": "Гаряча піца з морепродуктами, час приготування 30хв",
             "category": "pizza",
             "prices": "180 грн"
           },
@@ -439,7 +438,7 @@ const getAllGoods = async () => ({
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLViXq83y57KCT277mAoA7dVbb509UTkNyGArnK-SNVSs3Db0OsLyzsqfwspss0YZt9Aplsub3P39vVRLGjehIrw98FQJN3wwwY_mZ_zr2XNEodzHqHJVq_0_kapvWmSvY5mKP0H7dklKIh0aiJ56qcaUg=w623-h483-no?authuser=0"
             ],
-            "description": "Гаряча піцца з двома видами ковбаси, грибами та момідорами, час приготування 30хв",
+            "description": "Гаряча піца з двома видами ковбаси, грибами та момідорами, час приготування 30хв",
             "category": "pizza",
             "prices": "155 грн"
           },
@@ -450,7 +449,7 @@ const getAllGoods = async () => ({
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLXyZkqo_mESYcDuxO4RDufREJi6oJ2HbyOjZZsYOIONivWlJfc1sgWqpEYB5k7756nf9fd91WFGwcz9grQJ5r1vcuNUhukHpa8ThS5JnMbTayYbl13RpJS-HgOiEu855iBI3aWzNZQL2OE3FCj3Gua2rA=w638-h489-no?authuser=0"
             ],
-            "description": "Гаряча піцца з 4 видами сиру, горішками та грушею, час приготування 30хв",
+            "description": "Гаряча піца з 4 видами сиру, горішками та грушею, час приготування 30хв",
             "category": "pizza",
             "prices": "160 грн"
           }
@@ -957,8 +956,8 @@ const getAllGoods = async () => ({
         "name": "Напої/коктейлі",
         "products": [
           {
-            "id": "Латте",
-            "name": "Латте",
+            "id": "Лате",
+            "name": "Лате",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLWt4BCbyVjbsyYyJi5I4pMwTTU2rnLA1Q9SyDen0A1Zu7Zpy1blrkrD0mSJDJUwrCGZkJQYTnzDKTdjGRHYEhxmqDGXUhAu0fYEF1hXon0ghB-YmNQ46txmblQlISS6j8_B9MTdBm3zr__voNAIAhZA-w=w1086-h1052-no?authuser=0"
@@ -979,8 +978,8 @@ const getAllGoods = async () => ({
            "prices": "14 грн / 180 мл, 17 грн / 180 мл"
           },
           {
-            "id": "Капучіно",
-            "name": "Капучіно",
+            "id": "Капучино",
+            "name": "Капучино",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLV8uV482k0s49OyP-jBznGpIJCmfZ6lQFbdp1ND1bKeEKxwdzm-0NWD1GG-CpFTkt52qANaaZ7KIeGOgHau8660noBBmh50yyT9xIymvf0shASRkTY6Y8oF9ndPvBnl_1poqO5EzZZvPh71Gq9Ch9CJdg=w1182-h1192-no?authuser=0"
@@ -989,8 +988,8 @@ const getAllGoods = async () => ({
             "category": "drinks",
            "prices": "22 грн / 250 мл, 27 грн / 350 мл"
           },{
-            "id": "Еспрессо",
-            "name": "Еспрессо",
+            "id": "Еспресо",
+            "name": "Еспресо",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLUH_JgUmRYlfge9CNRErdcvhPCRwLJVbswkV9wMGLYqnKWD32-dI6lqJX9PbFErZNa6rI42z5f1m4JC4sxkOre52mtt4YYTkQnHwoAxEyxiwAKUCoiRsV-NHL9VsXQDj6js4v5hwHZCouFgs5CXu7fkIQ=w720-h626-no?authuser=0"
@@ -1010,8 +1009,8 @@ const getAllGoods = async () => ({
            "prices": "10 грн / 250 мл"
           },
           {
-            "id": "Айс Латте",
-            "name": "Айс Латте",
+            "id": "Айс Лате",
+            "name": "Айс Лате",
             "isNew": true,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLXTOMddA0gxNX9-n31BBQA4vKnl1c-S4q4nB_YnCZw_KItlspzGAHII-lyo4bDmlVi2Xzk8SU7IkXn75Q6PBw6VpJ72oxPN_RqXPWG6gia5ZDvNeqE6EcX95HvfC_vCWpkvk-ykaqDerW37sLb67sEbzA=w634-h738-no?authuser=0"
@@ -1021,8 +1020,8 @@ const getAllGoods = async () => ({
            "prices": "30 грн / 270 мл"
           },
           {
-            "id": "Еспрессо Тонік",
-            "name": "Еспрессо Тонік",
+            "id": "Еспресо Тонік",
+            "name": "Еспресо Тонік",
             "isNew": true,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLW3SJLBQRMCYIRApc7O7MzyMs6TfdqHP2X3KQb6oefq9q-xp2wXVv7J360LLEZDAbK08DuVWmVrukevj48IyFHPXG7dq754m_5_qfI7p9da-ziP-iOQzeeibgXJgyCQBJNhlO42e2s3XbUm2ykaM4jnZg=w794-h956-no?authuser=0"
