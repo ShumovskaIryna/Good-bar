@@ -964,7 +964,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "drinks",
-           "prices": "22 грн / 250 мл, 27 грн / 350 мл"
+           "prices": "24 грн / 250 мл, 28 грн / 350 мл"
           },
           {
             "id": "Американо",
@@ -975,7 +975,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "drinks",
-           "prices": "14 грн / 180 мл, 17 грн / 180 мл"
+           "prices": "18 грн / 180 мл, 20 грн / 180 мл"
           },
           {
             "id": "Капучино",
@@ -996,7 +996,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "drinks",
-           "prices": "12 грн / 110 мл"
+           "prices": "18 грн / 110 мл"
           },{
             "id": "Чай Greenfield в асортименті",
             "name": "Чай Greenfield в асортименті",
@@ -1006,7 +1006,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "drinks",
-           "prices": "10 грн / 250 мл"
+           "prices": "15 грн / 250 мл"
           },
           {
             "id": "Айс Лате",
@@ -1017,7 +1017,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Лате та лід",
             "category": "drinks",
-           "prices": "30 грн / 270 мл"
+           "prices": "30 грн / 200 мл"
           },
           {
             "id": "Еспресо Тонік",
@@ -1026,9 +1026,9 @@ const getAllGoods = async () => ({
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLW3SJLBQRMCYIRApc7O7MzyMs6TfdqHP2X3KQb6oefq9q-xp2wXVv7J360LLEZDAbK08DuVWmVrukevj48IyFHPXG7dq754m_5_qfI7p9da-ziP-iOQzeeibgXJgyCQBJNhlO42e2s3XbUm2ykaM4jnZg=w794-h956-no?authuser=0"
             ],
-            "description": "Тонік, сік лимонний, сироп лайма, сік апельсиновий",
+            "description": "Тонік, еспресо, сік лимонний, сироп лайма, сік апельсиновий",
             "category": "drinks",
-           "prices": "40 грн / 270 мл"
+           "prices": "40 грн / 280 мл"
           },
            {
             "id": "Мілк Шейк в асортименті",
@@ -1061,7 +1061,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "drinks",
-           "prices": "34 грн / 1 л"
+           "prices": "36 грн / 1 л"
           },
            {
             "id": "Tropical beer",
@@ -1070,9 +1070,9 @@ const getAllGoods = async () => ({
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLXiTGkFBsifmLQAjwgtEAQRzoJY0B0yWrPsjRiwlLoHGFgth31iaqqJRcPdcjSLBDNim41OfZ8M73hrY1aNM7zKOzm7sJNI3W2PwJ0F-bYV1b9IfonzB8hlUWTU9RMRYTHrgpvOjGSBbhQndYoDU9pjBg=w639-h766-no?authuser=0"
             ],
-            "description": "",
+            "description": "Пиво, ананасовий,кокосовий сиропи,апельсиновий сік",
             "category": "drinks",
-           "prices": "35 грн / 0.5 л"
+           "prices": "45 грн / 350 мл"
           },
            {
             "id": "Пиво Obolon /Lvivske1715 / Lvivske / Kronenbourg",
@@ -1105,7 +1105,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Секретний рецепт кожного українця",
             "category": "drinks",
-           "prices": "55 грн / 110 мл"
+           "prices": "55 грн / 330 мл"
           },
           {
             "id": "Снукер",
@@ -1116,7 +1116,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Горілка, лікер Melon, сироп Caramel, журавлиновий морс",
             "category": "drinks",
-           "prices": "50 грн / 180 мл"
+           "prices": "55 грн / 170 мл"
           },
           {
             "id": "Секс на пляжі",
@@ -1138,7 +1138,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Ром світлий, сироп Pina Colada, ананасовий сік",
             "category": "drinks",
-           "prices": "60 грн / 150 мл"
+           "prices": "55 грн / 150 мл"
           },
           {
             "id": "Рожевий лимонад",
@@ -1171,7 +1171,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Лікер Curacao, Лимонний фреш, содова",
             "category": "drinks",
-           "prices": "60 грн / 200 мл"
+           "prices": "50 грн / 200 мл"
           },
           {
             "id": "Лонг айленд",
@@ -1182,7 +1182,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Ром, джин, текіла, горілка, апельсиновий сік, лимонний фреш, кола",
             "category": "drinks",
-           "prices": "60 грн / 190 мл"
+           "prices": "65 грн / 190 мл"
           },
           {
             "id": "Камікадзе",
@@ -1226,7 +1226,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Горілка, лікер Triple Sec, сироп диня, апельсиновий сік, лимонний сік, содова",
             "category": "drinks",
-           "prices": "50 грн / 180 мл"
+           "prices": "55 грн / 180 мл"
           },
           {
             "id": "Джангл Джус",
@@ -1270,7 +1270,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Апероль, апельсиновий сік",
             "category": "drinks",
-           "prices": "50 грн / 100 мл"
+           "prices": "70 грн / 250 мл"
           },
           {
             "id": "Челсі сайдкар",
@@ -1281,7 +1281,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Джин, лікер Triple Sec, лимонний сік",
             "category": "drinks",
-           "prices": "40 грн / 60 мл"
+           "prices": "45 грн / 60 мл"
           },
           {
             "id": "Синій понеділок",
@@ -1303,7 +1303,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Бренді, лікер Curacao, лимонний сік",
             "category": "drinks",
-           "prices": "45 грн / 90 мл"
+           "prices": "50 грн / 90 мл"
           },
              {
             "id": "Самбука Ларнака",
@@ -1314,7 +1314,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Самбука, лікер Triple Sec, апельсиновий сік",
             "category": "drinks",
-           "prices": "50 грн / 150 мл"
+           "prices": "55 грн / 150 мл"
           },
           {
             "id": "Бажання Анни",
@@ -1347,7 +1347,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Джин, лікер Triple Sec, солодкий вермут, ананасовий сік",
             "category": "drinks",
-           "prices": "45 грн / 135 мл"
+           "prices": "50 грн / 135 мл"
           } ,
           {
             "id": "Біла леді",
@@ -1358,7 +1358,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Джин, лікер Triple Sec, лимонний сік",
             "category": "drinks",
-           "prices": "35 грн / 100 мл"
+           "prices": "50 грн / 100 мл"
           },
           // {
           //   "id": "Брендбар",
@@ -1391,7 +1391,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Героям Слава!",
             "category": "drinks",
-           "prices": "40 грн / 50 мл"
+           "prices": "45 грн / 50 мл"
           },
           {
             "id": "B-53",
@@ -1402,7 +1402,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Шот - Абсент, крем лікер Via Lattea, лікер Creme de cafe",
             "category": "drinks",
-           "prices": "40 грн / 50 мл"
+           "prices": "45 грн / 50 мл"
           },
           {
             "id": "Хіросіма",
