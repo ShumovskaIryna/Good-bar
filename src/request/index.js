@@ -1413,7 +1413,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Абсент Vincent, Крем-лікер Via Lattea, Самбука Ibiza, сироп Grenadine",
             "category": "drinks",
-           "prices": "40 грн / 50 мл"
+           "prices": "45 грн / 50 мл"
           },{
             "id": "Зелений мексиканець",
             "name": "Зелений мексиканець  🔞",
@@ -1423,7 +1423,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Текіла, лимонний фреш, лікер Pisang",
             "category": "drinks",
-           "prices": "40 грн / 50 мл"
+           "prices": "45 грн / 50 мл"
           }
         ]
       },
