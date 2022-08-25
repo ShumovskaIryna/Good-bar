@@ -29,7 +29,7 @@ const getAllGoods = async () => ({
           },
           {
             "id": "Брускети з паштетом",
-            "name": "Брускети з паштетом та карамелізованою цибулею",
+            "name": "Брускети з паштетом",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLVdVsgTeYvJkolUe52LbJV8_0Rhmj3TI2Rh5nAqFMTKU4PM1qy9rokm3Q5U2V-XVrdG0gGgrXxiSuVOEGGU4lfP5_QEYVUitKHvLzczvi1pNZmgGSV77laKalpb9ZAvkXq3w9cGQ4-wuXML-oSXW8T2Tg=w1388-h1190-no?authuser=0"
@@ -464,7 +464,7 @@ const getAllGoods = async () => ({
           {
             "id": "Картопляна Пюрешка мишеня",
             "name": "Картопляна Пюрешка мишеня",
-            "isNew": true,
+            "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLWjh-8beF2q4Pd5Aj940dEnSoCi5hElBG7RBz5BX4kF6WOb9pFiJxmHUSMN017V9gMV-gXuGRJN7qES2rV4XKKyvkDlgoRR8jI55HLBE4G8x074WMEEnyfWQf1JGONWSQ34huHTVsxF8pDo8f48Bl_jmw=w919-h820-no?authuser=0"
             ],
@@ -475,7 +475,7 @@ const getAllGoods = async () => ({
           {
             "id": "Котлетки на пару курячі",
             "name": "Котлетки на пару курячі",
-            "isNew": true,
+            "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLVWPUg8fz_EC8zkfvDfRczwt1VqUuTO0x_9XehBaEfb6bqKIvaOoqyuPABw0M0lvH2W_sNpBURHDDOntLLJqX7dIN8ZUKNcKK4aHkyTX3a_IcoPkRzqI-XnaIzFuMdUDyz2OFQiBGjHUwZ9vMex4e10aw=w1448-h1114-no?authuser=0"
             ],
@@ -486,7 +486,7 @@ const getAllGoods = async () => ({
           {
              "id": "Кольорові макарошки з сиром",
             "name": "Кольорові макарошки з сиром моцарелла",
-            "isNew": true,
+            "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLXkNys9PGv5yiFSSjLonfeMVgPPLQutFWRsTKDnJI4tAsVJJLOWxjAYC-fGCfMGclCMRKBanYe9bue-3YZbBkKuDV-Jcw6uS_RvZjAwbcG8JsvFRYOelDj2zklSO3cqufLBJ6hS7ma8-s0Vh1tlpZsDBw=w1262-h842-no?authuser=0"
             ],
@@ -497,7 +497,7 @@ const getAllGoods = async () => ({
           {
            "id": "Міні шашличок курячий",
           "name": "Міні шашличок курячий",
-          "isNew": true,
+          "isNew": false,
           "gallery": [
             "https://lh3.googleusercontent.com/pw/AM-JKLV-lRHM7QpXqNHGItKztsVrWJ3CsBJBX0SfP5s2qlj856Kp1kTQUKJdCkZgY7ZpS6kOg4WNf7ulgSYLIYsP5slx08HC7e1wK1b-hJpN7eamfs7h7kD2CCdydPlxjDr_P-scWrAY7vVIc6WNmyDe6zWkZw=w1117-h923-no?authuser=0"
           ],
@@ -508,7 +508,7 @@ const getAllGoods = async () => ({
           {
             "id": "BABY морковка",
             "name": "BABY морковка (на пару)",
-            "isNew": true,
+            "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLWT-fU52g7Reyf3RnHHgRxTKATgTTUNwu1vNNxKBelCwJ4RN8ljMMzftGDCbJHWhzdiklsQJHWB0_ATj3mMl-wB38UqgKq_QLw7UD_ROwVOVwFdLDunuZNOi4AiQC-W8y9AkqSWdQIeZDZ4nwWNSQn31Q=w857-h663-no?authuser=0"
             ],
@@ -519,7 +519,7 @@ const getAllGoods = async () => ({
             {
              "id": "Рис з овочами",
             "name": "Рис з овочами",
-            "isNew": true,
+            "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLW2q3kXHL0FXBjkH8dBFEyLZwws6-GLImK0sGXFsuyqY01W6IsEDPEqCGJ8wPGW6LZsgNfsZ-sU_P6rs7AVEAvU0WoWvZDr5swcrGBrc9SlXg66n3kCDlcscIbqq1YB3mJVQ9wtiJx8O_zazB90l1aEWg=w563-h442-no?authuser=0"
             ],
@@ -530,7 +530,7 @@ const getAllGoods = async () => ({
              {
              "id": "Какао",
             "name": "Какао",
-            "isNew": true,
+            "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLW8RNbh50ykmBwpsPtIa_1WoSZL2XZTyDfadxU6vXEEer0xRwOFjGv-IRxaj7Zfw6rSpYbDAqrjG3j6uNgfBqO0CyzQGNHDbZmRz9lzksf5DZ2yGgZN_FDWKP-ND9CGtY42QJvYI4MDzHf4PVZ3pd1PVQ=w1051-h1038-no?authuser=0"
             ],
@@ -541,7 +541,7 @@ const getAllGoods = async () => ({
           {
            "id": "Мілк Шейк в асортименті",
            "name": "Мілк Шейк в асортименті",
-           "isNew": true,
+           "isNew": false,
            "gallery": [
              "https://lh3.googleusercontent.com/pw/AM-JKLXrYc8SXPBKVb-wYL87MfSXE-p3kZ-ar7Nl7F7WQs_PqP4zpAytce4UB-mdHIyyoRsuxwCTTJA_PGo_JB0bZCPeU1hT6qiCrQHeUBS4W6w6A_jgUWmcILAZBxUxS-uQN7708Tx7GiS0xkDckanTYe2M0g=w549-h628-no?authuser=0"
            ],
@@ -756,7 +756,7 @@ const getAllGoods = async () => ({
             "isNew": false,
           "isPreOrder": true,
           "gallery": [
-            ""
+            "pre.webp"
           ],
           "description": "",
           "category": "pre-order",
@@ -921,9 +921,10 @@ const getAllGoods = async () => ({
           {
            "id": "Шашлик з свинини",
           "name": "Шашлик з свинини",
-          "isNew": true,
+          "isNew": false,
           "isPreOrder": true,
           "gallery": [
+            "pre.webp"
           ],
           "description": "",
           "category": "kids",
@@ -933,7 +934,7 @@ const getAllGoods = async () => ({
           {
            "id": "Шашлик з курятини",
           "name": "Шашлик з курятини",
-          "isNew": true,
+          "isNew": false,
           "isPreOrder": true,
           "gallery": [
             "https://lh3.googleusercontent.com/pw/AM-JKLV-lRHM7QpXqNHGItKztsVrWJ3CsBJBX0SfP5s2qlj856Kp1kTQUKJdCkZgY7ZpS6kOg4WNf7ulgSYLIYsP5slx08HC7e1wK1b-hJpN7eamfs7h7kD2CCdydPlxjDr_P-scWrAY7vVIc6WNmyDe6zWkZw=w1117-h923-no?authuser=0"
@@ -1006,7 +1007,7 @@ const getAllGoods = async () => ({
           {
             "id": "Пана-кота",
             "name": "Пана-кота",
-            "isNew": true,
+            "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLULU8A7oW1C_wcPhMY0h9NoNoQQb-bLqH_q5-8NSB_PsgSPI4n-9LKSmtZkMIFCLFrU_QMGWs-Nipsf0105CTErR2PG_DIsQxd1IJkZTAjc3LKJnuZkqgGn2Bz4WwZsnPh9IEWpYw9NYF6OD1CGIeCYGg=w904-h768-no?authuser=0"
             ],
@@ -1086,7 +1087,7 @@ const getAllGoods = async () => ({
           {
             "id": "Айс Лате",
             "name": "Айс Лате",
-            "isNew": true,
+            "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLXTOMddA0gxNX9-n31BBQA4vKnl1c-S4q4nB_YnCZw_KItlspzGAHII-lyo4bDmlVi2Xzk8SU7IkXn75Q6PBw6VpJ72oxPN_RqXPWG6gia5ZDvNeqE6EcX95HvfC_vCWpkvk-ykaqDerW37sLb67sEbzA=w634-h738-no?authuser=0"
             ],
@@ -1097,7 +1098,7 @@ const getAllGoods = async () => ({
           {
             "id": "Еспресо Тонік",
             "name": "Еспресо Тонік",
-            "isNew": true,
+            "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLW3SJLBQRMCYIRApc7O7MzyMs6TfdqHP2X3KQb6oefq9q-xp2wXVv7J360LLEZDAbK08DuVWmVrukevj48IyFHPXG7dq754m_5_qfI7p9da-ziP-iOQzeeibgXJgyCQBJNhlO42e2s3XbUm2ykaM4jnZg=w794-h956-no?authuser=0"
             ],
@@ -1108,7 +1109,7 @@ const getAllGoods = async () => ({
            {
             "id": "Мілк Шейк в асортименті",
             "name": "Мілк Шейк в асортименті",
-            "isNew": true,
+            "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLXrYc8SXPBKVb-wYL87MfSXE-p3kZ-ar7Nl7F7WQs_PqP4zpAytce4UB-mdHIyyoRsuxwCTTJA_PGo_JB0bZCPeU1hT6qiCrQHeUBS4W6w6A_jgUWmcILAZBxUxS-uQN7708Tx7GiS0xkDckanTYe2M0g=w549-h628-no?authuser=0"
             ],
@@ -1361,7 +1362,7 @@ const getAllGoods = async () => ({
           {
            "id": "Tropical beer",
            "name": "Tropical beer 🔞",
-           "isNew": true,
+           "isNew": false,
            "gallery": [
              "https://lh3.googleusercontent.com/pw/AM-JKLXiTGkFBsifmLQAjwgtEAQRzoJY0B0yWrPsjRiwlLoHGFgth31iaqqJRcPdcjSLBDNim41OfZ8M73hrY1aNM7zKOzm7sJNI3W2PwJ0F-bYV1b9IfonzB8hlUWTU9RMRYTHrgpvOjGSBbhQndYoDU9pjBg=w639-h766-no?authuser=0"
            ],
