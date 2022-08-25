@@ -1555,7 +1555,6 @@ const getAllGoods = async () => ({
   }
 
 });
-
 const getAllCurrency = async () => ({
 })
 const getAllCategories = async () => ({
@@ -1572,7 +1571,6 @@ const getAllCategories = async () => ({
     ]
   }
 })
-
 export {
   getAllGoods,
   getAllCurrency,
