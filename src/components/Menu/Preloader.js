@@ -14,25 +14,13 @@ import React from 'react';
 // }
 export default function Preloader() {
   return (
-      <div className="preloader" id="page-preloader">
-        <div className="loader" id="loader">
-          <img
-            src="buk.webp"
-            className="buk"
-          alt="buk"
-          />
-          <img
-            src="dum1.webp"
-            className="dum1"
-          alt="Dum1"
-          />
-          <img
-            src="dum2.webp"
-            className="dum2"
-           alt="Dum2"
-        />
-        {/* <p className="alarm">Якщо бичок не зник - обнови сторінку ще раз</p> */}
-        </div>
+    <div className="preloader" id="page-preloader">
+      <div className="loader" id="loader">
+        <img src="buk.webp" className="buk" alt="buk"/>
+        <img src="dum1.webp" className="dum1" alt="Dum1"/>
+        <img src="dum2.webp" className="dum2" alt="Dum2"/>
+      {/* <p className="alarm">Якщо бичок не зник - обнови сторінку ще раз</p> */}
       </div>
+    </div>
   );
 }
