@@ -1,5 +1,4 @@
 const getAllGoods = async () => ({
-
   "data": {
     "categories": [
       {
@@ -357,7 +356,7 @@ const getAllGoods = async () => ({
             "description": "",
             "category": "pre-order",
             "prices": "100 грн / 650 грам"
-      },
+          },
           // {
           //   "id": "Мойва фрі",
           //   "name": "Мойва фрі",
@@ -458,7 +457,7 @@ const getAllGoods = async () => ({
           }
         ]
       },
-         {
+      {
         "name": "Дитяче меню",
         "products": [
           {
@@ -495,16 +494,16 @@ const getAllGoods = async () => ({
             "prices": "35 грн / 150 грам"
           },
           {
-           "id": "Міні шашличок курячий",
-          "name": "Міні шашличок курячий",
-          "isNew": false,
-          "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLV-lRHM7QpXqNHGItKztsVrWJ3CsBJBX0SfP5s2qlj856Kp1kTQUKJdCkZgY7ZpS6kOg4WNf7ulgSYLIYsP5slx08HC7e1wK1b-hJpN7eamfs7h7kD2CCdydPlxjDr_P-scWrAY7vVIc6WNmyDe6zWkZw=w1117-h923-no?authuser=0"
-          ],
-          "description": "",
-          "category": "kids",
-          "prices": "35 грн / 100 грам"
-        },
+            "id": "Міні шашличок курячий",
+            "name": "Міні шашличок курячий",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLV-lRHM7QpXqNHGItKztsVrWJ3CsBJBX0SfP5s2qlj856Kp1kTQUKJdCkZgY7ZpS6kOg4WNf7ulgSYLIYsP5slx08HC7e1wK1b-hJpN7eamfs7h7kD2CCdydPlxjDr_P-scWrAY7vVIc6WNmyDe6zWkZw=w1117-h923-no?authuser=0"
+            ],
+            "description": "",
+            "category": "kids",
+            "prices": "35 грн / 100 грам"
+          },
           {
             "id": "BABY морковка",
             "name": "BABY морковка (на пару)",
@@ -516,8 +515,8 @@ const getAllGoods = async () => ({
             "category": "kids",
             "prices": "27 грн / 100 грам"
           },
-            {
-             "id": "Рис з овочами",
+          {
+            "id": "Рис з овочами",
             "name": "Рис з овочами",
             "isNew": false,
             "gallery": [
@@ -527,8 +526,8 @@ const getAllGoods = async () => ({
             "category": "kids",
             "prices": "25 грн / 150 грам"
           },
-             {
-             "id": "Какао",
+          {
+            "id": "Какао",
             "name": "Какао",
             "isNew": false,
             "gallery": [
@@ -539,16 +538,16 @@ const getAllGoods = async () => ({
             "prices": "28 грн / 250 мл"
           },
           {
-           "id": "Мілк Шейк в асортименті",
-           "name": "Мілк Шейк в асортименті",
-           "isNew": false,
-           "gallery": [
-             "https://lh3.googleusercontent.com/pw/AM-JKLXrYc8SXPBKVb-wYL87MfSXE-p3kZ-ar7Nl7F7WQs_PqP4zpAytce4UB-mdHIyyoRsuxwCTTJA_PGo_JB0bZCPeU1hT6qiCrQHeUBS4W6w6A_jgUWmcILAZBxUxS-uQN7708Tx7GiS0xkDckanTYe2M0g=w549-h628-no?authuser=0"
-           ],
-           "description": "Молочний коктейль",
-           "category": "drinks",
-          "prices": "45 грн / 270 мл"
-         },
+            "id": "Мілк Шейк в асортименті",
+            "name": "Мілк Шейк в асортименті",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLXrYc8SXPBKVb-wYL87MfSXE-p3kZ-ar7Nl7F7WQs_PqP4zpAytce4UB-mdHIyyoRsuxwCTTJA_PGo_JB0bZCPeU1hT6qiCrQHeUBS4W6w6A_jgUWmcILAZBxUxS-uQN7708Tx7GiS0xkDckanTYe2M0g=w549-h628-no?authuser=0"
+            ],
+            "description": "Молочний коктейль",
+            "category": "drinks",
+            "prices": "45 грн / 270 мл"
+          },
         ]
       },
       {
@@ -580,24 +579,25 @@ const getAllGoods = async () => ({
         "name": "Салати",
         "products": [ 
           {
-          "id": "Салат цезар",
-          "name": "Салат цезар з куркою",
-          "isNew": false,
-          "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLVtzC9Jx9Y7fOn6baDBSeKPFdnGj3uw2dxW_KM_tQVQlEGVENt_JLA9ybsP_OZVn5zFQhoZcFHymezMrnRn3_JC00F5qIMhh4f5-wxD8yP-rnZPGVYXC1RiMG24nxx0Y0SFFvgohNh9QrUbBbPkcZB2nQ=w1122-h763-no?authuser=0"],
-          "description": "Салат з листям салату Айзберг, помідорами, сиром пармезан, куркою, яйцями та соусом Цезар",
-          "category": "salad",
-          "prices": "125 грн / 280 грам"
-        }, {
-          "id": "Салат цезар з креветками",
-          "name": "Салат цезар з креветками",
-          "isNew": false,
-          "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLW0fiwb4AvHZGZJJ32HhhJW3jNYP5mEUW4pSKjTaJQoYomqLJqebbfAVN_B3SrYCzrGDteXntW4VXOE8546S85gffxq-yPd-XkG2LpdMyB4Oxe0vINx4B9PZwzmWbV1SlgmaAlfFO0UEbuCb1-gEJdQEw=w1385-h948-no?authuser=0"],
-          "description": "З листям салату Айзберг, помідорами, сиром пармезан, криветками, яйцями та соєво-гірчичним соусом",
-          "category": "salad",
-          "prices": "150 грн / 280 грам"
-        },
+            "id": "Салат цезар",
+            "name": "Салат цезар з куркою",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLVtzC9Jx9Y7fOn6baDBSeKPFdnGj3uw2dxW_KM_tQVQlEGVENt_JLA9ybsP_OZVn5zFQhoZcFHymezMrnRn3_JC00F5qIMhh4f5-wxD8yP-rnZPGVYXC1RiMG24nxx0Y0SFFvgohNh9QrUbBbPkcZB2nQ=w1122-h763-no?authuser=0"],
+            "description": "Салат з листям салату Айзберг, помідорами, сиром пармезан, куркою, яйцями та соусом Цезар",
+            "category": "salad",
+            "prices": "125 грн / 280 грам"
+          }, 
+          {
+            "id": "Салат цезар з креветками",
+            "name": "Салат цезар з креветками",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLW0fiwb4AvHZGZJJ32HhhJW3jNYP5mEUW4pSKjTaJQoYomqLJqebbfAVN_B3SrYCzrGDteXntW4VXOE8546S85gffxq-yPd-XkG2LpdMyB4Oxe0vINx4B9PZwzmWbV1SlgmaAlfFO0UEbuCb1-gEJdQEw=w1385-h948-no?authuser=0"],
+            "description": "З листям салату Айзберг, помідорами, сиром пармезан, криветками, яйцями та соєво-гірчичним соусом",
+            "category": "salad",
+            "prices": "150 грн / 280 грам"
+          },
           {
             "id": "Грецький салат",
             "name": "Грецький салат",
@@ -663,7 +663,8 @@ const getAllGoods = async () => ({
             "description": "Ароматний, соковитий стейк з свинної корейки середньої прожарки",
             "category": "meat",
             "prices": "45 грн / 100 грам"
-          }, {
+          }, 
+          {
             "id": "Стейк курячий",
             "name": "Стейк курячий",
             "isNew": false,
@@ -688,9 +689,9 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "pre-order",
-           "prices": "250 грн / кг"
+            "prices": "250 грн / кг"
           },
-           {
+          {
             "id": "Салантай",
             "name": "Салантай",
              "isNew": false,
@@ -700,21 +701,21 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "pre-order",
-           "prices": "280 грн / кг"
+            "prices": "280 грн / кг"
           },
           {
-          "id": "Печінковий рулет",
-          "name": "Печінковий рулет",
-            "isNew": false,
-          "isPreOrder": true,
-          "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLVAJwUWZEWefpK8waL2IGM08ZEYCRr95lgS0FAR5VsKKMZOBqhOVsqfY7SoeN3Bn5gTNbr9ki-r-KbSrcrj7t_pen557IZ8lXLljT94KosnFyb8sZFazTHcJTFt2Lstw0MnkUul1WO6A9uHt2u2EIXG_g=w832-h702-no?authuser=0"
-          ],
-          "description": "",
-          "category": "pre-order",
-         "prices": "100 грн / 300 грам"
-            },
-             {
+            "id": "Печінковий рулет",
+            "name": "Печінковий рулет",
+              "isNew": false,
+            "isPreOrder": true,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLVAJwUWZEWefpK8waL2IGM08ZEYCRr95lgS0FAR5VsKKMZOBqhOVsqfY7SoeN3Bn5gTNbr9ki-r-KbSrcrj7t_pen557IZ8lXLljT94KosnFyb8sZFazTHcJTFt2Lstw0MnkUul1WO6A9uHt2u2EIXG_g=w832-h702-no?authuser=0"
+            ],
+            "description": "",
+            "category": "pre-order",
+            "prices": "100 грн / 300 грам"
+          },
+          {
             "id": "Домашня ковбаса",
             "name": "Домашня ковбаса",
                "isNew": false,
@@ -724,9 +725,9 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "pre-order",
-           "prices": "300 грн / кг"
+            "prices": "300 грн / кг"
           },
-                {
+          {
             "id": "Домашні голубці",
             "name": "Домашні голубці",
             "isNew": false,
@@ -736,9 +737,9 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "pre-order",
-           "prices": "55 грн / 300 грам"
+            "prices": "55 грн / 300 грам"
           },
-            {
+          {
             "id": "Заливний язик",
             "name": "Заливний язик",
               "isNew": false,
@@ -748,21 +749,21 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "pre-order",
-           "prices": "120 грн / 350 грам"
+            "prices": "120 грн / 350 грам"
           },
           {
-          "id": "Заливна риба з морепродуктами",
-          "name": "Заливна риба з морепродуктами",
+            "id": "Заливна риба з морепродуктами",
+            "name": "Заливна риба з морепродуктами",
             "isNew": false,
-          "isPreOrder": true,
-          "gallery": [
-            "pre.webp"
-          ],
-          "description": "",
-          "category": "pre-order",
-         "prices": "250 грн"
-        },
-            {
+            "isPreOrder": true,
+            "gallery": [
+              "pre.webp"
+            ],
+            "description": "",
+            "category": "pre-order",
+            "prices": "250 грн"
+          },
+          {
             "id": "Котлета делікатесна",
             "name": "Котлета делікатесна",
             "isNew": false,
@@ -772,9 +773,9 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "pre-order",
-           "prices": "35 грн / шт"
+            "prices": "35 грн / шт"
           },
-            {
+          {
             "id": "Теплий салат з курячою печінкою",
             "name": "Теплий салат з курячою печінкою",
             "isNew": false,
@@ -786,7 +787,7 @@ const getAllGoods = async () => ({
             "category": "pre-order",
            "prices": "120 грн / 280 грам"
           },
-            {
+          {
             "id": "Салат Байден",
             "name": "Салат Байден",
             "isNew": false,
@@ -796,9 +797,9 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "pre-order",
-           "prices": "120 грн / 300 грам"
+            "prices": "120 грн / 300 грам"
           },
-             {
+          {
             "id": "Салат Гніздо Глухаря",
             "name": "Салат Гніздо Глухаря",
             "isNew": false,
@@ -808,9 +809,9 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "pre-order",
-           "prices": "130 грн / 500 грам"
+            "prices": "130 грн / 500 грам"
           },
-             {
+          {
             "id": "Перепілка гриль",
             "name": "Перепілка гриль",
             "isNew": false,
@@ -845,8 +846,8 @@ const getAllGoods = async () => ({
             "description": "",
             "category": "pre-order",
             "prices": "90 грн / 650 грам"
-      },
-              {
+          },
+          {
             "id": "Медальйони під вишневим соусом",
             "name": "Медальйони під вишневим соусом",
             "isNew": false,
@@ -856,21 +857,21 @@ const getAllGoods = async () => ({
             ],
             "description": "Соковиті медальйони з свинної вирізки з додаванням кисло-солодкого соусу з вишень",
             "category": "pre-order",
-           "prices": "140 грн / 300 грам"
+            "prices": "140 грн / 300 грам"
           },
           {
-          "id": "Курча табака",
-          "name": "Курча табака гриль",
-           "isNew": false,
-          "isPreOrder": true,
-          "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLXIHUKn9G2WndNTrPr-Q7q7MiOJeKGMd-BVzN2ZzUnB90xm616vEOCMZrMcg-Gc1cr62_d0Bt9kYIQdiGSIgsgvV878JzHaQfuoN6pfPJR_L4vGmjpFzTbd-ly4yLuvoaRT5wx46sZ5CoXDuCGHl6-MOA=w1124-h711-no?authuser=0"
-          ],
-          "description": "",
-          "category": "pre-order",
-         "prices": "130 грн / шт"
-        },
-             {
+            "id": "Курча табака",
+            "name": "Курча табака гриль",
+            "isNew": false,
+            "isPreOrder": true,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLXIHUKn9G2WndNTrPr-Q7q7MiOJeKGMd-BVzN2ZzUnB90xm616vEOCMZrMcg-Gc1cr62_d0Bt9kYIQdiGSIgsgvV878JzHaQfuoN6pfPJR_L4vGmjpFzTbd-ly4yLuvoaRT5wx46sZ5CoXDuCGHl6-MOA=w1124-h711-no?authuser=0"
+            ],
+            "description": "",
+            "category": "pre-order",
+            "prices": "130 грн / шт"
+          },
+          {
             "id": "Курячий бульйон",
             "name": "Курячий бульйон",
             "isNew": false,
@@ -883,18 +884,18 @@ const getAllGoods = async () => ({
            "prices": "40 грн / 300 грам"
           },
           {
-         "id": "Солянка",
-         "name": "Солянка",
-         "isNew": false,
-         "isPreOrder": true,
-         "gallery": [
-           "https://lh3.googleusercontent.com/pw/AM-JKLXs8-zjUGUcFQ16EDiyGvUAl7V1zNdSFKHFjMUqw93pN5f-ENNY4LyKQ5qyh_wy3LRnWoeoF0B-fLDgP7ewvzPK4wYr1H4bmM-uXKD-HckkrrkFOsNgn7LBw6WhUjamqxFz3CnSuNkAzzIh4SVK5zst5w=w1302-h734-no?authuser=0"
-         ],
-         "description": "",
-         "category": "pre-order",
-        "prices": "65 грн / 350 грам"
-       },
-              {
+            "id": "Солянка",
+            "name": "Солянка",
+            "isNew": false,
+            "isPreOrder": true,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLXs8-zjUGUcFQ16EDiyGvUAl7V1zNdSFKHFjMUqw93pN5f-ENNY4LyKQ5qyh_wy3LRnWoeoF0B-fLDgP7ewvzPK4wYr1H4bmM-uXKD-HckkrrkFOsNgn7LBw6WhUjamqxFz3CnSuNkAzzIh4SVK5zst5w=w1302-h734-no?authuser=0"
+            ],
+            "description": "",
+            "category": "pre-order",
+            "prices": "65 грн / 350 грам"
+          },
+          {
             "id": "Уха з коропа",
             "name": "Уха з коропа",
             "isNew": false,
@@ -904,9 +905,9 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "pre-order",
-           "prices": "30 грн / 300 грам"
+            "prices": "30 грн / 300 грам"
           },
-               {
+          {
             "id": "Уха з червоною рибою та вершками",
             "name": "Уха з червоною рибою та вершками",
             "isNew": false,
@@ -916,33 +917,32 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "pre-order",
-           "prices": "40 грн / 300 грам"
+            "prices": "40 грн / 300 грам"
           },
           {
-           "id": "Шашлик з свинини",
-          "name": "Шашлик з свинини",
-          "isNew": false,
-          "isPreOrder": true,
-          "gallery": [
-            "pre.webp"
-          ],
-          "description": "",
-          "category": "kids",
-          "prices": "50 грн / 100 грам"
-        },
-        ,
+            "id": "Шашлик з свинини",
+            "name": "Шашлик з свинини",
+            "isNew": false,
+            "isPreOrder": true,
+            "gallery": [
+              "pre.webp"
+            ],
+            "description": "",
+            "category": "kids",
+            "prices": "50 грн / 100 грам"
+          },
           {
-           "id": "Шашлик з курятини",
-          "name": "Шашлик з курятини",
-          "isNew": false,
-          "isPreOrder": true,
-          "gallery": [
-            "https://lh3.googleusercontent.com/pw/AM-JKLV-lRHM7QpXqNHGItKztsVrWJ3CsBJBX0SfP5s2qlj856Kp1kTQUKJdCkZgY7ZpS6kOg4WNf7ulgSYLIYsP5slx08HC7e1wK1b-hJpN7eamfs7h7kD2CCdydPlxjDr_P-scWrAY7vVIc6WNmyDe6zWkZw=w1117-h923-no?authuser=0"
-          ],
-          "description": "",
-          "category": "kids",
-          "prices": "40 грн / 100 грам"
-        },
+            "id": "Шашлик з курятини",
+            "name": "Шашлик з курятини",
+            "isNew": false,
+            "isPreOrder": true,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLV-lRHM7QpXqNHGItKztsVrWJ3CsBJBX0SfP5s2qlj856Kp1kTQUKJdCkZgY7ZpS6kOg4WNf7ulgSYLIYsP5slx08HC7e1wK1b-hJpN7eamfs7h7kD2CCdydPlxjDr_P-scWrAY7vVIc6WNmyDe6zWkZw=w1117-h923-no?authuser=0"
+            ],
+            "description": "",
+            "category": "kids",
+            "prices": "40 грн / 100 грам"
+          },
           //    {
           //   "id": "Узвар",
           //   "name": "Узвар",
@@ -969,7 +969,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Морозиво в асортименті (ріжок або порційно)",
             "category": "dessert",
-           "prices": "30 грн / 100 грам"
+            "prices": "30 грн / 100 грам"
           },
           {
             "id": "Морозиво полуничний чізкейк",
@@ -980,7 +980,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Морозиво в ріжку полуничний чізкейк Мonaco",
             "category": "dessert",
-           "prices": "35 грн / 100 грам"
+            "prices": "35 грн / 100 грам"
           },
           {
             "id": "Млинці з сиром та родзинками",
@@ -991,7 +991,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "dessert",
-           "prices": "35 грн"
+            "prices": "35 грн"
           },
           {
             "id": "Сирники",
@@ -1002,7 +1002,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Найкращі сирники, як в бабусі",
             "category": "dessert",
-           "prices": "40 грн / 250 грам"
+            "prices": "40 грн / 250 грам"
           },
           {
             "id": "Пана-кота",
@@ -1013,7 +1013,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Смачний пудинг, солодка пана-кота",
             "category": "dessert",
-           "prices": "40 грн / 200 грам"
+            "prices": "40 грн / 200 грам"
           },
           {
             "id": "Тірамісу",
@@ -1024,7 +1024,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "dessert",
-           "prices": "50 грн"
+            "prices": "50 грн"
           }
         ]
       },
@@ -1040,7 +1040,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "drinks",
-           "prices": "22 грн / 250 мл, 27 грн / 350 мл"
+            "prices": "22 грн / 250 мл, 27 грн / 350 мл"
           },
           {
             "id": "Американо",
@@ -1051,7 +1051,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "drinks",
-           "prices": "18 грн / 180 мл, 20 грн / 180 мл"
+            "prices": "18 грн / 180 мл, 20 грн / 180 мл"
           },
           {
             "id": "Капучино",
@@ -1062,8 +1062,9 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "drinks",
-           "prices": "22 грн / 250 мл, 27 грн / 350 мл"
-          },{
+            "prices": "22 грн / 250 мл, 27 грн / 350 мл"
+          },
+          {
             "id": "Еспресо",
             "name": "Еспресо",
             "isNew": false,
@@ -1072,8 +1073,9 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "drinks",
-           "prices": "18 грн / 110 мл"
-          },{
+            "prices": "18 грн / 110 мл"
+          },
+          {
             "id": "Чай Greenfield в асортименті",
             "name": "Чай Greenfield в асортименті",
             "isNew": false,
@@ -1082,7 +1084,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "drinks",
-           "prices": "15 грн / 250 мл"
+            "prices": "15 грн / 250 мл"
           },
           {
             "id": "Айс Лате",
@@ -1093,7 +1095,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Лате та лід",
             "category": "drinks",
-           "prices": "30 грн / 200 мл"
+            "prices": "30 грн / 200 мл"
           },
           {
             "id": "Еспресо Тонік",
@@ -1104,9 +1106,9 @@ const getAllGoods = async () => ({
             ],
             "description": "Тонік, еспресо, сік лимонний, сироп лайма, сік апельсиновий",
             "category": "drinks",
-           "prices": "40 грн / 280 мл"
+            "prices": "40 грн / 280 мл"
           },
-           {
+          {
             "id": "Мілк Шейк в асортименті",
             "name": "Мілк Шейк в асортименті",
             "isNew": false,
@@ -1115,7 +1117,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Молочний коктейль",
             "category": "drinks",
-           "prices": "45 грн / 270 мл"
+            "prices": "45 грн / 270 мл"
           },
           {
             "id": "Лимонад в асортименті",
@@ -1126,9 +1128,9 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "drinks",
-           "prices": "30 грн / 450 мл"
+            "prices": "30 грн / 450 мл"
           },
-           {
+          {
             "id": "Квас традиційний",
             "name": "Квас традиційний",
             "isNew": false,
@@ -1137,9 +1139,9 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "drinks",
-           "prices": "36 грн / 1 л"
+            "prices": "36 грн / 1 л"
           },
-           {
+          {
             "id": "Пиво Obolon /Lvivske1715 / Lvivske / Kronenbourg",
             "name": "Пиво розливне🔞",
             "isNew": false,
@@ -1148,7 +1150,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Obolon світле / Lvivske1715 / Lvivske світле / Kronenbourg blanc1664",
             "category": "drinks",
-           "prices": "50/60/60/70 грн / 1 л"
+            "prices": "50/60/60/70 грн / 1 л"
           },
           {
             "id": "Алігатор",
@@ -1159,7 +1161,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Горілка, лікер Triple Sec, сироп диня, апельсиновий сік, лимонний сік, содова",
             "category": "drinks",
-           "prices": "55 грн / 180 мл"
+            "prices": "55 грн / 180 мл"
           },
           {
             "id": "Американський виноград",
@@ -1170,7 +1172,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Текіла, лікер Triple Sec, виноградний сік, содова",
             "category": "drinks",
-           "prices": "60 грн / 225 мл"
+            "prices": "60 грн / 225 мл"
           },
           {
             "id": "Апероль з апельсиновим соком",
@@ -1181,7 +1183,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Апероль, апельсиновий сік",
             "category": "drinks",
-           "prices": "70 грн / 250 мл"
+            "prices": "70 грн / 250 мл"
           },
           {
             "id": "Апероль з віскі",
@@ -1192,7 +1194,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Віскі, апероль, лимонний фреш, содова",
             "category": "drinks",
-           "prices": "70 грн / 110 мл"
+            "prices": "70 грн / 110 мл"
           },
           {
             "id": "Бажання Анни",
@@ -1203,7 +1205,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Ром темний, лікер Triple Sec, ананасовий сік",
             "category": "drinks",
-           "prices": "60 грн / 220 мл"
+            "prices": "60 грн / 220 мл"
           },
           {
             "id": "Біла леді",
@@ -1214,7 +1216,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Джин, лікер Triple Sec, лимонний сік",
             "category": "drinks",
-           "prices": "50 грн / 100 мл"
+            "prices": "50 грн / 100 мл"
           },
           {
             "id": "Велика кахуна",
@@ -1225,7 +1227,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Джин, лікер Triple Sec, солодкий вермут, ананасовий сік",
             "category": "drinks",
-           "prices": "50 грн / 135 мл"
+            "prices": "50 грн / 135 мл"
           },
           {
             "id": "Джангл Джус",
@@ -1236,7 +1238,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Джин, лікер Pisang, лимонний фреш, апельсиновий сік",
             "category": "drinks",
-           "prices": "60 грн / 190 мл"
+            "prices": "60 грн / 190 мл"
           },
           {
             "id": "Джавеліна",
@@ -1247,7 +1249,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Секретний рецепт кожного українця",
             "category": "drinks",
-           "prices": "55 грн / 330 мл"
+            "prices": "55 грн / 330 мл"
           },
           {
             "id": "Лонг айленд",
@@ -1258,7 +1260,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Ром, джин, текіла, горілка, апельсиновий сік, лимонний фреш, кола",
             "category": "drinks",
-           "prices": "65 грн / 190 мл"
+            "prices": "65 грн / 190 мл"
           },
           {
             "id": "Космополітен",
@@ -1269,7 +1271,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Горілка, лікер Triple Sec, лимонний фреш, журавлиний сік",
             "category": "drinks",
-           "prices": "50 грн / 110 мл"
+            "prices": "50 грн / 110 мл"
           },
           {
             "id": "Каліфорнійський гвинт",
@@ -1280,7 +1282,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Горілка, грейпфрутовий сік, апельсиновий сік",
             "category": "drinks",
-           "prices": "50 грн / 120 мл"
+            "prices": "50 грн / 120 мл"
           },
           {
             "id": "Піна колада",
@@ -1291,7 +1293,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Ром світлий, сироп Pina Colada, ананасовий сік",
             "category": "drinks",
-           "prices": "55 грн / 150 мл"
+            "prices": "55 грн / 150 мл"
           },
           {
             "id": "Рідка Марихуана",
@@ -1302,7 +1304,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Ром світлий, лікер Coconut, лікер Curacao, лікер Green Aplle, сік лайма або лимона, ананасовий сік",
             "category": "drinks",
-           "prices": "65 грн / 160 мл"
+            "prices": "65 грн / 160 мл"
           },
           {
             "id": "Рожевий лимонад",
@@ -1313,41 +1315,41 @@ const getAllGoods = async () => ({
             ],
             "description": "Горілка, лікер Triple Sec, морс, лимонний фреш, сік лаймy, содова",
             "category": "drinks",
-           "prices": "60 грн / 210 мл"
+            "prices": "60 грн / 210 мл"
           },
           {
-         "id": "Самбука Ларнака",
-         "name": "Самбука Ларнака  🔞",
-         "isNew": false,
-         "gallery": [
-           "https://lh3.googleusercontent.com/pw/AM-JKLVpcA6WS5gmCqaH984gXWbSqz4fU4cC1g3DrtoNQefQH49hNLusKZtMoIosoPchgHvuPowdpQmiA2-OZHwGZtnN6u7K05vorvS7lvER-SeLASKh0vAKnhqwOPqdggK23Fc6thtpJgJvrt-_w_J-SKuK2Q=w545-h534-no?authuser=0"
-         ],
-         "description": "Самбука, лікер Triple Sec, апельсиновий сік",
-         "category": "drinks",
-        "prices": "55 грн / 150 мл"
-       },
-       {
-         "id": "Секс на пляжі",
-         "name": "Секс на пляжі 🔞",
-         "isNew": false,
-         "gallery": [
-           "https://lh3.googleusercontent.com/pw/AM-JKLU7EPh4TJ1fiDlyxqyDLEmDyPD486qWJQfR2d8n3OX8irgUnb4SQ-k9uNlfQAOf_4TFKdgUhoO0t995pezGaZzPmc96zx2oozcytfP8kwhoLT8svsGlTsQIkBMeTIZQAIs7vzwtfeSGEx8ZcLE_SoSoOA=w591-h814-no?authuser=0"
-         ],
-         "description": "Горілка, лікер Peach, апельсиновий сік, журавлиновий сік",
-         "category": "drinks",
-        "prices": "60 грн / 200 мл"
-       },
-       {
-         "id": "Блакитна лагуна",
-         "name": "Блакитна лагуна 🔞",
-         "isNew": false,
-         "gallery": [
-           "https://lh3.googleusercontent.com/pw/AM-JKLXVXkNQkHOiB_daMOEG-omP9jIjn-tCo0UfOiRw03n_Ib5GLl5mKAImxpcFODZM9l6TFLZ59LzVpa1BzT_lrHvQnzmUpM8jd5GHvIbl3jKfmTji26r2VmhoUB0nkdQGEqoihLhzkxDWacsb0DpnFNaL_w=w1026-h1306-no?authuser=0"
-         ],
-         "description": "Лікер Curacao, Лимонний фреш, содова",
-         "category": "drinks",
-        "prices": "50 грн / 200 мл"
-       },
+            "id": "Самбука Ларнака",
+            "name": "Самбука Ларнака  🔞",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLVpcA6WS5gmCqaH984gXWbSqz4fU4cC1g3DrtoNQefQH49hNLusKZtMoIosoPchgHvuPowdpQmiA2-OZHwGZtnN6u7K05vorvS7lvER-SeLASKh0vAKnhqwOPqdggK23Fc6thtpJgJvrt-_w_J-SKuK2Q=w545-h534-no?authuser=0"
+            ],
+            "description": "Самбука, лікер Triple Sec, апельсиновий сік",
+            "category": "drinks",
+            "prices": "55 грн / 150 мл"
+          },
+          {
+            "id": "Секс на пляжі",
+            "name": "Секс на пляжі 🔞",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLU7EPh4TJ1fiDlyxqyDLEmDyPD486qWJQfR2d8n3OX8irgUnb4SQ-k9uNlfQAOf_4TFKdgUhoO0t995pezGaZzPmc96zx2oozcytfP8kwhoLT8svsGlTsQIkBMeTIZQAIs7vzwtfeSGEx8ZcLE_SoSoOA=w591-h814-no?authuser=0"
+            ],
+            "description": "Горілка, лікер Peach, апельсиновий сік, журавлиновий сік",
+            "category": "drinks",
+            "prices": "60 грн / 200 мл"
+          },
+          {
+            "id": "Блакитна лагуна",
+            "name": "Блакитна лагуна 🔞",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLXVXkNQkHOiB_daMOEG-omP9jIjn-tCo0UfOiRw03n_Ib5GLl5mKAImxpcFODZM9l6TFLZ59LzVpa1BzT_lrHvQnzmUpM8jd5GHvIbl3jKfmTji26r2VmhoUB0nkdQGEqoihLhzkxDWacsb0DpnFNaL_w=w1026-h1306-no?authuser=0"
+            ],
+            "description": "Лікер Curacao, Лимонний фреш, содова",
+            "category": "drinks",
+            "prices": "50 грн / 200 мл"
+          },
           {
             "id": "Снукер",
             "name": "Снукер 🔞",
@@ -1357,7 +1359,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Горілка, лікер Melon, сироп Caramel, журавлиновий морс",
             "category": "drinks",
-           "prices": "55 грн / 170 мл"
+            "prices": "55 грн / 170 мл"
           },
           {
            "id": "Tropical beer",
@@ -1368,7 +1370,7 @@ const getAllGoods = async () => ({
            ],
            "description": "Пиво, ананасовий,кокосовий сиропи,апельсиновий сік",
            "category": "drinks",
-          "prices": "45 грн / 350 мл"
+            "prices": "45 грн / 350 мл"
          },
          {
            "id": "Хвиля Малібу",
@@ -1379,7 +1381,7 @@ const getAllGoods = async () => ({
            ],
            "description": "Текіла, лікер Triple Sec, лікер Blue curacao, цукровий сироп, лимонний сік",
            "category": "drinks",
-          "prices": "50 грн / 110 мл"
+            "prices": "50 грн / 110 мл"
          },
          {
            "id": "Гавайський",
@@ -1390,19 +1392,19 @@ const getAllGoods = async () => ({
            ],
            "description": "Джин, лікер Triple Sec, ананасовий сік",
            "category": "drinks",
-          "prices": "55 грн / 90 мл"
+            "prices": "55 грн / 90 мл"
          },
          {
-        "id": "Сайдкар",
-        "name": "Сайдкар  🔞",
-        "isNew": false,
-        "gallery": [
-          "https://lh3.googleusercontent.com/pw/AM-JKLVMcilLTW84mdAneK73xcTfoKDHzyW6x8qHRozHormfBzKOoXCmBP-kG3S8zy4B04amIeyX1Y06KiJXQVCYpR5WdVcPVgUaVCWb-CNzUqG1e0ZpxrPGGKR4u9DJ_sixs9p71pS6L3XOtc4hJ_YUTN8meQ=w474-h597-no?authuser=0"
-        ],
-        "description": "Бренді, лікер Curacao, лимонний сік",
-        "category": "drinks",
-       "prices": "50 грн / 90 мл"
-      },
+            "id": "Сайдкар",
+            "name": "Сайдкар  🔞",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLVMcilLTW84mdAneK73xcTfoKDHzyW6x8qHRozHormfBzKOoXCmBP-kG3S8zy4B04amIeyX1Y06KiJXQVCYpR5WdVcPVgUaVCWb-CNzUqG1e0ZpxrPGGKR4u9DJ_sixs9p71pS6L3XOtc4hJ_YUTN8meQ=w474-h597-no?authuser=0"
+            ],
+            "description": "Бренді, лікер Curacao, лимонний сік",
+            "category": "drinks",
+            "prices": "50 грн / 90 мл"
+          },
           {
             "id": "Камікадзе",
             "name": "Камікадзе 🔞",
@@ -1412,7 +1414,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Горілка, лікер Triple Sec, сік лайму",
             "category": "drinks",
-           "prices": "45 грн / 90 мл"
+            "prices": "45 грн / 90 мл"
           },
           {
             "id": "Челсі сайдкар",
@@ -1423,7 +1425,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Джин, лікер Triple Sec, лимонний сік",
             "category": "drinks",
-           "prices": "45 грн / 60 мл"
+            "prices": "45 грн / 60 мл"
           },
           {
             "id": "Синій понеділок",
@@ -1434,7 +1436,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Горілка, лікер Triple Sec, лікер Blue curacao",
             "category": "drinks",
-           "prices": "45 грн / 40 мл"
+            "prices": "45 грн / 40 мл"
           },
           {
             "id": "Палаюча самбука ",
@@ -1445,7 +1447,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "drinks",
-           "prices": "45 грн / 40 мл"
+            "prices": "45 грн / 40 мл"
           },
           {
             "id": "B-53",
@@ -1456,7 +1458,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Шот - Абсент, крем лікер Via Lattea, лікер Creme de cafe",
             "category": "drinks",
-           "prices": "45 грн / 50 мл"
+            "prices": "45 грн / 50 мл"
           },
           {
             "id": "Brendbar",
@@ -1467,7 +1469,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "drinks",
-           "prices": "45 грн /50 мл"
+            "prices": "45 грн /50 мл"
           },{
             "id": "Зелений мексиканець",
             "name": "Зелений мексиканець  🔞",
@@ -1477,7 +1479,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Текіла, лимонний фреш, лікер Pisang",
             "category": "drinks",
-           "prices": "45 грн / 50 мл"
+            "prices": "45 грн / 50 мл"
           },
           {
             "id": "Слава Україні",
@@ -1488,7 +1490,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Героям Слава!",
             "category": "drinks",
-           "prices": "45 грн / 50 мл"
+            "prices": "45 грн / 50 мл"
           },
           {
             "id": "Хіросіма",
@@ -1499,19 +1501,19 @@ const getAllGoods = async () => ({
             ],
             "description": "Абсент Vincent, Крем-лікер Via Lattea, Самбука Ibiza, сироп Grenadine",
             "category": "drinks",
-           "prices": "45 грн / 50 мл"
+            "prices": "45 грн / 50 мл"
           }, 
           {
-              "id": "Шоти в асортименті",
-              "name": "Шоти в асортименті",
-              "isNew": false,
-              "gallery": [
-                ""
-              ],
-              "description": "",
-              "category": "drinks",
-             "prices": "30 грн /50 мл"
-            },
+            "id": "Шоти в асортименті",
+            "name": "Шоти в асортименті",
+            "isNew": false,
+            "gallery": [
+              ""
+            ],
+            "description": "",
+            "category": "drinks",
+            "prices": "30 грн /50 мл"
+          },
         ]
       },
       {
@@ -1526,7 +1528,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "event",
-           "prices": "70 грн / год"
+            "prices": "70 грн / год"
           },
           {
             "id": "Кальян ТАБАК JIBIAR / Табак Smoky Bull",
@@ -1537,8 +1539,9 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "event",
-           "prices": "250 / 190 грн"
-          },{
+            "prices": "250 / 190 грн"
+          },
+          {
             "id": "Ігрова приставка Microsoft Xbox",
             "name": "Ігрова приставка Microsoft Xbox",
             "isNew": false,
@@ -1547,16 +1550,17 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "event",
-           "prices": "50 грн / год"
+            "prices": "50 грн / год"
           }
         ]
       }
     ]
   }
-
 });
+
 const getAllCurrency = async () => ({
 })
+
 const getAllCategories = async () => ({
   data: {
     categories: [
@@ -1571,6 +1575,7 @@ const getAllCategories = async () => ({
     ]
   }
 })
+
 export {
   getAllGoods,
   getAllCurrency,
