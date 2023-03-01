@@ -13,7 +13,18 @@ const getAllGoods = async () => ({
             ],
             "description": "Смачні, гарячі, хрумкі та тягучі сирні палички фрі",
             "category": "snack",
-            "prices": "100 грн / 270 грам"
+            "prices": "140 грн / 270 грам"
+          },
+          {
+            "id": "Кульки з сиром Філадельфія",
+            "name": "Кульки з сиром Філадельфія",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AMWts8COr1N-AZJ1uhJ6jYcNSxvxBruvlPnR6hTecyC9DX0IUVBkfNVFMvho6BTZJ6POsK16rz_DwBomuugb-VRchkN3GMIAAe0vmOCt8Opdi-TbqnH_fu8oR-p3SOcvK25gxnVjhXvIT4M0pqu5lEEc6mGXhw=w802-h506-no?authuser=0",
+            ],
+            "description": "Смачні, гарячі, хрумкі та тягучі сирні кульки фрі",
+            "category": "snack",
+            "prices": "120 грн / 12 шт"
           },
           {
             "id": "Українська закуска",
@@ -24,18 +35,18 @@ const getAllGoods = async () => ({
             ],
             "description": "Оселедець з цибулею та картоплею",
             "category": "snack",
-            "prices": "50 грн / 270грам"
+            "prices": "55 грн / 270грам"
           },
           {
             "id": "Брускети з паштетом",
             "name": "Брускети з паштетом",
             "isNew": false,
             "gallery": [
-              "https://lh3.googleusercontent.com/pw/AM-JKLVdVsgTeYvJkolUe52LbJV8_0Rhmj3TI2Rh5nAqFMTKU4PM1qy9rokm3Q5U2V-XVrdG0gGgrXxiSuVOEGGU4lfP5_QEYVUitKHvLzczvi1pNZmgGSV77laKalpb9ZAvkXq3w9cGQ4-wuXML-oSXW8T2Tg=w1388-h1190-no?authuser=0"
+              "https://lh3.googleusercontent.com/pw/AMWts8C_FBRvvUdgvoB08et56En9MedBgyir9MWl4GYGGovoXvJ0DzD6J30H5Yo7tq_bS3QuyInJZQfqGi5pNWkH7tzVXbSDrVoYDABEpQIdk3Lo17f3IWMGgu_Jy09Lzg9u28XW5r9myp6tXnESu1mOFPn7Gg=w827-h621-no?authuser=0"
             ],
             "description": "Брускети та кульки з ніжним курячим паштетом та кисло-солодким соусом",
             "category": "snack",
-            "prices": "60 грн"
+            "prices": "90 грн"
           },
           {
             "id": "Підкопчені свинячі вушка",
@@ -57,7 +68,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Смачні грибочки фрі",
             "category": "snack",
-            "prices": "40 грн / 140 грам"
+            "prices": "50 грн / 140 грам"
           },
           {
             "id": "Сухарики з часником",
@@ -79,7 +90,18 @@ const getAllGoods = async () => ({
             ],
             "description": "Хрумкі грінки, оселедець та французька гірчиця",
             "category": "snack",
-            "prices": "50 грн"
+            "prices": "60 грн"
+          },
+          {
+            "id": "Рибна тарілка",
+            "name": "Рибна тарілка",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AMWts8D-_HKpLG5lGt1O3KhhYkmEg5wY_WFdZF3uRbhD_vKJW-iyTOTlRqa1eeaS31uruyZ0_1SgzCL90ppmpZ6Kd4-OyakbiC81kVrD6EVg_5zHmDtpOr2PPY_15gxH-USKuYxOY8YTduuIqSQdBQlKux9-OQ=w1222-h1015-no?authuser=0"
+            ],
+            "description": "с/с лосось ,с/с скумбрія, копчена скумбрія, масляна",
+            "category": "snack",
+            "prices": "240 грн / 300 грам"
           },
           {
             "id": "Козацька закуска",
@@ -90,7 +112,29 @@ const getAllGoods = async () => ({
             ],
             "description": "Хрумкі грінки помазані ніжною пастою з сала",
             "category": "snack",
-            "prices": "55 грн"
+            "prices": "60 грн"
+          },
+          {
+            "id": "Хот дог Mega Cheese",
+            "name": "Хот дог Mega Cheese",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AMWts8DyWaW1wFSXTpXXwZdhDRse1gpJbHYW3uTFMJv6tJCh1gqBlEP-W_3l2SIrmL6p4nyJPH2pc2fMyXFRDh4n74XBi3EjdUvfW8EoetFQRzy2JDoHnlelKkhTwX_S4utVma1NmA9Z9CJesVx4kFGED76Dqg=w1240-h1011-no?authuser=0"
+            ],
+            "description": "Гарячий хот-дог з мисливською ковбаскою, сиром, сирним соусом та хрумкою цибулькою",
+            "category": "snack",
+            "prices": "85 грн"
+          },
+          {
+            "id": "Хот дог Original",
+            "name": "Хот дог Original",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AMWts8DEfAkmEq3gELRa_iCNRnR53KDWoLZfLOgDV7xTLNTUWuITI6pEvuF3eWxmYpuyWzr9zpgqFPZ3YN_bojw1CD7-xE9108gR43aZjhJqPM4XDrH8Hj47uyqJI6wEUUurkuijJstBrumDUljouXtSvDf22w=w1195-h836-no?authuser=0"
+            ],
+            "description": "Гарячий хот-дог з мисливською ковбаскою, морквою по-корейськи, кукурузкою та соусами",
+            "category": "snack",
+            "prices": "85 грн"
           },
           {
             "id": "Хот дог",
@@ -101,7 +145,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Гарячий хот-дог з сосискою та соусами",
             "category": "snack",
-            "prices": "50 грн"
+            "prices": "60 грн"
           },
           {
             "id": "Сосиска в лаваші з овочами",
@@ -112,7 +156,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "snack",
-            "prices": "60 грн"
+            "prices": "80 грн"
           },
           {
             "id": "Лаваш з моцареллою та зеленню",
@@ -123,7 +167,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "snack",
-            "prices": "65 грн / 200 грам"
+            "prices": "70 грн / 200 грам"
           },
           {
             "id": "Мега-Шаурма",
@@ -134,7 +178,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Соковита, ароматна шаурма з курячим філе, овочами та соусом",
             "category": "snack",
-            "prices": "65 грн"
+            "prices": "95 грн"
           },
           {
             "id": "Соковитий чебурек Beef/Pork/Cheese",
@@ -143,9 +187,9 @@ const getAllGoods = async () => ({
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLV2w6IqsacZJ6f4TOOtLlvwZLQ_cKsL2QoBrardEI21dDz6yr61yyh8aPWE_lLuhx46I_7vQf0MBRZfxC1GLi4UIy6MvY-kDWVq2CrJyXWO1OjnwVVlqTNpD_pHGZRo-VtGlShESTrVvdQCfGkFosVISw=w1304-h1188-no?authuser=0"
             ],
-            "description": "Гарячий,соковитий чебурек з яловичиною та кінзою/з свининою/сиром та зеленню",
+            "description": "Гарячий,соковитий чебурек з яловичиною та кінзою/ з бараниною /з свининою/сиром та зеленню",
             "category": "snack",
-            "prices": "45 / 45 / 40 грн / шт"
+            "prices": "50 / 50 / 50 / 40 грн / шт"
           },
           {
             "id": "Сирне плато",
@@ -159,26 +203,15 @@ const getAllGoods = async () => ({
             "prices": "170 грн / 350 грам"
           }, 
           {
-            "id": "Нарізка асорті",
-            "name": "Нарізка асорті",
-            "isNew": false,
-            "gallery": [
-              "https://lh3.googleusercontent.com/pw/AM-JKLW5l9lVvUBhdc1a01N5gnCpRI895rcwoONzcuWUtv7CwT5_-IrGGL4I7gMiZpBObXyDgJaDuUJuG0dj1Ji7-VAbS9AV3qQvXYpHkE6wVS2H7ZJ8MGufvXH5q7jziMwsR2v37Pj0bKy8zS2Eqsmbhz9PgQ=w1250-h1178-no?authuser=0",
-            ],
-            "description": "Нарізка асорті напівкопчена ковбаса та сир",
-            "category": "snack",
-            "prices": "150 грн / 300 грам"
-          },
-          {
             "id": "М’ясна тарілка",
             "name": "М’ясна тарілка",
             "isNew": false,
             "gallery": [
-              "https://lh3.googleusercontent.com/pw/AM-JKLUBSZ78o-qxo-5rGu95jI8N-iGgPgP-VYvWJZidqfK_lSHFp-wKSvy60EN_w5hZKoYXj7OURHrdgvoXf2BUocRnh9GzE7OXGNowTJ8cSClb9ZIuLwCUyc0zOEtiOnbpMPzy0wTjViZee2L905jw5mn7FA=s1192-no?authuser=0",
+              "https://lh3.googleusercontent.com/pw/AMWts8CW8qZ4wVA5RdnNXYYfprTAoR0i0WE6WgrYJmzUcSI68IQd6muRM1q1YoOnS_rac-CyXs8ltddcKUhmcaXLrNnBMiABmG0ua6zBUZhhZ9N9bTTDa5cKnYlrfioYr8VaHnWdCRpTzzSp9zQFxc0zONwnMQ=w1203-h1228-no?authuser=0",
             ],
             "description": "Чотири види м’ясних делікатесів",
             "category": "snack",
-            "prices": "170 грн / 300 грам"
+            "prices": "190 грн / 300 грам"
           },
           {
             "id": "Вареники з картопею/капустою/лівером",
@@ -189,7 +222,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "snack",
-            "prices": "40 / 40 / 50  грн"
+            "prices": "50 / 50 / 60  грн"
           },
           {
             "id": "Млинці з начинкою курка та гриби",
@@ -211,7 +244,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "snack",
-            "prices": "45 грн"
+            "prices": "60 грн"
           },
           {
             "id": "Пельмені",
@@ -222,7 +255,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "snack",
-            "prices": "50 грн"
+            "prices": "60 грн"
           },
           {
             "id": "Деруни з грибочками",
@@ -233,7 +266,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Картопляні деруни з золотистою скоринкою",
             "category": "snack",
-            "prices": "50 грн / 8 шт"
+            "prices": "55 грн / 8 шт"
           },
           {
             "id": "Картопля фрі",
@@ -244,7 +277,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Картопля фрі з соусом",
             "category": "snack",
-            "prices": "55 грн / 200 грам" 
+            "prices": "60 грн / 200 грам" 
           },
           {
             "id": "Картопля по-селянські / з беконом",
@@ -255,7 +288,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Картопля по-селянські / з беконом",
             "category": "snack",
-            "prices": "55грн/200грам - 60грн/250 грам"
+            "prices": "60грн/200грам - 75грн/250 грам"
           },
           {
             "id": "Цибулеві кільця фрі",
@@ -266,7 +299,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Смачні, гарячі, хрумкі цибулеві кільця фрі",
             "category": "snack",
-            "prices": "55 грн / 130 грам"
+            "prices": "60 грн / 130 грам"
           },
           {
             "id": "Ковбаски гриль",
@@ -277,7 +310,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "snack",
-            "prices": "60 грн / 200 грам"
+            "prices": "95 грн / 200 грам"
           },
           {
             "id": "Скумбрія гриль",
@@ -288,7 +321,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "snack",
-            "prices": "65 грн"
+            "prices": "110 грн"
           },
           {
             "id": "Жуль’єн",
@@ -299,7 +332,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Жарена курочка, жарені грибочки та цибулька в вершковому соусі під сиром",
             "category": "snack",
-            "prices": "95 грн / 350 грам"
+            "prices": "120 грн / 350 грам"
           },
           {
             "id": "Крильця апетитні",
@@ -310,7 +343,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "snack",
-            "prices": "60 грн / 6 шт"
+            "prices": "80 грн / 6 шт"
           },
           {
             "id": "Крильця KFC",
@@ -321,7 +354,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Крильця, хрумкі та соковиті всередині",
             "category": "snack",
-            "prices": "75 грн / 6 шт"
+            "prices": "95 грн / 6 шт"
           },
           {
             "id": "Нагетси",
@@ -332,7 +365,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "snack",
-            "prices": "60 грн / 160 грам"
+            "prices": "80 грн / 160 грам"
           },
           {
             "id": "Чіпси Lavash",
@@ -355,7 +388,19 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "pre-order",
-            "prices": "100 грн / 650 грам"
+            "prices": "150 грн / 650 грам"
+          },
+          {
+            "id": "Хачапурі по-аджарські",
+            "name": "Хачапурі по-аджарські",
+            "isNew": false,
+            "isPreOrder": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AMWts8A10_Jn8Hu66SDk0_ktjM4zocSPiikcy6p-XL8Lq6aq8CjQxsa4_8dXorJpecSMcB46KT1-Wneb59JeiuP_2vAiKKjpe9XNfZjQOracuPhQQpyhqOIPu_Rbdwo1Dje7pHGIPKTMBbVihknbFwQzEbvJWw=w370-h402-no?authuser=0"
+            ],
+            "description": "",
+            "category": "pre-order",
+            "prices": "100 грн / 350 грам"
           },
           // {
           //   "id": "Мойва фрі",
@@ -382,7 +427,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Апетитні крильця, нагетси, картопля фрі, цибулеві кільця",
             "category": "set",
-            "prices": "200 грн"
+            "prices": "210 грн"
           },
           {
             "id": "Сет до пива",
@@ -393,7 +438,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Ковбаски гриль, сухарики з часником, картопля по-селянськи, свинячі вушка",
             "category": "set",
-            "prices": "185 грн"
+            "prices": "195 грн"
           }
         ]
       },
@@ -401,13 +446,35 @@ const getAllGoods = async () => ({
         "name": "Піца",
         "products": [
           {
+            "id": "Pizza Карбонара",
+            "name": "Pizza Карбонара",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AMWts8Bmn4HlWMqhA8jwv6GcyFbRkfotiWas3WzJIetSGl0vDmtKwmzUbhVXkw6tQ3gk7FOvYN58kp0mA8ugU_C-kCr8VO9kz46F9mBfKTKBlkUm6f1F-La6e6HrAqyB5R_-0sL5QpP2MuYJIbaO1bmpfkYe7A=w1261-h1245-no?authuser=0"
+            ],
+            "description": "з шинкою, беконом, помідором, грибами, цибулею, моцареллою та соусом, час приготування 30хв",
+            "category": "pizza",
+            "prices": "165 грн"
+          },
+          {
+            "id": "Pizza Папероні",
+            "name": "Pizza Папероні",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AMWts8BnLrTCCfLzSYtkjs9GP_ViAg1V6x9Ie1G8jrfyHzcTgDgYfscvU0355YNyLEvKVL0Jp6aTBvqb-3Y8zuel-Nn6D5W0BwQXZOY9dqV-VFAqX_5Zt7rqekwYnBgxO2WQtSbRUxmTrD9wOjqOMCacOOp-VQ=w1840-h1442-no?authuser=0"
+            ],
+            "description": "з папероні, моцареллою та гострий соус, час приготування 30хв",
+            "category": "pizza",
+            "prices": "160 грн"
+          },
+          {
             "id": "Pizza Фірмова",
             "name": "Pizza Фірмова",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLViXq83y57KCT277mAoA7dVbb509UTkNyGArnK-SNVSs3Db0OsLyzsqfwspss0YZt9Aplsub3P39vVRLGjehIrw98FQJN3wwwY_mZ_zr2XNEodzHqHJVq_0_kapvWmSvY5mKP0H7dklKIh0aiJ56qcaUg=w623-h483-no?authuser=0"
             ],
-            "description": "Гаряча піца з двома видами ковбаси, грибами та момідорами, час приготування 30хв",
+            "description": "з двома видами ковбаси, грибами та помідорами, час приготування 30хв",
             "category": "pizza",
             "prices": "155 грн"
           },
@@ -418,7 +485,7 @@ const getAllGoods = async () => ({
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLVtuGpBMLvYXN6YixRb1ZA5GiriJgnl9b8hlk96ogM8_BE5spByVRU6vBZLhEVv22W_FWcgar1QzPXI3ZiDE64Zjr9oxfwgbaMrGcG2CwoWIsdxTXLDAbBMc79YtkA8S3C_0nWbFVYB2NkHPSwE7GvFWg=w1388-h1040-no?authuser=0"
             ],
-            "description": "Гаряча піца з мисливськими ковбасками, грибами та маринованою цибулею та соусом барбекю, час приготування 30хв",
+            "description": "з мисливськими ковбасками, грибами та маринованою цибулею та соусом барбекю, час приготування 30хв",
             "category": "pizza",
             "prices": "160 грн"
           },
@@ -429,7 +496,7 @@ const getAllGoods = async () => ({
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLVW4aK-a6HnuIzGtjyt9xj_Fw7bsCayYF190I_8eq7KRNSVBW8dUJTY0g8Tcx74zK8Oh5mOyhzkH5nWP1rvI5reMZJOXdVurofEhSrocjlG9E9i2gbSjbMey6C5HOxci8OGnHzo5iAnPsTUubWFCn2p2w=w630-h478-no?authuser=0"
             ],
-            "description": "Гаряча піца з морепродуктами, час приготування 30хв",
+            "description": "з морепродуктами, час приготування 30хв",
             "category": "pizza",
             "prices": "180 грн"
           },
@@ -440,7 +507,7 @@ const getAllGoods = async () => ({
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLXoqWJm7nlpLlmWHCV80nqlf9Z-GN0SfyBc_4aEm7WhlyqHHORPUaEBPT_23Af-OM5IxRSe8HYsQXuxCueDM7WooHqjHZquIZtAlB_YwCgVHsVaLM9nukOnoG7MXj8NiTSiJqenvz-afJ-K6k2LjrjapQ=w645-h484-no?authuser=0"
             ],
-            "description": "Гаряча піца з ананасами, курочкою, кукурудзою та шинкою, час приготування 30хв",
+            "description": "з ананасами, курочкою, кукурудзою та шинкою, час приготування 30хв",
             "category": "pizza",
             "prices": "165 грн"
           },
@@ -451,10 +518,32 @@ const getAllGoods = async () => ({
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLXyZkqo_mESYcDuxO4RDufREJi6oJ2HbyOjZZsYOIONivWlJfc1sgWqpEYB5k7756nf9fd91WFGwcz9grQJ5r1vcuNUhukHpa8ThS5JnMbTayYbl13RpJS-HgOiEu855iBI3aWzNZQL2OE3FCj3Gua2rA=w638-h489-no?authuser=0"
             ],
-            "description": "Гаряча піца з 4 видами сиру, горішками та грушею, час приготування 30хв",
+            "description": "з 4 видами сиру, горішками та грушею, час приготування 30хв",
             "category": "pizza",
             "prices": "170 грн"
-          }
+          },
+          {
+            "id": "Pizza Good Bar",
+            "name": "Pizza Good Bar",
+            "isNew": true,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AMWts8CLyXK-nFj2JCGSgz4inFmrfhNrfTTkwB-rkeNobAUUDItO2j9Z8m0bAfxWPkLs7xc_Xba3eDvoCnqDVrrDhLKFHs3rNWapZoVUwFebqul_n0SwO47xpzVBQhSVqAWxyZCQQ8EOFS6PvLF7ZYAhAcLwwQ=w932-h524-no?authuser=0"
+            ],
+            "description": "з мисливськими ковбасками, помідором, перцем, маслинами, крем-сиром, моцареллою, соусом та сирним бортиком",
+            "category": "pizza",
+            "prices": "180 грн"
+          },
+          {
+            "id": "Добавки",
+            "name": "Добавки:",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AMWts8A1UGFPmGbARIEEedYtMyQ3CSL2mxi-crVbpvkcHFSYtDa81z_4ly4OQD_NOagv-4qnsAjZaxWIaPgehS0Qth-gUTHdAetUjTyRAunjtajm-iM6485ongRhiol2FoJPMkDGcuqND4Y1YPyx8UMS7RHSzg=w298-h267-no?authuser=0"
+            ],
+            "description": "+ сирний бортик 35 грн, + моцарелла 25 грн",
+            "category": "pizza",
+            "prices": ""
+          },
         ]
       },
       {
@@ -502,7 +591,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "kids",
-            "prices": "35 грн / 100 грам"
+            "prices": "45 грн / 100 грам"
           },
           {
             "id": "BABY морковка",
@@ -561,17 +650,50 @@ const getAllGoods = async () => ({
               "https://lh3.googleusercontent.com/pw/AM-JKLWx_SP687vbI_tzur3tEte9i6mOpUF5M9tHodpogatiCPdkWB7vyOlCnNKNdKuVuK9dPwZL2gajCzlyTE9uer2rdoxwbFuRbZb2bNAEd2Syh1zRW_vJKFVQxc9shId2vKR57ZXCBs-8w9Qsu7X32whQeA=w1292-h1159-no?authuser=0"],
             "description": "Бургер з котлетою з соковитої курочки",
             "category": "burger",
-            "prices": "85 грн / 320 грам"
+            "prices": "100 грн / 320 грам"
+          },
+          {
+            "id": "Darkside-Burger",
+            "name": "Darkside-Burger",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AL9nZEXf7Lb8jX0lQCkd5xeFypHLl6AjvAXdL3JrLDDXTTCqGE5c6crK5PgrdVOxFOB58uWDFbeADyurvjaN8Z2UCXPaztQJ7b7Jt8HjI1mTHFk01dIPGK7s12qKW8B_5avZA-xV2z2R2EfDM_PvJEJhG7PfVA=s600-no?authuser=0"],
+            "description": "Бургер з яловичою котлетою, з чилі, беконом, соусом bbq та картоплею фрі",
+            "category": "burger",
+            "prices": "120 грн / 320 грам"
+          },
+          {
+            "id": "Bombay-Burger",
+            "name": "Bombay-Burger",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AMWts8AGnR0RxpLhzb6bnHGwdUQc_5-roVweZaFpdX4YBK5AsdEmyyjjTbV-USs_WvexH1kbHvNYpeWATXQ5UxhS5BCtBQUuR_FBstj0Y6P7UoVlNeOGCfKnUn6h7p96ozVD0IDauhsPBW5E7Trt2lyw-16g0A=w1762-h1442-no?authuser=0"
+            ],
+            "description": "Бургер з курячої котлети в хрумкій паніровці,картопляними діпами,соус карі",
+            "category": "burger",
+            "prices": "110 грн / 320 грам"
+          },
+          {
+            "id": "Double-Burger",
+            "name": "Double-Burger",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AMWts8BIl_MwdmzxmENDS1AWXk0OfaPLofWZzp0SZrKxr3F43qkh-isOhQDL70OqT8n0yX8ftRmim7dw-TSGgKppINEuF3w4QsiW2VjqfZSlFVrAKaogph5kH4ASOClHUp8WqWOQNvcxgmloNX8HsYHwSsaUvQ=w1409-h1080-no?authuser=0"
+            ],
+            "description": "Бургер з подвійною яловичою котлетою, соусом та картоплею фрі",
+            "category": "burger",
+            "prices": "120 грн / 320 грам"
           },
           {
             "id": "Burger-Texas",
             "name": "Burger-Texas",
             "isNew": false,
             "gallery": [
-              "https://lh3.googleusercontent.com/pw/AM-JKLX0wI1t1ZNc7m8DxzSlumnNrDRwDGaKyZrv6cVfuxZf6s6DUWnTfTcV-P792mml7daoXbQ1Or4Rz8gHOE5DoPFLj56qiJmxYJasuRCJD3Pl0YHVbj0ph9JdMDcp6PnEZupscdTTJo94G-pugv1ONuv7Cw=w696-h506-no?authuser=0"],
+              "https://lh3.googleusercontent.com/pw/AM-JKLX0wI1t1ZNc7m8DxzSlumnNrDRwDGaKyZrv6cVfuxZf6s6DUWnTfTcV-P792mml7daoXbQ1Or4Rz8gHOE5DoPFLj56qiJmxYJasuRCJD3Pl0YHVbj0ph9JdMDcp6PnEZupscdTTJo94G-pugv1ONuv7Cw=w696-h506-no?authuser=0"
+            ],
             "description": "Бургер з котлетою з ароматної свинини та яловичини",
             "category": "burger",
-            "prices": "90 грн / 320 грам"
+            "prices": "100 грн / 320 грам"
           }
         ]
       },
@@ -606,7 +728,7 @@ const getAllGoods = async () => ({
               "https://lh3.googleusercontent.com/pw/AM-JKLVu4ZFjsQCHxUMnVKB8zzjWBpwX_Eye6ZU4r9PLN0_EQyNb7PGfU4fHxYaa2FIcrs2zeVbXUY_ElwiEi6rit-FWHqp2CheZFM13mqNZCb_-eWcOdBi-G60vKHAcPT4-AFzdy-a-q37OjMgistL72UTApQ=w1337-h733-no?authuser=0"],
             "description": "Салат з помідорами, огірками, сиром фета, маслинами, травами та оливковою олією",
             "category": "salad",
-            "prices": "110 грн / 300 грам"
+            "prices": "140 грн / 300 грам"
           },
           {
             "id": "Салат від шефа",
@@ -616,7 +738,7 @@ const getAllGoods = async () => ({
               "https://lh3.googleusercontent.com/pw/AM-JKLU7Nt-32Ai6RvMZfgUydeHkEZez0ek-yTiyOrUGdzc0XJHAVMxEexqjf26MQvpNZBTw9Uj_6okaz_w-nVd8WRiss-xMCr5KGPF3Oo28Ku_TysN-K_bzcGiNF_bqt9JXp1zbraZw85tqFSMR8waqL_Mhaw=w721-h500-no?authuser=0"],
             "description": "Салат з морковкою по-корейськи, свинячими вушками, зеленим горошком та соусом",
             "category": "salad",
-            "prices": "65 грн / 250 грам"
+            "prices": "70 грн / 250 грам"
           },
           {
             "id": "Овочевий салат",
@@ -626,7 +748,7 @@ const getAllGoods = async () => ({
               "https://lh3.googleusercontent.com/pw/AM-JKLVmPHTuebl5kdibEHrLQHJQ_MlkLGKNn40VWHyCjgWDmEMCJ4KNpq7IpGU9zZ0r16Gg-fMZj_Hzte3uCNo78PLsVbl_887rMS-OBbxhnUK13QHY21uVUvaVKX48jRbUYE-t3sUUKwMp5cLNL3sVviNsog=w1372-h1012-no?authuser=0"],
             "description": "Салат з помідором, огірком зеленню та капустою",
             "category": "salad",
-            "prices": "55 грн / 250 грам"
+            "prices": "65 грн / 250 грам"
           },
           {
             "id": "Овочі гриль",
@@ -637,7 +759,19 @@ const getAllGoods = async () => ({
             ],
             "description": "Перелік овочів: болгарський перець, кабачок, баклажан, грибочки",
             "category": "snack",
-            "prices": "70 грн / 350 грам"
+            "prices": "95 грн / 350 грам"
+          },
+          {
+            "id": "Салат Гніздо Глухаря",
+            "name": "Салат Гніздо Глухаря",
+            "isNew": false,
+            "isPreOrder": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLW_gVDkhmvgzQcCGRqvTeWlbmzGa1qqtmCiyPyL7Ycq_WDK5Grd3GpRmexLGAmNKB3gcW-Wt2b55bSUEwSJ2bEKtoIuhS594MAfbHsvAt5wId64b-qU6Sv6V4k-rFCLXMluWCggmcuo46W97ntwSD84_A=w614-h360-no?authuser=0"
+            ],
+            "description": "",
+            "category": "salad",
+            "prices": "150 грн / 500 грам"
           },
           // {
           //   "id": "Салат з качкою та карамелізованими яблуками",
@@ -662,7 +796,7 @@ const getAllGoods = async () => ({
               "https://lh3.googleusercontent.com/pw/AM-JKLXEnajF5fxijtwMgOkX05ylxOu7nTZ893E2Cl5fdhwiyrEZrxXknO2_Ds8yzGCTiIKopd2_S02JRfF8rnLceDv3H_JvyBPHY_fPUCF5FGdFTuqj_8_eHpb1aMWC-aKyWfz6graxAl1jhySrhAxVsBYryg=w482-h414-no?authuser=0"],
             "description": "Ароматний, соковитий стейк з свинної корейки середньої прожарки",
             "category": "meat",
-            "prices": "45 грн / 100 грам"
+            "prices": "480 грн / кг"
           }, 
           {
             "id": "Стейк курячий",
@@ -672,8 +806,32 @@ const getAllGoods = async () => ({
               "https://lh3.googleusercontent.com/pw/AM-JKLWe3BzwWI5IZcncGNLg-dBSNGJ_djwdqX8kPcOeG_C2nvZtEnhiqHcUud-6Sc4FqPEP83kTXTmG9B4GLZMeTKTbv0fKv7GSD24JSARui_y79DwYMasgiavOMwC_MuJ6Jc-095p9gQ56G1LoO8RE5TNVvw=w627-h470-no?authuser=0"],
             "description": "Апетний, соковитий стейк курячий, середньої прожарки",
             "category": "meat",
-            "prices": "35 грн / 100 грам"
-          }
+            "prices": "450 грн / кг"
+          },
+          {
+            "id": "Шашлик з свинини",
+            "name": "Шашлик з свинини",
+            "isNew": false,
+            "isPreOrder": true,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AMWts8Dhcw_8xTI11C8AfQgsUlrN9dGumwKmc1kfrHJW60L0OUFTsszi4qmjinC-Vqmb5tXCvDlRG3stpsxJ_d5jrITkPWKconA5ZJioD3VsFmoChRYmk3jeuddBq2_p8K9waSiRAirvyoWtLXwDNCBBLqrCrg=w1201-h1197-no?authuser=0"
+            ],
+            "description": "",
+            "category": "kids",
+            "prices": "600 грн / кг"
+          },
+          {
+            "id": "Шашлик з курятини",
+            "name": "Шашлик з курятини",
+            "isNew": false,
+            "isPreOrder": true,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AM-JKLV-lRHM7QpXqNHGItKztsVrWJ3CsBJBX0SfP5s2qlj856Kp1kTQUKJdCkZgY7ZpS6kOg4WNf7ulgSYLIYsP5slx08HC7e1wK1b-hJpN7eamfs7h7kD2CCdydPlxjDr_P-scWrAY7vVIc6WNmyDe6zWkZw=w1117-h923-no?authuser=0"
+            ],
+            "description": "",
+            "category": "kids",
+            "prices": "450 грн / кг"
+          },
         ]
       },
       {
@@ -713,7 +871,19 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "pre-order",
-            "prices": "100 грн / 300 грам"
+            "prices": "140 грн / 300 грам"
+          },
+          {
+            "id": "Рулети з крем-сиром та лососем",
+            "name": "Рулети з крем-сиром та лососем",
+            "isNew": false,
+            "isPreOrder": true,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AMWts8Cpl9th_x2ObMCoXbX4AWgCa3o6QUDPuS2K4FKN8zjtTDq1sjM81y-8KluvEdwV__pO6ela_RS1UKkzmpL_ss1FJwD07V5jnhzLTIJdUto8lPeFwc5V7AqePmu2t6ksMS2oRt9l595eWU7SZJJdCTSdYg=w995-h533-no?authuser=0"
+            ],
+            "description": "",
+            "category": "pre-order",
+            "prices": "150 грн / 280 г"
           },
           {
             "id": "Домашня ковбаса",
@@ -737,7 +907,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "pre-order",
-            "prices": "55 грн / 300 грам"
+            "prices": "75 грн / 300 грам"
           },
           {
             "id": "Заливний язик",
@@ -749,7 +919,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "pre-order",
-            "prices": "120 грн / 350 грам"
+            "prices": "180 грн / 350 грам"
           },
           {
             "id": "Заливна риба з морепродуктами",
@@ -761,7 +931,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "pre-order",
-            "prices": "250 грн"
+            "prices": "270 грн"
           },
           {
             "id": "Котлета делікатесна",
@@ -773,7 +943,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "pre-order",
-            "prices": "35 грн / шт"
+            "prices": "40 грн / шт"
           },
           {
             "id": "Теплий салат з курячою печінкою",
@@ -785,7 +955,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "pre-order",
-           "prices": "120 грн / 280 грам"
+           "prices": "155 грн / 280 грам"
           },
           {
             "id": "Салат Байден",
@@ -797,7 +967,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "pre-order",
-            "prices": "120 грн / 300 грам"
+            "prices": "145 грн / 300 грам"
           },
           {
             "id": "Салат Гніздо Глухаря",
@@ -809,7 +979,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "pre-order",
-            "prices": "130 грн / 500 грам"
+            "prices": "150 грн / 500 грам"
           },
           {
             "id": "Перепілка гриль",
@@ -821,7 +991,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "pre-order",
-           "prices": "55 грн / шт"
+           "prices": "65 грн / шт"
           },
               {
             "id": "Рулька в медово-гірчичному соусі",
@@ -833,7 +1003,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Подається з картоплею по-селянськи",
             "category": "pre-order",
-           "prices": "280 грн / кг"
+           "prices": "320 грн / кг"
           },
           {
             "id": "Хачапурі з сиром",
@@ -857,7 +1027,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Соковиті медальйони з свинної вирізки з додаванням кисло-солодкого соусу з вишень",
             "category": "pre-order",
-            "prices": "140 грн / 300 грам"
+            "prices": "180 грн / 300 грам"
           },
           {
             "id": "Курча табака",
@@ -869,7 +1039,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "pre-order",
-            "prices": "130 грн / шт"
+            "prices": "145 грн / шт"
           },
           {
             "id": "Курячий бульйон",
@@ -925,11 +1095,11 @@ const getAllGoods = async () => ({
             "isNew": false,
             "isPreOrder": true,
             "gallery": [
-              "pre.webp"
+              "https://lh3.googleusercontent.com/pw/AMWts8Dhcw_8xTI11C8AfQgsUlrN9dGumwKmc1kfrHJW60L0OUFTsszi4qmjinC-Vqmb5tXCvDlRG3stpsxJ_d5jrITkPWKconA5ZJioD3VsFmoChRYmk3jeuddBq2_p8K9waSiRAirvyoWtLXwDNCBBLqrCrg=w1201-h1197-no?authuser=0"
             ],
             "description": "",
             "category": "kids",
-            "prices": "50 грн / 100 грам"
+            "prices": "600 грн / кг"
           },
           {
             "id": "Шашлик з курятини",
@@ -941,7 +1111,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "kids",
-            "prices": "40 грн / 100 грам"
+            "prices": "450 грн / кг"
           },
           //    {
           //   "id": "Узвар",
@@ -1018,9 +1188,9 @@ const getAllGoods = async () => ({
           {
             "id": "Тірамісу",
             "name": "Тірамісу",
-            "isNew": true,
+            "isNew": false,
             "gallery": [
-              ""
+              "https://lh3.googleusercontent.com/pw/AMWts8BQQ1vsRw1g9A9bhYSMVl4ZrZeRwDIQj8QJ7zf_armUDaXC30t0bZwLZ-tvxK7yJhgcVTwqfPQaq6Qjl7ke-bDMMT662AjnEJvXgHVm1fdJ-Mw8UMb7A7qs8qHo_TYxgTDCg7hB_GvQviUwz7BvrL6U_w=w806-h753-no?authuser=0"
             ],
             "description": "",
             "category": "dessert",
@@ -1033,14 +1203,14 @@ const getAllGoods = async () => ({
         "products": [
           {
             "id": "Лате",
-            "name": "Лате",
+            "name": "Лате / Maxi Лате / Айріш Лате",
             "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLWt4BCbyVjbsyYyJi5I4pMwTTU2rnLA1Q9SyDen0A1Zu7Zpy1blrkrD0mSJDJUwrCGZkJQYTnzDKTdjGRHYEhxmqDGXUhAu0fYEF1hXon0ghB-YmNQ46txmblQlISS6j8_B9MTdBm3zr__voNAIAhZA-w=w1086-h1052-no?authuser=0"
             ],
             "description": "",
             "category": "drinks",
-            "prices": "22 грн / 250 мл, 27 грн / 350 мл"
+            "prices": "22 грн / 250 мл, 27 грн / 350 мл, 28 грн"
           },
           {
             "id": "Американо",
@@ -1161,7 +1331,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Горілка, лікер Triple Sec, сироп диня, апельсиновий сік, лимонний сік, содова",
             "category": "drinks",
-            "prices": "55 грн / 180 мл"
+            "prices": "110 грн / 180 мл"
           },
           {
             "id": "Американський виноград",
@@ -1172,7 +1342,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Текіла, лікер Triple Sec, виноградний сік, содова",
             "category": "drinks",
-            "prices": "60 грн / 225 мл"
+            "prices": "130 грн / 225 мл"
           },
           {
             "id": "Апероль з апельсиновим соком",
@@ -1183,7 +1353,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Апероль, апельсиновий сік",
             "category": "drinks",
-            "prices": "70 грн / 250 мл"
+            "prices": "130 грн / 250 мл"
           },
           {
             "id": "Апероль з віскі",
@@ -1194,7 +1364,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Віскі, апероль, лимонний фреш, содова",
             "category": "drinks",
-            "prices": "70 грн / 110 мл"
+            "prices": "160 грн / 110 мл"
           },
           {
             "id": "Бажання Анни",
@@ -1205,7 +1375,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Ром темний, лікер Triple Sec, ананасовий сік",
             "category": "drinks",
-            "prices": "60 грн / 220 мл"
+            "prices": "140 грн / 220 мл"
           },
           {
             "id": "Біла леді",
@@ -1216,7 +1386,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Джин, лікер Triple Sec, лимонний сік",
             "category": "drinks",
-            "prices": "50 грн / 100 мл"
+            "prices": "110 грн / 100 мл"
           },
           {
             "id": "Велика кахуна",
@@ -1227,7 +1397,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Джин, лікер Triple Sec, солодкий вермут, ананасовий сік",
             "category": "drinks",
-            "prices": "50 грн / 135 мл"
+            "prices": "120 грн / 135 мл"
           },
           {
             "id": "Джангл Джус",
@@ -1238,18 +1408,29 @@ const getAllGoods = async () => ({
             ],
             "description": "Джин, лікер Pisang, лимонний фреш, апельсиновий сік",
             "category": "drinks",
-            "prices": "60 грн / 190 мл"
+            "prices": "130 грн / 190 мл"
           },
           {
             "id": "Джавеліна",
             "name": "Джавеліна 🇺🇦",
-            "isNew": true,
+            "isNew": false,
             "gallery": [
               "https://lh3.googleusercontent.com/pw/AM-JKLV3xidcPdzm81KzBKjq37U1QngASBEPGMogu_7thpDtnosJc8cYXWGSXvpSvuo9vHY6BGeuRlLuje83bexfkbBgrBUfZJHl63gBtiJzoKh03qdgoii9fxEcNsgpna5UA-Ege5iFbFlfijy9M4sYHwxbcA=w641-h895-no?authuser=0"
             ],
             "description": "Секретний рецепт кожного українця",
             "category": "drinks",
-            "prices": "55 грн / 330 мл"
+            "prices": "150 грн / 330 мл"
+          },
+          {
+            "id": "Джонсонюк",
+            "name": "Джонсонюк  🔞",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AMWts8AtTyUh5B5icmhr564tMGgOFK2mc4n27KSzObdHitNb8QuWkcI80m2NDaPNRYpgjiXMWdx6gXjZRaL0vu8fENsZg6kHlv0mA64i1hdEtje4K0Tkn5vgqSlMAywggQZR-BwDxj-nHiAkcoxXbBbuFnXvyg=w526-h874-no?authuser=0"
+            ],
+            "description": "",
+            "category": "drinks",
+            "prices": "110 грн / 180 мл"
           },
           {
             "id": "Лонг айленд",
@@ -1260,7 +1441,18 @@ const getAllGoods = async () => ({
             ],
             "description": "Ром, джин, текіла, горілка, апельсиновий сік, лимонний фреш, кола",
             "category": "drinks",
-            "prices": "65 грн / 190 мл"
+            "prices": "160 грн / 190 мл"
+          },
+          {
+            "id": "Нахабна мавпа",
+            "name": "Нахабна мавпа 🔞",
+            "isNew": false,
+            "gallery": [
+              ""
+            ],
+            "description": "",
+            "category": "drinks",
+            "prices": "125 грн / 110 мл"
           },
           {
             "id": "Космополітен",
@@ -1271,7 +1463,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Горілка, лікер Triple Sec, лимонний фреш, журавлиний сік",
             "category": "drinks",
-            "prices": "50 грн / 110 мл"
+            "prices": "110 грн / 110 мл"
           },
           {
             "id": "Каліфорнійський гвинт",
@@ -1282,7 +1474,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Горілка, грейпфрутовий сік, апельсиновий сік",
             "category": "drinks",
-            "prices": "50 грн / 120 мл"
+            "prices": "110 грн / 120 мл"
           },
           {
             "id": "Піна колада",
@@ -1293,7 +1485,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Ром світлий, сироп Pina Colada, ананасовий сік",
             "category": "drinks",
-            "prices": "55 грн / 150 мл"
+            "prices": "140 грн / 150 мл"
           },
           {
             "id": "Рідка Марихуана",
@@ -1304,7 +1496,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Ром світлий, лікер Coconut, лікер Curacao, лікер Green Aplle, сік лайма або лимона, ананасовий сік",
             "category": "drinks",
-            "prices": "65 грн / 160 мл"
+            "prices": "135 грн / 160 мл"
           },
           {
             "id": "Рожевий лимонад",
@@ -1315,7 +1507,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Горілка, лікер Triple Sec, морс, лимонний фреш, сік лаймy, содова",
             "category": "drinks",
-            "prices": "60 грн / 210 мл"
+            "prices": "150 грн / 210 мл"
           },
           {
             "id": "Самбука Ларнака",
@@ -1326,7 +1518,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Самбука, лікер Triple Sec, апельсиновий сік",
             "category": "drinks",
-            "prices": "55 грн / 150 мл"
+            "prices": "140 грн / 150 мл"
           },
           {
             "id": "Секс на пляжі",
@@ -1337,7 +1529,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Горілка, лікер Peach, апельсиновий сік, журавлиновий сік",
             "category": "drinks",
-            "prices": "60 грн / 200 мл"
+            "prices": "140 грн / 200 мл"
           },
           {
             "id": "Блакитна лагуна",
@@ -1348,7 +1540,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Лікер Curacao, Лимонний фреш, содова",
             "category": "drinks",
-            "prices": "50 грн / 200 мл"
+            "prices": "145 грн / 200 мл"
           },
           {
             "id": "Снукер",
@@ -1359,7 +1551,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Горілка, лікер Melon, сироп Caramel, журавлиновий морс",
             "category": "drinks",
-            "prices": "55 грн / 170 мл"
+            "prices": "135 грн / 170 мл"
           },
           {
            "id": "Tropical beer",
@@ -1370,7 +1562,7 @@ const getAllGoods = async () => ({
            ],
            "description": "Пиво, ананасовий,кокосовий сиропи,апельсиновий сік",
            "category": "drinks",
-            "prices": "45 грн / 350 мл"
+            "prices": "75 грн / 350 мл"
          },
          {
            "id": "Хвиля Малібу",
@@ -1381,7 +1573,7 @@ const getAllGoods = async () => ({
            ],
            "description": "Текіла, лікер Triple Sec, лікер Blue curacao, цукровий сироп, лимонний сік",
            "category": "drinks",
-            "prices": "50 грн / 110 мл"
+            "prices": "135 грн / 110 мл"
          },
          {
            "id": "Гавайський",
@@ -1392,7 +1584,7 @@ const getAllGoods = async () => ({
            ],
            "description": "Джин, лікер Triple Sec, ананасовий сік",
            "category": "drinks",
-            "prices": "55 грн / 90 мл"
+            "prices": "120 грн / 90 мл"
          },
          {
             "id": "Сайдкар",
@@ -1403,7 +1595,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Бренді, лікер Curacao, лимонний сік",
             "category": "drinks",
-            "prices": "50 грн / 90 мл"
+            "prices": "125 грн / 90 мл"
           },
           {
             "id": "Камікадзе",
@@ -1414,7 +1606,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Горілка, лікер Triple Sec, сік лайму",
             "category": "drinks",
-            "prices": "45 грн / 90 мл"
+            "prices": "110 грн / 90 мл"
           },
           {
             "id": "Челсі сайдкар",
@@ -1425,7 +1617,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Джин, лікер Triple Sec, лимонний сік",
             "category": "drinks",
-            "prices": "45 грн / 60 мл"
+            "prices": "125 грн / 60 мл"
           },
           {
             "id": "Синій понеділок",
@@ -1436,7 +1628,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Горілка, лікер Triple Sec, лікер Blue curacao",
             "category": "drinks",
-            "prices": "45 грн / 40 мл"
+            "prices": "95 грн / 40 мл"
           },
           {
             "id": "Палаюча самбука ",
@@ -1447,7 +1639,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "drinks",
-            "prices": "45 грн / 40 мл"
+            "prices": "110 грн / 40 мл"
           },
           {
             "id": "B-53",
@@ -1458,7 +1650,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Шот - Абсент, крем лікер Via Lattea, лікер Creme de cafe",
             "category": "drinks",
-            "prices": "45 грн / 50 мл"
+            "prices": "70 грн / 50 мл"
           },
           {
             "id": "Brendbar",
@@ -1469,7 +1661,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "drinks",
-            "prices": "45 грн /50 мл"
+            "prices": "70 грн /50 мл"
           },{
             "id": "Зелений мексиканець",
             "name": "Зелений мексиканець  🔞",
@@ -1479,7 +1671,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Текіла, лимонний фреш, лікер Pisang",
             "category": "drinks",
-            "prices": "45 грн / 50 мл"
+            "prices": "65 грн / 50 мл"
           },
           {
             "id": "Слава Україні",
@@ -1490,7 +1682,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Героям Слава!",
             "category": "drinks",
-            "prices": "45 грн / 50 мл"
+            "prices": "65 грн / 50 мл"
           },
           {
             "id": "Хіросіма",
@@ -1501,7 +1693,7 @@ const getAllGoods = async () => ({
             ],
             "description": "Абсент Vincent, Крем-лікер Via Lattea, Самбука Ibiza, сироп Grenadine",
             "category": "drinks",
-            "prices": "45 грн / 50 мл"
+            "prices": "75 грн / 50 мл"
           }, 
           {
             "id": "Шоти в асортименті",
@@ -1512,7 +1704,73 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "drinks",
-            "prices": "30 грн /50 мл"
+            "prices": "55 грн /50 мл"
+          },
+          {
+            "id": "Палаючий",
+            "name": "Палаючий 🔞",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AMWts8BlQO6S6MQPdOL-ZkcwsJYI1iJvy1_A1TpcHtcEtkS_FGJtWWtX3-4IhxXOmJtDkpn4AIrSY8P624ZLhTN7vkBomC61avNnbhzRuHMH65bkEfQCj5aIGQH_tP2GCZ2721LDon1S_A7J0NoD6QfMXx2dvA=w744-h973-no?authuser=0"
+            ],
+            "description": "",
+            "category": "drinks",
+            "prices": "70 грн /50 мл"
+          },
+          {
+            "id": "Гріхи Юлії",
+            "name": "Гріхи Юлії 🔞",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AMWts8DZ-urcfWlmZoEWrxO7-ezXkNyJMqN2CoCvHI1VPePqC96BvCBqEpPdCHXoBvj_U2H7VctSSQojs2TLGv8YoHHD3TTvby7P6eZbl2eMmyHLzPPLMf90flRk98Ju9wkwqioPgJecsixPUfrAjH82aysBaA=w683-h917-no?authuser=0"
+            ],
+            "description": "",
+            "category": "drinks",
+            "prices": "65 грн /50 мл"
+          },
+          {
+            "id": "Медуза",
+            "name": "Медуза 🔞",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AMWts8BCOLt9UkgdZ4508hr17Rcp6E-MM12-Epqq3atD_REMw7MXR6CRCNZ3cu_l7HpAUXA-yGTM1GWBle38Rovo27koM57GRDcVUr7hXp7654TGhklQSioMi0xQcoivQj35km29BvVtGi1BdoX-xlkYyPnc9w=w838-h1302-no?authuser=0"
+            ],
+            "description": "",
+            "category": "drinks",
+            "prices": "70 грн /50 мл"
+          },
+          {
+            "id": "Кураж",
+            "name": "Кураж 🔞",
+            "isNew": false,
+            "gallery": [
+              "https://lh3.googleusercontent.com/pw/AMWts8Bh7GZIIto_swIj36yH5uIFUrPgGpgM2bl3IzlXe7dMiWw8fP9VC_ln6t6gOuYw24WQmzGRFCluLFYwaTsp3nvDVbQ6PzH6fgKmQiOnpp6yofgaqKOGUK60C-CVAQ3hMeIyp482gSbgdR-1EztTWQtvQw=w896-h1373-no?authuser=0"
+            ],
+            "description": "",
+            "category": "drinks",
+            "prices": "70 грн /50 мл"
+          },
+          {
+            "id": "Козацький драйв",
+            "name": "Козацький драйв 🔞",
+            "isNew": false,
+            "gallery": [
+              ""
+            ],
+            "description": "",
+            "category": "drinks",
+            "prices": "60 грн /50 мл"
+          },
+          {
+            "id": "В-52",
+            "name": "В-52 🔞",
+            "isNew": false,
+            "gallery": [
+              ""
+            ],
+            "description": "",
+            "category": "drinks",
+            "prices": "70 грн /50 мл"
           },
         ]
       },
@@ -1528,7 +1786,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "event",
-            "prices": "70 грн / год"
+            "prices": "100 грн / год"
           },
           {
             "id": "Кальян ТАБАК JIBIAR / Табак Smoky Bull",
@@ -1550,7 +1808,7 @@ const getAllGoods = async () => ({
             ],
             "description": "",
             "category": "event",
-            "prices": "50 грн / год"
+            "prices": "80 грн / год"
           }
         ]
       }

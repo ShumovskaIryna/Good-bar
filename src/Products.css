@@ -2,7 +2,7 @@
   div .product-card {
     position: relative;
     width: 250px;
-    height: 350px;
+    height: 300px;
     left: -10px;
     top: 0px;
     overflow: hidden;
@@ -24,15 +24,16 @@
     justify-content: flex-start;
     align-items: center;
     width: 250px;
-    height: 350px;
+    height: 320px;
     background-color: rgba(0, 0, 0, 0.4);
     flex: none;
     order: 0;
     flex-grow: 0;
   }
   .gallery {
-    max-width: 250px;
-    height: 270px;
+    max-width: 180px;
+    height: 160px;
+    margin-top: 10px;
     object-fit: contain;
     cursor:pointer;
     overflow: hidden;
