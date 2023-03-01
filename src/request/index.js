@@ -1426,7 +1426,7 @@ const getAllGoods = async () => ({
             "name": "Джонсонюк  🔞",
             "isNew": false,
             "gallery": [
-              "https://lh3.googleusercontent.com/pw/AMWts8AtTyUh5B5icmhr564tMGgOFK2mc4n27KSzObdHitNb8QuWkcI80m2NDaPNRYpgjiXMWdx6gXjZRaL0vu8fENsZg6kHlv0mA64i1hdEtje4K0Tkn5vgqSlMAywggQZR-BwDxj-nHiAkcoxXbBbuFnXvyg=w526-h874-no?authuser=0"
+              "https://lh3.googleusercontent.com/pw/AMWts8BbIZexfYLJabkFFkKbd1Q9lF_hoiERgd927EXg5ehN7EAD4XzbLmp7UIuEgGjrhZxj1PfPOz4uFRltE1Oy9yRY9Cvv8_NSMYgY0TkK6d8Dg4jKlmHvhGq0LcI09yKvz4dqU9UeI9V2xfeqJAWD7Nr2tw=w526-h874-no?authuser=0"
             ],
             "description": "",
             "category": "drinks",

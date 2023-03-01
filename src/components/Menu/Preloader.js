@@ -1,17 +1,17 @@
 import React from 'react';
 
-// document.body.onload = function () {
-//   setTimeout(function () {
-//     const preloader = document.getElementById("page-preloader");
-//     // const alarm = document.getElementById("alarm");
-//     if (!preloader.classList.contains("done")) {
-//       preloader.classList.add("done")
-//       // if (!alarm.classList.contains("alarm-is")) {
-//       //   alarm.classList.add("alarm-is")
-//       // }
-//     }
-//   }, 500);
-// }
+document.body.onload = function () {
+  setTimeout(function () {
+    const preloader = document.getElementById("page-preloader");
+    // const alarm = document.getElementById("alarm");
+    if (!preloader.classList.contains("done")) {
+      preloader.classList.add("done")
+      // if (!alarm.classList.contains("alarm-is")) {
+      //   alarm.classList.add("alarm-is")
+      // }
+    }
+  }, 300);
+}
 export default function Preloader() {
   return (
     <div className="preloader" id="page-preloader">
