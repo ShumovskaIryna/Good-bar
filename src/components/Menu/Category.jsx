@@ -1,13 +1,15 @@
-import React, { useState } from 'react';
-import Constants from '../../Constants';
+import React from 'react';
 
 export default function Category(props) {
-    const [categoryName] = useState(props.categoryName)
-    return (
-        <div className="element" id="element" 
-            onClick={() => props.chooseCategory(categoryName)}>
-            <label>{categoryName}:
-            </label>    
-        </div>
-    )
+  const { categoryName, chooseCategory, selectedCategory } = props;
+
+  return (
+    <div
+      className={`element ${selectedCategory === categoryName ? 'active' : ''}`}
+      id="element"
+      onClick={() => chooseCategory(categoryName)}
+    >
+      <label>{categoryName}</label>
+    </div>
+  );
 }
