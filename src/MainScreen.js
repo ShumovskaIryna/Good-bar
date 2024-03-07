@@ -1,57 +1,54 @@
-import React, { Component } from 'react'
+import React, { useEffect, useState } from 'react';
 import { getAllGoods } from './request';
 import constants from './Constants';
 import Preloader from './components/Menu/Preloader';
 import Categories from './components/Menu/Categories';
 import Products from './components/Products/Products';
 
-export default class StartScreen extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      currentProducts: {},
-      category: constants.products.APPETIZER
-    };  
-    this.chooseCategory = this.chooseCategory.bind(this);
-  }
-  async componentDidMount() {
-    const { category } = this.state;
-    const { data } = await getAllGoods();
-    const currentProducts = data.categories.find((el) => el.name === category);
-    this.setState(() => ({
-      currentProducts,
-      data
-    }));
-  }
-  chooseCategory(category) {
-    this.setState(() => ({
-      category,
-      currentProducts: this.state.data.categories.find((el) => el.name === category),
-    }));
-  }
-  render() {
-   const { currentProducts} = this.state;
-    return (
-      Object.keys(currentProducts).length
-      ? (
-          <>
-            <span >
-              <img src="logo.webp" alt="logo" className="logo"/>
+export default function StartScreen() {
+  const [currentProducts, setCurrentProducts] = useState({});
+  const [category, setCategory] = useState(constants.products.APPETIZER);
+  const [data, setData] = useState(null);
+
+  const chooseCategory = (selectedCategory) => {
+    setCategory(selectedCategory);
+    setCurrentProducts(data.categories.find((el) => el.name === selectedCategory));
+  };
+
+  useEffect(() => {
+    const fetchData = async () => {
+      const { data } = await getAllGoods();
+      const initialProducts = data.categories.find((el) => el.name === category);
+
+      setData(data);
+      setCurrentProducts(initialProducts);
+    };
+
+    fetchData();
+  }, [category]);
+
+  return (
+    <>
+      {Object.keys(currentProducts).length ? (
+        <>
+          <header>
+            <span>
+              <img src="logo.webp" alt="logo" className="logo" />
             </span>
-            <span >
-              <img src="LABEL.webp" alt="logo" className="label"/>
+            <span>
+              <img src="LABEL.webp" alt="logo" className="label" />
             </span>
             <Categories
-              allCategories={this.state.data}
-              chooseCategory={this.chooseCategory}
+              allCategories={data}
+              chooseCategory={chooseCategory}
               currentProducts={currentProducts}
             />
-            <Products
-              products={currentProducts}
-              chooseCategory={this.chooseCategory}
-            />
-          </>
-        ) : <Preloader />
-    );
-  }
+          </header>
+          <Products products={currentProducts} chooseCategory={chooseCategory} />
+        </>
+      ) : (
+        <Preloader />
+      )}
+    </>
+  );
 }
