@@ -1,6 +1,4 @@
-import React from 'react'; 
-import Products from '../Products/Products';
-import VladTest from './VladTest';
+import Category from './Category';
 
 export default function Categories(props) {
   const {
@@ -9,16 +7,17 @@ export default function Categories(props) {
     allCategories,
   } = props;
   return (
-    <div className="categories">
-      <VladTest
-        chooseCategory={chooseCategory}
-        currentProducts={currentProducts}
-        allCategories={allCategories}
-      />
-      <Products
-        products={currentProducts}
-        chooseCategory={chooseCategory}
-      />
-    </div>
+    <>
+      <div className="categories">
+        {allCategories.categories.map(({ name }, index) => (
+            <Category
+              key={index}
+              chooseCategory={chooseCategory}
+              categoryName={name}
+              products={currentProducts}
+            />
+        ))}
+      </div>
+    </>
   )
 }

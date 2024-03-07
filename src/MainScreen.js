@@ -1,8 +1,9 @@
 import React, { Component } from 'react'
-import Menu from './components/Menu/Menu';
 import { getAllGoods } from './request';
 import constants from './Constants';
 import Preloader from './components/Menu/Preloader';
+import Categories from './components/Menu/Categories';
+import Products from './components/Products/Products';
 
 export default class StartScreen extends Component {
   constructor(props) {
@@ -33,13 +34,23 @@ export default class StartScreen extends Component {
     return (
       Object.keys(currentProducts).length
       ? (
-        <div className="wrapper">
-          <Menu
-            allCategories={this.state.data}
-            chooseCategory={this.chooseCategory}
-            currentProducts={currentProducts}
-          />
-        </div>
+          <>
+            <span >
+              <img src="logo.webp" alt="logo" className="logo"/>
+            </span>
+            <span >
+              <img src="LABEL.webp" alt="logo" className="label"/>
+            </span>
+            <Categories
+              allCategories={this.state.data}
+              chooseCategory={this.chooseCategory}
+              currentProducts={currentProducts}
+            />
+            <Products
+              products={currentProducts}
+              chooseCategory={this.chooseCategory}
+            />
+          </>
         ) : <Preloader />
     );
   }
